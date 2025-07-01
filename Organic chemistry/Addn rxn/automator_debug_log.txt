@@ -1,0 +1,9 @@
+--- Starting Debug Run at Tue Jul  1 16:22:34 IST 2025 ---
+Log file will be saved at: /Users/mohansahu/Documents/GitHub/organic-chemistry/Organic chemistry/Addn rxn/automator_debug_log.txt
+Script started.
+REPO_PATH is set to: /Users/mohansahu/Documents/GitHub/organic-chemistry
+GIT_PATH is set to: /usr/local/bin/git
+File passed to script is: /Users/mohansahu/Documents/GitHub/organic-chemistry/Organic chemistry/Addn rxn/addn rxn.svg
+Changing directory to REPO_PATH...
+Successfully changed directory.
+Attempting: git add .

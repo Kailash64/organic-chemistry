@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="addn rxn.cdxml"
- BoundingBox="129.57 163.75 533.49 322.19"
+ BoundingBox="129.57 152.75 533.49 322.19"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -79,7 +79,7 @@
 <font id="68" charset="x-mac-roman" name="Arial"/>
 <font id="803" charset="x-mac-roman" name="Times New Roman"/>
 </fonttable><page
- id="306"
+ id="336"
  BoundingBox="0 0 1524.71 1016.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -346,6 +346,132 @@
  B="298"
  E="290"
  BS="N"
+/></fragment><fragment
+ id="308"
+ BoundingBox="352.52 158.75 400.55 209.25"
+ Z="96"
+><n
+ id="305"
+ p="353.35 169"
+ Z="93"
+ AS="N"
+/><n
+ id="307"
+ p="353.35 199"
+ Z="95"
+ AS="N"
+/><n
+ id="309"
+ p="381.89 208.27"
+ Z="97"
+ AS="N"
+/><n
+ id="311"
+ p="399.52 184"
+ Z="99"
+ AS="N"
+/><n
+ id="313"
+ p="381.89 159.73"
+ Z="101"
+ AS="N"
+/><b
+ id="315"
+ Z="103"
+ B="305"
+ E="307"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="319 0 0 316"
+/><b
+ id="316"
+ Z="104"
+ B="307"
+ E="309"
+ BS="N"
+/><b
+ id="317"
+ Z="105"
+ B="309"
+ E="311"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="316 0 0 318"
+/><b
+ id="318"
+ Z="106"
+ B="311"
+ E="313"
+ BS="N"
+/><b
+ id="319"
+ Z="107"
+ B="313"
+ E="305"
+ BS="N"
+/></fragment><fragment
+ id="323"
+ BoundingBox="423.52 152.75 471.55 203.25"
+ Z="111"
+><n
+ id="320"
+ p="424.35 163"
+ Z="108"
+ AS="N"
+/><n
+ id="322"
+ p="424.35 193"
+ Z="110"
+ AS="N"
+/><n
+ id="324"
+ p="452.89 202.27"
+ Z="112"
+ AS="N"
+/><n
+ id="326"
+ p="470.52 178"
+ Z="114"
+ AS="N"
+/><n
+ id="328"
+ p="452.89 153.73"
+ Z="116"
+ AS="N"
+/><b
+ id="330"
+ Z="118"
+ B="320"
+ E="322"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="334 0 0 331"
+/><b
+ id="331"
+ Z="119"
+ B="322"
+ E="324"
+ BS="N"
+/><b
+ id="332"
+ Z="120"
+ B="324"
+ E="326"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="331 0 0 333"
+/><b
+ id="333"
+ Z="121"
+ B="326"
+ E="328"
+ BS="N"
+/><b
+ id="334"
+ Z="122"
+ B="328"
+ E="320"
+ BS="N"
 /></fragment><t
  id="35"
  p="420.75 283.50"
@@ -355,7 +481,7 @@
  LineHeight="auto"
 ><s font="803" size="12">Nu</s><s font="803" size="12" face="64">-</s></t><graphic
  id="285"
- SupersededBy="307"
+ SupersededBy="337"
  BoundingBox="297.75 293.25 228.75 293.25"
  Z="50"
  GraphicType="Line"
@@ -363,7 +489,7 @@
  HeadSize="1000"
 /><graphic
  id="286"
- SupersededBy="308"
+ SupersededBy="338"
  BoundingBox="232.36 273.81 208.88 314.47"
  Z="61"
  color="6"
@@ -373,7 +499,7 @@
  AngularSize="-90"
 /><graphic
  id="287"
- SupersededBy="309"
+ SupersededBy="339"
  BoundingBox="275.54 265.69 262.47 262.19"
  Z="62"
  color="6"
@@ -383,7 +509,7 @@
  AngularSize="-270"
 /><graphic
  id="288"
- SupersededBy="310"
+ SupersededBy="340"
  BoundingBox="449.25 292.50 411.75 292.50"
  Z="64"
  GraphicType="Line"
@@ -397,7 +523,7 @@
  SymbolType="LonePair"
 ><represent attribute="Radical" object="35"/></graphic><graphic
  id="289"
- SupersededBy="311"
+ SupersededBy="341"
  BoundingBox="347.44 254.61 374.18 290.29"
  Z="67"
  color="6"
@@ -406,29 +532,29 @@
  HeadSize="1000"
  AngularSize="120"
 /><scheme
- id="312"
+ id="342"
 ><step
- id="313"
+ id="343"
  ReactionStepReactants="3"
  ReactionStepArrows="287"
 /><step
- id="314"
+ id="344"
  ReactionStepReactants="3"
  ReactionStepProducts="17"
  ReactionStepArrows="285"
 /><step
- id="315"
+ id="345"
  ReactionStepReactants="17"
  ReactionStepProducts="202"
  ReactionStepArrows="288"
  ReactionStepObjectsAboveArrow="35"
 /><step
- id="316"
+ id="346"
  ReactionStepReactants="202"
  ReactionStepProducts="17"
  ReactionStepArrows="289"
 /></scheme><arrow
- id="307"
+ id="337"
  BoundingBox="228.75 288.25 297.75 297.25"
  Z="50"
  FillType="None"
@@ -443,7 +569,7 @@
  MajorAxisEnd3D="427.12 406.88 0"
  MinorAxisEnd3D="358.12 475.88 0"
 /><arrow
- id="308"
+ id="338"
  BoundingBox="166.42 265.69 232.36 292.79"
  Z="61"
  color="6"
@@ -460,7 +586,7 @@
  MajorAxisEnd3D="255.83 314.47 0"
  MinorAxisEnd3D="208.88 361.42 0"
 /><arrow
- id="309"
+ id="339"
  BoundingBox="247.35 247.08 276.68 277.05"
  Z="62"
  color="6"
@@ -477,7 +603,7 @@
  MajorAxisEnd3D="276 262.19 0"
  MinorAxisEnd3D="262.47 275.71 0"
 /><arrow
- id="310"
+ id="340"
  BoundingBox="411.75 287.50 449.25 296.50"
  Z="64"
  FillType="None"
@@ -492,7 +618,7 @@
  MajorAxisEnd3D="638.62 405.75 0"
  MinorAxisEnd3D="601.12 443.25 0"
 /><arrow
- id="311"
+ id="341"
  BoundingBox="347.44 243.98 418.03 277.25"
  Z="67"
  color="6"
