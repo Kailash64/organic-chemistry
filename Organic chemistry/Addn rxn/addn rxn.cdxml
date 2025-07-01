@@ -79,7 +79,7 @@
 <font id="68" charset="x-mac-roman" name="Arial"/>
 <font id="803" charset="x-mac-roman" name="Times New Roman"/>
 </fonttable><page
- id="336"
+ id="351"
  BoundingBox="0 0 1524.71 1016.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -472,6 +472,69 @@
  B="328"
  E="320"
  BS="N"
+/></fragment><fragment
+ id="338"
+ BoundingBox="196.52 160.75 244.55 211.25"
+ Z="126"
+><n
+ id="335"
+ p="197.35 171"
+ Z="123"
+ AS="N"
+/><n
+ id="337"
+ p="197.35 201"
+ Z="125"
+ AS="N"
+/><n
+ id="339"
+ p="225.89 210.27"
+ Z="127"
+ AS="N"
+/><n
+ id="341"
+ p="243.52 186"
+ Z="129"
+ AS="N"
+/><n
+ id="343"
+ p="225.89 161.73"
+ Z="131"
+ AS="N"
+/><b
+ id="345"
+ Z="133"
+ B="335"
+ E="337"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="349 0 0 346"
+/><b
+ id="346"
+ Z="134"
+ B="337"
+ E="339"
+ BS="N"
+/><b
+ id="347"
+ Z="135"
+ B="339"
+ E="341"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="346 0 0 348"
+/><b
+ id="348"
+ Z="136"
+ B="341"
+ E="343"
+ BS="N"
+/><b
+ id="349"
+ Z="137"
+ B="343"
+ E="335"
+ BS="N"
 /></fragment><t
  id="35"
  p="420.75 283.50"
@@ -481,7 +544,7 @@
  LineHeight="auto"
 ><s font="803" size="12">Nu</s><s font="803" size="12" face="64">-</s></t><graphic
  id="285"
- SupersededBy="337"
+ SupersededBy="352"
  BoundingBox="297.75 293.25 228.75 293.25"
  Z="50"
  GraphicType="Line"
@@ -489,7 +552,7 @@
  HeadSize="1000"
 /><graphic
  id="286"
- SupersededBy="338"
+ SupersededBy="353"
  BoundingBox="232.36 273.81 208.88 314.47"
  Z="61"
  color="6"
@@ -499,7 +562,7 @@
  AngularSize="-90"
 /><graphic
  id="287"
- SupersededBy="339"
+ SupersededBy="354"
  BoundingBox="275.54 265.69 262.47 262.19"
  Z="62"
  color="6"
@@ -509,7 +572,7 @@
  AngularSize="-270"
 /><graphic
  id="288"
- SupersededBy="340"
+ SupersededBy="355"
  BoundingBox="449.25 292.50 411.75 292.50"
  Z="64"
  GraphicType="Line"
@@ -523,7 +586,7 @@
  SymbolType="LonePair"
 ><represent attribute="Radical" object="35"/></graphic><graphic
  id="289"
- SupersededBy="341"
+ SupersededBy="356"
  BoundingBox="347.44 254.61 374.18 290.29"
  Z="67"
  color="6"
@@ -532,29 +595,29 @@
  HeadSize="1000"
  AngularSize="120"
 /><scheme
- id="342"
+ id="357"
 ><step
- id="343"
+ id="358"
  ReactionStepReactants="3"
  ReactionStepArrows="287"
 /><step
- id="344"
+ id="359"
  ReactionStepReactants="3"
  ReactionStepProducts="17"
  ReactionStepArrows="285"
 /><step
- id="345"
+ id="360"
  ReactionStepReactants="17"
  ReactionStepProducts="202"
  ReactionStepArrows="288"
  ReactionStepObjectsAboveArrow="35"
 /><step
- id="346"
+ id="361"
  ReactionStepReactants="202"
  ReactionStepProducts="17"
  ReactionStepArrows="289"
 /></scheme><arrow
- id="337"
+ id="352"
  BoundingBox="228.75 288.25 297.75 297.25"
  Z="50"
  FillType="None"
@@ -569,7 +632,7 @@
  MajorAxisEnd3D="427.12 406.88 0"
  MinorAxisEnd3D="358.12 475.88 0"
 /><arrow
- id="338"
+ id="353"
  BoundingBox="166.42 265.69 232.36 292.79"
  Z="61"
  color="6"
@@ -586,7 +649,7 @@
  MajorAxisEnd3D="255.83 314.47 0"
  MinorAxisEnd3D="208.88 361.42 0"
 /><arrow
- id="339"
+ id="354"
  BoundingBox="247.35 247.08 276.68 277.05"
  Z="62"
  color="6"
@@ -603,7 +666,7 @@
  MajorAxisEnd3D="276 262.19 0"
  MinorAxisEnd3D="262.47 275.71 0"
 /><arrow
- id="340"
+ id="355"
  BoundingBox="411.75 287.50 449.25 296.50"
  Z="64"
  FillType="None"
@@ -618,7 +681,7 @@
  MajorAxisEnd3D="638.62 405.75 0"
  MinorAxisEnd3D="601.12 443.25 0"
 /><arrow
- id="341"
+ id="356"
  BoundingBox="347.44 243.98 418.03 277.25"
  Z="67"
  color="6"
