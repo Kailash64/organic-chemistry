@@ -26,9 +26,9 @@ Eu</text>
 <path stroke="#00ff00" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 5476.35,5096.54 C 5395,4971.36 5227.3,4935.73 5102.03,5017.02 C 4976.76,5098.3 4941.11,5265.89 5022.45,5391.06 C 5058.48,5446.5 5115.45,5487.87 5179.35,5504.98 " />
 <path stroke="none" fill="#00ff00" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 5510.78,5313.79 C 5510.78,5313.79 5408.36,5076.34 5408.36,5076.34 C 5408.36,5076.34 5449.25,5101.19 5476.35,5096.54 C 5503.45,5091.88 5534.5,5054.66 5534.5,5054.66 C 5534.5,5054.66 5510.78,5313.79 5510.78,5313.79 C 5510.78,5313.79 5510.78,5313.79 5510.78,5313.79 " />
 <path stroke="#00ff00" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 5510.78,5313.79 C 5510.78,5313.79 5408.36,5076.34 5408.36,5076.34 C 5408.36,5076.34 5449.25,5101.19 5476.35,5096.54 C 5503.45,5091.88 5534.5,5054.66 5534.5,5054.66 C 5534.5,5054.66 5510.78,5313.79 5510.78,5313.79 C 5510.78,5313.79 5510.78,5313.79 5510.78,5313.79 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9084.12,5866 L 8495,5866 L 8495,5834 L 9084.12,5834 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9245,5850 C 9245,5850 9060,5915 9060,5915 C 9060,5915 9083.12,5878.44 9083.12,5850 C 9083.12,5821.13 9060,5784 9060,5784 C 9060,5784 9245,5850 9245,5850 C 9245,5850 9245,5850 9245,5850 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9245,5850 C 9245,5850 9060,5915 9060,5915 C 9060,5915 9083.12,5878.44 9083.12,5850 C 9083.12,5821.13 9060,5784 9060,5784 C 9060,5784 9245,5850 9245,5850 C 9245,5850 9245,5850 9245,5850 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9084.08,5866 L 8495,5866 L 8495,5834 L 9084.08,5834 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9245,5850 C 9245,5850 9060.04,5915 9060.04,5915 C 9060.04,5915 9083.08,5878.45 9083.08,5850 C 9083.08,5821.11 9060.04,5784 9060.04,5784 C 9060.04,5784 9245,5850 9245,5850 C 9245,5850 9245,5850 9245,5850 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 9245,5850 C 9245,5850 9060.04,5915 9060.04,5915 C 9060.04,5915 9083.08,5878.45 9083.08,5850 C 9083.08,5821.11 9060.04,5784 9060.04,5784 C 9060.04,5784 9245,5850 9245,5850 C 9245,5850 9245,5850 9245,5850 " />
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 306.75 47.5)" font-style="normal" font-weight="normal" font-size="240px" font-family="Times New Roman" >
 Nu</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 321.416 43.5273)" font-style="normal" font-weight="normal" font-size="180px" font-family="Times New Roman" >
@@ -46,14 +46,14 @@ Eu</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 388.377 11.0237)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 Nu</text>
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -127 -236)" d="M 10409.6,5445.35 L 10394.2,5454.4 L 10378.8,5445.35 L 10378.2,4979.33 L 10410.2,4979.33 L 10409.6,5445.35 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 186 105)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
-(more </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 232.227 105)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 186 105)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(More </text>
+<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 232.227 105)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
 stable)</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 326 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 326 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
 (Markonikov’s </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 428.852 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 428.852 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
 &amp; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 443.094 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 443.094 107)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
 Anti)</text>
 </svg>
