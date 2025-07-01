@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="addn_rxn.cdxml"
- BoundingBox="129.57 147.05 533.49 322.19"
+ BoundingBox="129.57 138.05 533.49 322.19"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -79,7 +79,7 @@
 <font id="68" charset="x-mac-roman" name="Arial"/>
 <font id="803" charset="x-mac-roman" name="Times New Roman"/>
 </fonttable><page
- id="418"
+ id="436"
  BoundingBox="0 0 1524.71 1016.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -359,6 +359,82 @@
  B="409"
  E="399"
  BS="N"
+/></fragment><fragment
+ id="420"
+ BoundingBox="366.19 138.05 419.81 199.95"
+ Z="229"
+><n
+ id="417"
+ p="367.02 154"
+ Z="226"
+ AS="N"
+/><n
+ id="419"
+ p="367.02 184"
+ Z="228"
+ AS="N"
+/><n
+ id="421"
+ p="393 199"
+ Z="230"
+ AS="N"
+/><n
+ id="423"
+ p="418.98 184"
+ Z="232"
+ AS="N"
+/><n
+ id="425"
+ p="418.98 154"
+ Z="234"
+ AS="N"
+/><n
+ id="427"
+ p="393 139"
+ Z="236"
+ AS="N"
+/><b
+ id="429"
+ Z="238"
+ B="417"
+ E="419"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="434 0 0 430"
+/><b
+ id="430"
+ Z="239"
+ B="419"
+ E="421"
+ BS="N"
+/><b
+ id="431"
+ Z="240"
+ B="421"
+ E="423"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="430 0 0 432"
+/><b
+ id="432"
+ Z="241"
+ B="423"
+ E="425"
+ BS="N"
+/><b
+ id="433"
+ Z="242"
+ B="425"
+ E="427"
+ Order="2"
+ BS="N"
+ BondCircularOrdering="432 0 0 434"
+/><b
+ id="434"
+ Z="243"
+ B="427"
+ E="417"
+ BS="N"
 /></fragment><t
  id="35"
  p="420.75 283.50"
@@ -368,7 +444,7 @@
  LineHeight="auto"
 ><s font="803" size="12">Nu</s><s font="803" size="12" face="64">-</s></t><graphic
  id="374"
- SupersededBy="419"
+ SupersededBy="437"
  BoundingBox="297.75 293.25 228.75 293.25"
  Z="105"
  GraphicType="Line"
@@ -376,7 +452,7 @@
  HeadSize="1000"
 /><graphic
  id="375"
- SupersededBy="420"
+ SupersededBy="438"
  BoundingBox="232.36 273.81 208.88 314.47"
  Z="116"
  color="6"
@@ -386,7 +462,7 @@
  AngularSize="-90"
 /><graphic
  id="376"
- SupersededBy="421"
+ SupersededBy="439"
  BoundingBox="275.54 265.69 262.47 262.19"
  Z="117"
  color="6"
@@ -396,7 +472,7 @@
  AngularSize="-270"
 /><graphic
  id="377"
- SupersededBy="422"
+ SupersededBy="440"
  BoundingBox="449.25 292.50 411.75 292.50"
  Z="119"
  GraphicType="Line"
@@ -410,7 +486,7 @@
  SymbolType="LonePair"
 ><represent attribute="Radical" object="35"/></graphic><graphic
  id="378"
- SupersededBy="423"
+ SupersededBy="441"
  BoundingBox="347.44 254.61 374.18 290.29"
  Z="122"
  color="6"
@@ -419,29 +495,30 @@
  HeadSize="1000"
  AngularSize="120"
 /><scheme
- id="424"
+ id="442"
 ><step
- id="425"
+ id="443"
  ReactionStepReactants="3"
  ReactionStepArrows="376"
 /><step
- id="426"
+ id="444"
  ReactionStepReactants="3"
  ReactionStepProducts="17"
  ReactionStepArrows="374"
 /><step
- id="427"
+ id="445"
  ReactionStepReactants="17"
  ReactionStepProducts="202"
  ReactionStepArrows="377"
  ReactionStepObjectsAboveArrow="35"
 /><step
- id="428"
+ id="446"
  ReactionStepReactants="202"
  ReactionStepProducts="17"
  ReactionStepArrows="378"
+ ReactionStepObjectsAboveArrow="420"
 /></scheme><arrow
- id="419"
+ id="437"
  BoundingBox="228.75 288.25 297.75 297.25"
  Z="105"
  FillType="None"
@@ -456,7 +533,7 @@
  MajorAxisEnd3D="427.12 406.88 0"
  MinorAxisEnd3D="358.12 475.88 0"
 /><arrow
- id="420"
+ id="438"
  BoundingBox="166.42 265.69 232.36 292.79"
  Z="116"
  color="6"
@@ -473,7 +550,7 @@
  MajorAxisEnd3D="255.83 314.47 0"
  MinorAxisEnd3D="208.88 361.42 0"
 /><arrow
- id="421"
+ id="439"
  BoundingBox="247.35 247.08 276.68 277.05"
  Z="117"
  color="6"
@@ -490,7 +567,7 @@
  MajorAxisEnd3D="276 262.19 0"
  MinorAxisEnd3D="262.47 275.71 0"
 /><arrow
- id="422"
+ id="440"
  BoundingBox="411.75 287.50 449.25 296.50"
  Z="119"
  FillType="None"
@@ -505,7 +582,7 @@
  MajorAxisEnd3D="638.62 405.75 0"
  MinorAxisEnd3D="601.12 443.25 0"
 /><arrow
- id="423"
+ id="441"
  BoundingBox="347.44 243.98 418.03 277.25"
  Z="122"
  color="6"
