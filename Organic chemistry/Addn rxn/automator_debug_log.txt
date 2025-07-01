@@ -1,4 +1,4 @@
---- Starting Debug Run at Tue Jul  1 16:22:34 IST 2025 ---
+--- Starting Debug Run at Tue Jul  1 16:35:03 IST 2025 ---
 Log file will be saved at: /Users/mohansahu/Documents/GitHub/organic-chemistry/Organic chemistry/Addn rxn/automator_debug_log.txt
 Script started.
 REPO_PATH is set to: /Users/mohansahu/Documents/GitHub/organic-chemistry
