@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="362px" height="71px" viewBox="0 0 362 71" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1.66699 58.0785)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 2958.98,4802.37 L 2942.42,4774.95 L 3353.27,4526.11 L 3354,4563.15 L 2958.98,4802.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 53.6185 57.0599)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H/R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 3354,4563.15 L 3353.27,4526.11 L 3762.17,4752.38 L 3746.7,4780.43 L 3354,4563.15 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 27.278 12.5732)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 3324.41,4572.82 L 3292.38,4572.54 L 3296.71,4079.43 L 3328.74,4079.71 L 3324.41,4572.82 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 3414.43,4570.21 L 3382.4,4569.93 L 3386.7,4080.22 L 3418.73,4080.5 L 3414.43,4570.21 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 7920.73,4436 L 4720,4436 L 4720,4404 L 7920.73,4404 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 8200,4420 C 8200,4420 7879.69,4501.08 7879.69,4501.08 C 7879.69,4501.08 7919.73,4455.47 7919.73,4420 C 7919.73,4384.09 7879.69,4337.92 7879.69,4337.92 C 7879.69,4337.92 8200,4420 8200,4420 C 8200,4420 8200,4420 8200,4420 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 8200,4420 C 8200,4420 7879.69,4501.08 7879.69,4501.08 C 7879.69,4501.08 7919.73,4455.47 7919.73,4420 C 7919.73,4384.09 7879.69,4337.92 7879.69,4337.92 C 7879.69,4337.92 8200,4420 8200,4420 C 8200,4420 8200,4420 8200,4420 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 106 20)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+i) </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 119.328 20)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Nucleophile </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 207.383 20)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+source</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 132 55)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+ii) </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 148.883 55)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+H</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 160.438 49.2617)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
++</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 167.445 55)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+/H</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 183.445 58.6797)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+2</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 190.119 55)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+O</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 287.667 57.0785)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 8678.98,4782.37 L 8662.42,4754.95 L 9058.55,4516.42 L 9073.63,4525.37 L 9043.19,4559 L 8678.98,4782.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 339.619 56.0599)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H/R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 9080.45,4546.14 L 9073.63,4525.37 L 9089.38,4516.52 L 9482.17,4732.38 L 9466.7,4760.43 L 9080.45,4546.14 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 314.278 11.5987)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+OH</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 9089.38,4516.52 L 9073.63,4525.37 L 9058.55,4516.42 L 9077.28,4058.61 L 9109.29,4059.95 L 9089.38,4516.52 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 292.92 68.7238)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+Nu</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -136 -189)" d="M 9043.19,4559 L 9073.63,4525.37 L 9080.45,4546.14 L 8874.68,4986.42 L 8845.69,4972.8 L 9043.19,4559 Z " />
+</svg>
