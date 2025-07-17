@@ -2,7 +2,7 @@
 <!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
- Name="Reduction of acyl halide ester and amide.cdxml"
+ Name="Reduction of acyl halide ester and amide with Grignard reagent.cdxml"
  BoundingBox="104.47 123.13 1028.29 207.75"
  WindowPosition="0 0"
  WindowSize="0 0"
@@ -110,7 +110,7 @@
  id="126"
  p="159.71 193.68"
  Z="5"
- color="7"
+ color="8"
  Warning="ChemDraw can&apos;t interpret this label."
  NodeType="Unspecified"
  NeedsClean="yes"
@@ -118,10 +118,10 @@
 ><t
  p="155.38 198.10"
  BoundingBox="155.91 189.25 213.34 200.86"
- color="7"
+ color="8"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="21" size="12" color="7" face="96">Cl/OR/NH2</s></t></n><n
+><s font="21" size="12" color="8" face="96">Cl/OR/NH2</s></t></n><n
  id="128"
  p="133.36 148.89"
  Z="7"
@@ -169,11 +169,12 @@
  p="261 163"
  BoundingBox="262.41 145.79 319.75 166.54"
  Z="11"
+ color="6"
  LabelJustification="Left"
  LabelLineHeight="auto"
  LineHeight="auto"
  LabelAlignment="Left"
-><s font="21" size="16">R’</s><s font="21" size="16" face="64">-+</s><s font="21" size="16">MgX</s></t></n></fragment><fragment
+><s font="21" size="16" color="6">R’</s><s font="21" size="16" color="6" face="64">-</s><s font="21" size="16" face="64">+</s><s font="21" size="16">MgX</s></t></n></fragment><fragment
  id="138"
  BoundingBox="362.47 127.52 471.34 207.75"
  Z="28"
@@ -199,7 +200,7 @@
  id="141"
  p="417.71 191.68"
  Z="31"
- color="7"
+ color="8"
  Warning="ChemDraw can&apos;t interpret this label."
  NodeType="Unspecified"
  NeedsClean="yes"
@@ -207,10 +208,10 @@
 ><t
  p="413.38 196.10"
  BoundingBox="413.91 187.25 471.34 198.86"
- color="7"
+ color="8"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="21" size="12" color="7" face="96">Cl/OR/NH2</s></t></n><n
+><s font="21" size="12" color="8" face="96">Cl/OR/NH2</s></t></n><n
  id="142"
  p="391.36 146.89"
  Z="33"
@@ -387,11 +388,12 @@
 ><t
  p="689 167"
  BoundingBox="690.41 149.79 747.75 170.54"
+ color="6"
  LabelJustification="Left"
  LabelLineHeight="auto"
  LineHeight="auto"
  LabelAlignment="Left"
-><s font="21" size="16">R’</s><s font="21" size="16" face="64">-+</s><s font="21" size="16">MgX</s></t></n></fragment><fragment
+><s font="21" size="16" color="6">R’</s><s font="21" size="16" color="6" face="64">-</s><s font="21" size="16" face="64">+</s><s font="21" size="16">MgX</s></t></n></fragment><fragment
  id="185"
  BoundingBox="779.47 124.52 853.78 204.75"
  Z="114"
