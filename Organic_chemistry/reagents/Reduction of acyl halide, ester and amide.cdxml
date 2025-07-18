@@ -78,7 +78,7 @@
 </colortable><fonttable>
 <font id="21" charset="x-mac-roman" name="Helvetica"/>
 </fonttable><page
- id="448"
+ id="449"
  BoundingBox="0 0 1524.71 1016.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -247,7 +247,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="449"
+ id="450"
 ><n
  id="225"
  p="417.30 131.83"
@@ -484,7 +484,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="450"
+ id="451"
 ><n
  id="193"
  p="834.30 128.83"
@@ -722,9 +722,9 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="451"
-><n
  id="452"
+><n
+ id="453"
  p="236.78 267.24"
  Element="13"
  NumHydrogens="4"
@@ -1133,9 +1133,9 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="454"
-><n
  id="455"
+><n
+ id="456"
  p="645.78 272.24"
  Element="13"
  NumHydrogens="4"
@@ -1235,9 +1235,9 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="457"
-><n
  id="458"
+><n
+ id="459"
  p="235.78 373.10"
  Element="13"
  NumHydrogens="4"
@@ -1680,9 +1680,9 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="460"
-><n
  id="461"
+><n
+ id="462"
  p="644.78 378.10"
  Element="13"
  NumHydrogens="4"
@@ -1733,7 +1733,7 @@
 ><s font="21" size="16" face="64">-</s><s font="21" size="16">NH</s><s font="21" size="16" face="32">2</s><s font="21" size="16"> is poor LG
 </s><s font="21" size="16" face="64">-</s><s font="21" size="16">O-AlH</s><s font="21" size="16" face="32">3</s><s font="21" size="16"> is better LG than -NH</s><s font="21" size="16" face="32">2</s></t><graphic
  id="232"
- SupersededBy="463"
+ SupersededBy="464"
  BoundingBox="343 172 250 172"
  Z="96"
  GraphicType="Line"
@@ -1741,7 +1741,7 @@
  HeadSize="1000"
 /><graphic
  id="233"
- SupersededBy="464"
+ SupersededBy="465"
  BoundingBox="140 177 211.08 199.37"
  Z="99"
  color="4"
@@ -1751,7 +1751,7 @@
  AngularSize="120"
 /><graphic
  id="234"
- SupersededBy="465"
+ SupersededBy="466"
  BoundingBox="129 145 129 158"
  Z="100"
  color="4"
@@ -1761,7 +1761,7 @@
  AngularSize="-180"
 /><graphic
  id="235"
- SupersededBy="466"
+ SupersededBy="467"
  BoundingBox="566 175 493 175"
  Z="113"
  GraphicType="Line"
@@ -1769,7 +1769,7 @@
  HeadSize="1000"
 /><graphic
  id="236"
- SupersededBy="467"
+ SupersededBy="468"
  BoundingBox="392 164 399.50 152"
  Z="114"
  color="4"
@@ -1779,7 +1779,7 @@
  AngularSize="-180"
 /><graphic
  id="237"
- SupersededBy="468"
+ SupersededBy="469"
  BoundingBox="438.02 185.84 421.26 183.51"
  Z="115"
  color="4"
@@ -1789,7 +1789,7 @@
  AngularSize="-180"
 /><graphic
  id="238"
- SupersededBy="469"
+ SupersededBy="470"
  BoundingBox="771 176 678 176"
  Z="124"
  GraphicType="Line"
@@ -1797,7 +1797,7 @@
  HeadSize="1000"
 /><graphic
  id="239"
- SupersededBy="470"
+ SupersededBy="471"
  BoundingBox="619 173 663.85 184.23"
  Z="127"
  color="4"
@@ -1807,7 +1807,7 @@
  AngularSize="120"
 /><graphic
  id="240"
- SupersededBy="471"
+ SupersededBy="472"
  BoundingBox="605 142 605 153.50"
  Z="128"
  color="4"
@@ -1817,7 +1817,7 @@
  AngularSize="-180"
 /><graphic
  id="241"
- SupersededBy="472"
+ SupersededBy="473"
  BoundingBox="948 172 875 172"
  Z="146"
  GraphicType="Line"
@@ -1825,7 +1825,7 @@
  HeadSize="1000"
 /><graphic
  id="319"
- SupersededBy="473"
+ SupersededBy="474"
  BoundingBox="313 281.98 220 281.98"
  Z="258"
  GraphicType="Line"
@@ -1833,7 +1833,7 @@
  HeadSize="1000"
 /><graphic
  id="320"
- SupersededBy="474"
+ SupersededBy="475"
  BoundingBox="138.72 286.98 198.17 335.98"
  Z="261"
  color="4"
@@ -1843,7 +1843,7 @@
  AngularSize="90"
 /><graphic
  id="321"
- SupersededBy="475"
+ SupersededBy="476"
  BoundingBox="129 254.98 129 267.98"
  Z="262"
  color="4"
@@ -1853,7 +1853,7 @@
  AngularSize="-180"
 /><graphic
  id="322"
- SupersededBy="476"
+ SupersededBy="477"
  BoundingBox="516 284.98 443 284.98"
  Z="275"
  GraphicType="Line"
@@ -1861,7 +1861,7 @@
  HeadSize="1000"
 /><graphic
  id="323"
- SupersededBy="477"
+ SupersededBy="478"
  BoundingBox="362 273.98 369.50 261.98"
  Z="276"
  color="4"
@@ -1871,7 +1871,7 @@
  AngularSize="-180"
 /><graphic
  id="324"
- SupersededBy="478"
+ SupersededBy="479"
  BoundingBox="408.02 295.82 391.26 293.49"
  Z="277"
  color="4"
@@ -1881,7 +1881,7 @@
  AngularSize="-180"
 /><graphic
  id="325"
- SupersededBy="479"
+ SupersededBy="480"
  BoundingBox="721 285.98 628 285.98"
  Z="286"
  GraphicType="Line"
@@ -1889,7 +1889,7 @@
  HeadSize="1000"
 /><graphic
  id="326"
- SupersededBy="480"
+ SupersededBy="481"
  BoundingBox="569 282.98 613.85 294.21"
  Z="289"
  color="4"
@@ -1899,7 +1899,7 @@
  AngularSize="120"
 /><graphic
  id="327"
- SupersededBy="481"
+ SupersededBy="482"
  BoundingBox="555 251.98 555 263.48"
  Z="290"
  color="4"
@@ -1909,7 +1909,7 @@
  AngularSize="-180"
 /><graphic
  id="328"
- SupersededBy="482"
+ SupersededBy="483"
  BoundingBox="898 281.98 825 281.98"
  Z="308"
  GraphicType="Line"
@@ -1917,7 +1917,7 @@
  HeadSize="1000"
 /><graphic
  id="412"
- SupersededBy="483"
+ SupersededBy="484"
  BoundingBox="312 387.84 219 387.84"
  Z="424"
  GraphicType="Line"
@@ -1925,7 +1925,7 @@
  HeadSize="1000"
 /><graphic
  id="413"
- SupersededBy="484"
+ SupersededBy="485"
  BoundingBox="137.72 392.84 197.17 441.84"
  Z="427"
  color="4"
@@ -1935,7 +1935,7 @@
  AngularSize="90"
 /><graphic
  id="414"
- SupersededBy="485"
+ SupersededBy="486"
  BoundingBox="128 360.84 128 373.84"
  Z="428"
  color="4"
@@ -1945,7 +1945,7 @@
  AngularSize="-180"
 /><graphic
  id="415"
- SupersededBy="486"
+ SupersededBy="487"
  BoundingBox="515 390.84 442 390.84"
  Z="441"
  GraphicType="Line"
@@ -1953,7 +1953,7 @@
  HeadSize="1000"
 /><graphic
  id="416"
- SupersededBy="487"
+ SupersededBy="488"
  BoundingBox="361 382.78 365.94 369.18"
  Z="442"
  color="4"
@@ -1962,7 +1962,7 @@
  AngularSize="-180"
 /><graphic
  id="418"
- SupersededBy="488"
+ SupersededBy="489"
  BoundingBox="720 391.84 627 391.84"
  Z="452"
  GraphicType="Line"
@@ -1970,7 +1970,7 @@
  HeadSize="1000"
 /><graphic
  id="419"
- SupersededBy="489"
+ SupersededBy="490"
  BoundingBox="568 388.84 612.85 400.07"
  Z="453"
  color="4"
@@ -1980,7 +1980,7 @@
  AngularSize="120"
 /><graphic
  id="420"
- SupersededBy="490"
+ SupersededBy="491"
  BoundingBox="554 357.84 554 369.34"
  Z="454"
  color="4"
@@ -1990,7 +1990,7 @@
  AngularSize="-180"
 /><graphic
  id="421"
- SupersededBy="491"
+ SupersededBy="492"
  BoundingBox="897 387.84 824 387.84"
  Z="467"
  GraphicType="Line"
@@ -1998,7 +1998,7 @@
  HeadSize="1000"
 /><graphic
  id="423"
- SupersededBy="492"
+ SupersededBy="493"
  BoundingBox="369 398.78 378.50 398.78"
  Z="484"
  color="4"
@@ -2007,138 +2007,138 @@
  HeadSize="1000"
  AngularSize="180"
 /><scheme
- id="493"
-><step
  id="494"
+><step
+ id="495"
  ReactionStepReactants="123"
  ReactionStepProducts="138"
  ReactionStepArrows="232"
  ReactionStepObjectsAboveArrow="134"
 /><step
- id="495"
+ id="496"
  ReactionStepReactants="138"
  ReactionStepProducts="242"
  ReactionStepArrows="233"
 /><step
- id="496"
+ id="497"
  ReactionStepReactants="138"
  ReactionStepProducts="161"
  ReactionStepArrows="235"
 /><step
- id="497"
+ id="498"
  ReactionStepReactants="242"
  ReactionStepProducts="252"
  ReactionStepArrows="319"
 /><step
- id="498"
+ id="499"
  ReactionStepReactants="161"
  ReactionStepProducts="185"
  ReactionStepArrows="238"
  ReactionStepObjectsAboveArrow="171"
 /><step
- id="499"
+ id="500"
  ReactionStepReactants="185"
  ReactionStepProducts="270"
  ReactionStepArrows="239"
 /><step
- id="500"
+ id="501"
  ReactionStepReactants="185"
  ReactionStepProducts="212"
  ReactionStepArrows="241"
  ReactionStepObjectsAboveArrow="210"
 /><step
- id="501"
+ id="502"
  ReactionStepReactants="270"
  ReactionStepProducts="280"
  ReactionStepArrows="325"
 /><step
- id="502"
+ id="503"
  ReactionStepReactants="252"
  ReactionStepProducts="270"
  ReactionStepArrows="322"
 /><step
- id="503"
+ id="504"
  ReactionStepReactants="280"
  ReactionStepProducts="298"
  ReactionStepArrows="328"
  ReactionStepObjectsAboveArrow="308"
 /></scheme><scheme
- id="504"
-><step
  id="505"
+><step
+ id="506"
  ReactionStepReactants="250"
  ReactionStepProducts="341"
  ReactionStepArrows="320"
 /><step
- id="506"
+ id="507"
  ReactionStepReactants="341"
  ReactionStepProducts="354"
  ReactionStepArrows="412"
 /><step
- id="507"
+ id="508"
  ReactionStepReactants="354"
  ReactionStepProducts="366"
  ReactionStepArrows="415"
 /><step
- id="508"
+ id="509"
  ReactionStepReactants="366"
  ReactionStepProducts="374"
  ReactionStepArrows="418"
 /><step
- id="509"
+ id="510"
  ReactionStepReactants="374"
  ReactionStepProducts="386"
  ReactionStepArrows="421"
  ReactionStepObjectsAboveArrow="401"
 /></scheme><scheme
- id="510"
-><step
  id="511"
+><step
+ id="512"
  ReactionStepReactants="333"
  ReactionStepProducts="366"
  ReactionStepArrows="326"
 /><step
- id="512"
+ id="513"
  ReactionStepReactants="366"
  ReactionStepProducts="374"
  ReactionStepArrows="418"
 /><step
- id="513"
+ id="514"
  ReactionStepReactants="374"
  ReactionStepProducts="386"
  ReactionStepArrows="421"
  ReactionStepObjectsAboveArrow="401"
 /></scheme><scheme
- id="514"
-><step
  id="515"
+><step
+ id="516"
  ReactionStepReactants="349"
  ReactionStepArrows="413"
 /></scheme><scheme
- id="516"
-><step
  id="517"
+><step
+ id="518"
  ReactionStepReactants="396"
  ReactionStepProducts="354"
  ReactionStepArrows="419"
 /><step
- id="518"
+ id="519"
  ReactionStepReactants="354"
  ReactionStepProducts="366"
  ReactionStepArrows="415"
 /><step
- id="519"
+ id="520"
  ReactionStepReactants="366"
  ReactionStepProducts="374"
  ReactionStepArrows="418"
 /><step
- id="520"
+ id="521"
  ReactionStepReactants="374"
  ReactionStepProducts="386"
  ReactionStepArrows="421"
  ReactionStepObjectsAboveArrow="401"
 /></scheme><arrow
- id="463"
+ id="464"
  BoundingBox="250 167.02 343 176"
  Z="96"
  FillType="None"
@@ -2153,7 +2153,7 @@
  MajorAxisEnd3D="561 258 0"
  MinorAxisEnd3D="468 351 0"
 /><arrow
- id="464"
+ id="465"
  BoundingBox="140 123.15 267.77 177"
  Z="99"
  color="4"
@@ -2170,7 +2170,7 @@
  MajorAxisEnd3D="285.60 199.37 0"
  MinorAxisEnd3D="211.08 273.89 0"
 /><arrow
- id="465"
+ id="466"
  BoundingBox="114.27 145 130.78 172.78"
  Z="100"
  color="4"
@@ -2187,7 +2187,7 @@
  MajorAxisEnd3D="142 158 0"
  MinorAxisEnd3D="129 171 0"
 /><arrow
- id="466"
+ id="467"
  BoundingBox="493 170.02 566 179"
  Z="113"
  FillType="None"
@@ -2202,7 +2202,7 @@
  MajorAxisEnd3D="885.50 262.50 0"
  MinorAxisEnd3D="812.50 335.50 0"
 /><arrow
- id="467"
+ id="468"
  BoundingBox="392 138.22 415.26 169.10"
  Z="114"
  color="4"
@@ -2219,7 +2219,7 @@
  MajorAxisEnd3D="413.65 152 0"
  MinorAxisEnd3D="399.50 166.15 0"
 /><arrow
- id="468"
+ id="469"
  BoundingBox="402.72 164.86 438.69 185.84"
  Z="115"
  color="4"
@@ -2236,7 +2236,7 @@
  MajorAxisEnd3D="437.87 180.27 0"
  MinorAxisEnd3D="424.50 200.11 0"
 /><arrow
- id="469"
+ id="470"
  BoundingBox="678 171.02 771 180"
  Z="124"
  FillType="None"
@@ -2251,7 +2251,7 @@
  MajorAxisEnd3D="989 262 0"
  MinorAxisEnd3D="896 355 0"
 /><arrow
- id="470"
+ id="471"
  BoundingBox="619 136.23 697.79 173"
  Z="127"
  color="4"
@@ -2268,7 +2268,7 @@
  MajorAxisEnd3D="710.09 184.23 0"
  MinorAxisEnd3D="663.85 230.46 0"
 /><arrow
- id="471"
+ id="472"
  BoundingBox="591.90 142 605.95 166.75"
  Z="128"
  color="4"
@@ -2285,7 +2285,7 @@
  MajorAxisEnd3D="616.50 153.50 0"
  MinorAxisEnd3D="605 165 0"
 /><arrow
- id="472"
+ id="473"
  BoundingBox="875 167.02 948 176"
  Z="146"
  FillType="None"
@@ -2300,7 +2300,7 @@
  MajorAxisEnd3D="1267.50 259.50 0"
  MinorAxisEnd3D="1194.50 332.50 0"
 /><arrow
- id="473"
+ id="474"
  BoundingBox="220 277 313 285.98"
  Z="258"
  FillType="None"
@@ -2315,7 +2315,7 @@
  MajorAxisEnd3D="531 367.98 0"
  MinorAxisEnd3D="438 460.98 0"
 /><arrow
- id="474"
+ id="475"
  BoundingBox="138.72 243.68 237.77 286.98"
  Z="261"
  color="4"
@@ -2332,7 +2332,7 @@
  MajorAxisEnd3D="268.63 335.98 0"
  MinorAxisEnd3D="198.17 427.25 0"
 /><arrow
- id="475"
+ id="476"
  BoundingBox="114.27 254.98 130.78 282.76"
  Z="262"
  color="4"
@@ -2349,7 +2349,7 @@
  MajorAxisEnd3D="142 267.98 0"
  MinorAxisEnd3D="129 280.98 0"
 /><arrow
- id="476"
+ id="477"
  BoundingBox="443 280 516 288.98"
  Z="275"
  FillType="None"
@@ -2364,7 +2364,7 @@
  MajorAxisEnd3D="835.50 372.48 0"
  MinorAxisEnd3D="762.50 445.48 0"
 /><arrow
- id="477"
+ id="478"
  BoundingBox="362 248.20 385.42 279.08"
  Z="276"
  color="4"
@@ -2381,7 +2381,7 @@
  MajorAxisEnd3D="383.65 261.98 0"
  MinorAxisEnd3D="369.50 276.13 0"
 /><arrow
- id="478"
+ id="479"
  BoundingBox="372.72 274.84 408.69 295.82"
  Z="277"
  color="4"
@@ -2398,7 +2398,7 @@
  MajorAxisEnd3D="407.87 290.25 0"
  MinorAxisEnd3D="394.50 310.09 0"
 /><arrow
- id="479"
+ id="480"
  BoundingBox="628 281 721 289.98"
  Z="286"
  FillType="None"
@@ -2413,7 +2413,7 @@
  MajorAxisEnd3D="939 371.98 0"
  MinorAxisEnd3D="846 464.98 0"
 /><arrow
- id="480"
+ id="481"
  BoundingBox="569 246.21 647.79 282.98"
  Z="289"
  color="4"
@@ -2430,7 +2430,7 @@
  MajorAxisEnd3D="660.09 294.21 0"
  MinorAxisEnd3D="613.85 340.44 0"
 /><arrow
- id="481"
+ id="482"
  BoundingBox="541.90 251.98 555.95 276.73"
  Z="290"
  color="4"
@@ -2447,7 +2447,7 @@
  MajorAxisEnd3D="566.50 263.48 0"
  MinorAxisEnd3D="555 274.98 0"
 /><arrow
- id="482"
+ id="483"
  BoundingBox="825 277 898 285.98"
  Z="308"
  FillType="None"
@@ -2462,7 +2462,7 @@
  MajorAxisEnd3D="1217.50 369.48 0"
  MinorAxisEnd3D="1144.50 442.48 0"
 /><arrow
- id="483"
+ id="484"
  BoundingBox="219 382.86 312 391.84"
  Z="424"
  FillType="None"
@@ -2477,7 +2477,7 @@
  MajorAxisEnd3D="530 473.84 0"
  MinorAxisEnd3D="437 566.84 0"
 /><arrow
- id="484"
+ id="485"
  BoundingBox="137.72 349.54 236.77 392.84"
  Z="427"
  color="4"
@@ -2494,7 +2494,7 @@
  MajorAxisEnd3D="267.63 441.84 0"
  MinorAxisEnd3D="197.17 533.11 0"
 /><arrow
- id="485"
+ id="486"
  BoundingBox="113.27 360.84 129.78 388.62"
  Z="428"
  color="4"
@@ -2511,7 +2511,7 @@
  MajorAxisEnd3D="141 373.84 0"
  MinorAxisEnd3D="128 386.84 0"
 /><arrow
- id="486"
+ id="487"
  BoundingBox="442 385.86 515 394.84"
  Z="441"
  FillType="None"
@@ -2526,7 +2526,7 @@
  MajorAxisEnd3D="812.73 582.34 0"
  MinorAxisEnd3D="736 659.07 0"
 /><arrow
- id="487"
+ id="488"
  BoundingBox="359.22 358.78 383.94 385.41"
  Z="442"
  color="4"
@@ -2543,7 +2543,7 @@
  MajorAxisEnd3D="380.41 369.18 0"
  MinorAxisEnd3D="365.94 383.65 0"
 /><arrow
- id="488"
+ id="489"
  BoundingBox="627 386.86 720 395.84"
  Z="452"
  FillType="None"
@@ -2558,7 +2558,7 @@
  MajorAxisEnd3D="938 477.84 0"
  MinorAxisEnd3D="845 570.84 0"
 /><arrow
- id="489"
+ id="490"
  BoundingBox="568 352.07 646.79 388.84"
  Z="453"
  color="4"
@@ -2575,7 +2575,7 @@
  MajorAxisEnd3D="659.09 400.07 0"
  MinorAxisEnd3D="612.85 446.30 0"
 /><arrow
- id="490"
+ id="491"
  BoundingBox="540.97 357.84 554.95 382.59"
  Z="454"
  color="4"
@@ -2592,7 +2592,7 @@
  MajorAxisEnd3D="565.50 369.34 0"
  MinorAxisEnd3D="554 380.84 0"
 /><arrow
- id="491"
+ id="492"
  BoundingBox="824 382.86 897 391.84"
  Z="467"
  FillType="None"
@@ -2607,7 +2607,7 @@
  MajorAxisEnd3D="1216.50 475.34 0"
  MinorAxisEnd3D="1143.50 548.34 0"
 /><arrow
- id="492"
+ id="493"
  BoundingBox="369 387.50 389.78 400.56"
  Z="484"
  color="4"
