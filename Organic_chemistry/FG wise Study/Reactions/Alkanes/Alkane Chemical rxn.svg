@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="1050px" height="526px" viewBox="0 0 1050 526" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<svg width="928px" height="526px" viewBox="0 0 928 526" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
 <path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -72 -145)" d="M 9235,7806.33 L 9235,7783.23 L 9754.62,8083.67 L 9754.62,8106.77 L 9235,7806.33 Z " />
 <path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -72 -145)" d="M 9754.62,8106.77 L 9754.62,8083.67 L 10274.2,7783.23 L 10274.2,7806.33 L 9754.62,8106.77 Z " />
 <path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -72 -145)" d="M 10274.2,7806.33 L 10274.2,7783.23 L 10793.8,8083.67 L 10793.8,8106.77 L 10274.2,7806.33 Z " />
@@ -331,7 +331,7 @@ CH</text>
 <text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 53 303.25)" font-style="normal" font-weight="normal" font-size="240px" font-family="Times New Roman" >
 +</text>
 <path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -72 -145)" d="M 7636,3986 L 7636,3966 L 8236,3966 L 8236,3986 L 7636,3986 Z " />
-<image transform="matrix(0.05 0 0 0.05 -72 -145)" x="14401" y="4970" width="7980" height="5580" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY8AAAEXCAIAAADazV+eAAAAAXNSR0IArs4c6QAAAERlWElm
+<image transform="matrix(0.05 0 0 0.05 -72 -145)" x="14592" y="6125" width="5368" height="3753" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY8AAAEXCAIAAADazV+eAAAAAXNSR0IArs4c6QAAAERlWElm
 TU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABj6AD
 AAQAAAABAAABFwAAAADJJKnmAABAAElEQVR4AexdCTxU3xd/Y6tEhaLl/8syY6dIaSVEaUOR
 FltK+6LQSqV9Typt2hQqKtqztqAkVJYkS8lO1rHO9v7vzcLMGIwyJPd9yrx377nnnPu9Z87c
