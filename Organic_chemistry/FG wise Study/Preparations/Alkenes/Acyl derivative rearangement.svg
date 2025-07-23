@@ -1,0 +1,442 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="927px" height="429px" viewBox="0 0 927 429" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 8.66699 56.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1240.01,1547.79 L 1224.01,1520.07 L 1639.62,1279.36 L 1639.62,1316.37 L 1240.01,1547.79 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 60.627 56.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1639.62,1316.37 L 1639.62,1279.36 L 2043.25,1513.18 L 2027.25,1540.89 L 1639.62,1316.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 34.313 11.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1610.6,1324.58 L 1578.6,1324.58 L 1578.6,833.182 L 1610.6,833.182 L 1610.6,1324.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1700.6,1324.58 L 1668.6,1324.58 L 1668.6,833.182 L 1700.6,833.182 L 1700.6,1324.58 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 60.627 86.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 2143.2,1724.53 L 2175.2,1724.53 L 2175.2,2072.53 L 2143.2,2072.53 L 2143.2,1724.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 86.938 41.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+Br</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 2290.58,1541.22 L 2274.58,1513.51 L 2551.44,1353.66 L 2567.44,1381.37 L 2290.58,1541.22 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4501,1374.6 L 3380,1374.6 L 3380,1342.6 L 4501,1342.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4780,1358.6 C 4780,1358.6 4460,1439.6 4460,1439.6 C 4460,1439.6 4500,1394.04 4500,1358.6 C 4500,1322.73 4460,1276.6 4460,1276.6 C 4460,1276.6 4780,1358.6 4780,1358.6 C 4780,1358.6 4780,1358.6 4780,1358.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4780,1358.6 C 4780,1358.6 4460,1439.6 4460,1439.6 C 4460,1439.6 4500,1394.04 4500,1358.6 C 4500,1322.73 4460,1276.6 4460,1276.6 C 4460,1276.6 4780,1358.6 4780,1358.6 C 4780,1358.6 4780,1358.6 4780,1358.6 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 218.667 60.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5440.01,1627.79 L 5424.01,1600.07 L 5839.62,1359.36 L 5839.62,1396.37 L 5440.01,1627.79 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 270.627 60.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5839.62,1396.37 L 5839.62,1359.36 L 6243.25,1593.18 L 6227.25,1620.89 L 5839.62,1396.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 244.313 15.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5810.6,1404.58 L 5778.6,1404.58 L 5778.6,913.182 L 5810.6,913.182 L 5810.6,1404.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5900.6,1404.58 L 5868.6,1404.58 L 5868.6,913.182 L 5900.6,913.182 L 5900.6,1404.58 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 296.938 45.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+Br</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6490.58,1621.22 L 6474.58,1593.51 L 6751.44,1433.66 L 6767.44,1461.37 L 6490.58,1621.22 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6266.34,1443.03 A 92.7999,92.7999 0 1 0 6451.94,1443.03A 92.7999,92.7999 0 1 0 6266.34,1443.03Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6303.14,1430.03 L 6415.14,1430.03 L 6415.14,1456.03 L 6303.14,1456.03 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6775.35,1110.77 C 6658.64,1068.92 6529.97,1129.77 6488.16,1246.58 C 6456.56,1334.86 6486.85,1440.66 6560.37,1498.79 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6919.85,1278.39 C 6919.85,1278.39 6705.81,1129.11 6705.81,1129.11 C 6705.81,1129.11 6754.21,1129.05 6775.35,1110.77 C 6796.48,1092.49 6803.6,1044.54 6803.6,1044.54 C 6803.6,1044.54 6919.85,1278.39 6919.85,1278.39 C 6919.85,1278.39 6919.85,1278.39 6919.85,1278.39 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6919.85,1278.39 C 6919.85,1278.39 6705.81,1129.11 6705.81,1129.11 C 6705.81,1129.11 6754.21,1129.05 6775.35,1110.77 C 6796.48,1092.49 6803.6,1044.54 6803.6,1044.54 C 6803.6,1044.54 6919.85,1278.39 6919.85,1278.39 C 6919.85,1278.39 6919.85,1278.39 6919.85,1278.39 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8741,1394.6 L 7820,1394.6 L 7820,1362.6 L 8741,1362.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9020,1378.6 C 9020,1378.6 8700,1459.6 8700,1459.6 C 8700,1459.6 8740,1414.04 8740,1378.6 C 8740,1342.73 8700,1296.6 8700,1296.6 C 8700,1296.6 9020,1378.6 9020,1378.6 C 9020,1378.6 9020,1378.6 9020,1378.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9020,1378.6 C 9020,1378.6 8700,1459.6 8700,1459.6 C 8700,1459.6 8740,1414.04 8740,1378.6 C 8740,1342.73 8700,1296.6 8700,1296.6 C 8700,1296.6 9020,1378.6 9020,1378.6 C 9020,1378.6 9020,1378.6 9020,1378.6 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 456.647 33.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 482.627 48.2337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10203.1,1176.41 L 10219.1,1148.7 L 10505.8,1314.21 L 10489.8,1341.92 L 10203.1,1176.41 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10158.1,1254.35 L 10174.1,1226.64 L 10460.8,1392.15 L 10444.8,1419.86 L 10158.1,1254.35 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 508.547 63.3337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10714.3,1524.18 L 10730.4,1496.53 L 11003.5,1655.62 L 10987.4,1683.27 L 10714.3,1524.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 430.223 18.4237)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9958.75,1103.35 L 9942.95,1131.17 L 9639.1,958.692 L 9654.89,930.863 L 9958.75,1103.35 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10003.2,1025.08 L 9987.38,1052.9 L 9683.53,880.422 L 9699.32,852.593 L 10003.2,1025.08 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5555.18,1598.6 C 5507.76,1748.87 5636.12,1898.98 5841.69,1933.65 C 5946.87,1951.39 6061.73,1934.67 6149.6,1888.84 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6300.02,1724.2 C 6300.02,1724.2 6176.14,1956.33 6176.14,1956.33 C 6176.14,1956.33 6170.52,1907.99 6149.6,1888.84 C 6128.67,1869.68 6080.07,1868.38 6080.07,1868.38 C 6080.07,1868.38 6300.02,1724.2 6300.02,1724.2 C 6300.02,1724.2 6300.02,1724.2 6300.02,1724.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6300.02,1724.2 C 6300.02,1724.2 6176.14,1956.33 6176.14,1956.33 C 6176.14,1956.33 6170.52,1907.99 6149.6,1888.84 C 6128.67,1869.68 6080.07,1868.38 6080.07,1868.38 C 6080.07,1868.38 6300.02,1724.2 6300.02,1724.2 C 6300.02,1724.2 6300.02,1724.2 6300.02,1724.2 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6294.14,1870.18 A 20,20 0 1 0 6334.14,1870.18A 20,20 0 1 0 6294.14,1870.18Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6384.14,1870.18 A 20,20 0 1 0 6424.14,1870.18A 20,20 0 1 0 6384.14,1870.18Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6339.99,1398.69 C 6381.11,1304.86 6338.33,1195.32 6244.49,1154.21 C 6181.96,1126.8 6104.94,1137.45 6052.19,1180.79 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5999.97,1398.61 C 5999.97,1398.61 5996.41,1133.75 5996.41,1133.75 C 5996.41,1133.75 6024.52,1173.82 6052.19,1180.79 C 6079.85,1187.75 6122.88,1165.59 6122.88,1165.59 C 6122.88,1165.59 5999.97,1398.61 5999.97,1398.61 C 5999.97,1398.61 5999.97,1398.61 5999.97,1398.61 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5999.97,1398.61 C 5999.97,1398.61 5996.41,1133.75 5996.41,1133.75 C 5996.41,1133.75 6024.52,1173.82 6052.19,1180.79 C 6079.85,1187.75 6122.88,1165.59 6122.88,1165.59 C 6122.88,1165.59 5999.97,1398.61 5999.97,1398.61 C 5999.97,1398.61 5999.97,1398.61 5999.97,1398.61 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 421 75.93)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(Isocyanate)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 11.477 284.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1296.21,6117.39 L 1280.21,6089.67 L 1695.82,5848.96 L 1695.82,5885.97 L 1296.21,6117.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 63.437 284.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 72.103 287.473)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
+3</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1695.82,5885.97 L 1695.82,5848.96 L 2098.27,6082.1 L 2082.27,6109.81 L 1695.82,5885.97 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 37.123 239.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1666.8,5894.18 L 1634.8,5894.18 L 1634.8,5402.78 L 1666.8,5402.78 L 1666.8,5894.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1756.8,5894.18 L 1724.8,5894.18 L 1724.8,5402.78 L 1756.8,5402.78 L 1756.8,5894.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 3797.2,5744.2 L 2876.2,5744.2 L 2876.2,5712.2 L 3797.2,5712.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4076.2,5728.2 C 4076.2,5728.2 3756.2,5809.2 3756.2,5809.2 C 3756.2,5809.2 3796.2,5763.64 3796.2,5728.2 C 3796.2,5692.32 3756.2,5646.2 3756.2,5646.2 C 3756.2,5646.2 4076.2,5728.2 4076.2,5728.2 C 4076.2,5728.2 4076.2,5728.2 4076.2,5728.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4076.2,5728.2 C 4076.2,5728.2 3756.2,5809.2 3756.2,5809.2 C 3756.2,5809.2 3796.2,5763.64 3796.2,5728.2 C 3796.2,5692.32 3756.2,5646.2 3756.2,5646.2 C 3756.2,5646.2 4076.2,5728.2 4076.2,5728.2 C 4076.2,5728.2 4076.2,5728.2 4076.2,5728.2 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 172.477 284.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4516.21,6117.39 L 4500.21,6089.67 L 4915.82,5848.96 L 4915.82,5885.97 L 4516.21,6117.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 224.437 284.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4915.82,5885.97 L 4915.82,5848.96 L 5319.45,6082.78 L 5303.45,6110.49 L 4915.82,5885.97 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 198.123 239.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4886.8,5894.18 L 4854.8,5894.18 L 4854.8,5402.78 L 4886.8,5402.78 L 4886.8,5894.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4976.8,5894.18 L 4944.8,5894.18 L 4944.8,5402.78 L 4976.8,5402.78 L 4976.8,5894.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 250.417 269.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5544.28,6071.85 L 5528.28,6044.14 L 5800.62,5886.9 L 5816.62,5914.61 L 5544.28,6071.85 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5589.28,6149.79 L 5573.28,6122.08 L 5845.62,5964.84 L 5861.62,5992.55 L 5589.28,6149.79 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 276.397 254.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6063.88,5771.85 L 6047.88,5744.14 L 6320.22,5586.9 L 6336.22,5614.61 L 6063.88,5771.85 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6108.88,5849.79 L 6092.88,5822.08 L 6365.22,5664.84 L 6381.22,5692.55 L 6108.88,5849.79 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5862.14,5632.63 A 92.7999,92.7999 0 1 0 6047.74,5632.63A 92.7999,92.7999 0 1 0 5862.14,5632.63Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5898.94,5619.63 L 6010.94,5619.63 L 6010.94,5645.63 L 5898.94,5645.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5967.94,5576.63 L 5967.94,5688.63 L 5941.94,5688.63 L 5941.94,5576.63 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6548.32,5401.62 A 92.7999,92.7999 0 1 0 6733.92,5401.62A 92.7999,92.7999 0 1 0 6548.32,5401.62Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6585.12,5388.62 L 6697.12,5388.62 L 6697.12,5414.62 L 6585.12,5414.62 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8057.2,5684.2 L 7136.2,5684.2 L 7136.2,5652.2 L 8057.2,5652.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8336.2,5668.2 C 8336.2,5668.2 8016.2,5749.2 8016.2,5749.2 C 8016.2,5749.2 8056.2,5703.64 8056.2,5668.2 C 8056.2,5632.32 8016.2,5586.2 8016.2,5586.2 C 8016.2,5586.2 8336.2,5668.2 8336.2,5668.2 C 8336.2,5668.2 8336.2,5668.2 8336.2,5668.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8336.2,5668.2 C 8336.2,5668.2 8016.2,5749.2 8016.2,5749.2 C 8016.2,5749.2 8056.2,5703.64 8056.2,5668.2 C 8056.2,5632.32 8016.2,5586.2 8016.2,5586.2 C 8016.2,5586.2 8336.2,5668.2 8336.2,5668.2 C 8336.2,5668.2 8336.2,5668.2 8336.2,5668.2 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6646.12,5613.2 A 20,20 0 1 0 6686.12,5613.2A 20,20 0 1 0 6646.12,5613.2Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6646.12,5523.2 A 20,20 0 1 0 6686.12,5523.2A 20,20 0 1 0 6646.12,5523.2Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6456.21,5308.19 C 6356.85,5214.35 6200.03,5218.83 6106.19,5318.19 C 6070.37,5356.13 6047.02,5405.6 6040.53,5457.38 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6116.19,5668.21 C 6116.19,5668.21 5968.48,5449.88 5968.48,5449.88 C 5968.48,5449.88 6013.73,5467.27 6040.53,5457.38 C 6067.32,5447.48 6090.95,5404.64 6090.95,5404.64 C 6090.95,5404.64 6116.19,5668.21 6116.19,5668.21 C 6116.19,5668.21 6116.19,5668.21 6116.19,5668.21 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6116.19,5668.21 C 6116.19,5668.21 5968.48,5449.88 5968.48,5449.88 C 5968.48,5449.88 6013.73,5467.27 6040.53,5457.38 C 6067.32,5447.48 6090.95,5404.64 6090.95,5404.64 C 6090.95,5404.64 6116.19,5668.21 6116.19,5668.21 C 6116.19,5668.21 6116.19,5668.21 6116.19,5668.21 " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5716.22,5868.32 C 5720.92,5759.57 5636.39,5667.49 5527.53,5662.78 C 5435.71,5658.82 5347.23,5726.11 5326.63,5815.58 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5416.22,6028.16 C 5416.22,6028.16 5253.73,5810.77 5253.73,5810.77 C 5253.73,5810.77 5300.43,5826.88 5326.63,5815.58 C 5352.83,5804.29 5373.67,5759.06 5373.67,5759.06 C 5373.67,5759.06 5416.22,6028.16 5416.22,6028.16 C 5416.22,6028.16 5416.22,6028.16 5416.22,6028.16 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5416.22,6028.16 C 5416.22,6028.16 5253.73,5810.77 5253.73,5810.77 C 5253.73,5810.77 5300.43,5826.88 5326.63,5815.58 C 5352.83,5804.29 5373.67,5759.06 5373.67,5759.06 C 5373.67,5759.06 5416.22,6028.16 5416.22,6028.16 C 5416.22,6028.16 5416.22,6028.16 5416.22,6028.16 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 383.477 283.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8736.21,6097.39 L 8720.21,6069.67 L 9135.82,5828.96 L 9135.82,5865.97 L 8736.21,6097.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 435.437 283.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9135.82,5865.97 L 9135.82,5828.96 L 9539.45,6062.78 L 9523.45,6090.49 L 9135.82,5865.97 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 409.123 238.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9106.8,5874.18 L 9074.8,5874.18 L 9074.8,5382.78 L 9106.8,5382.78 L 9106.8,5874.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9196.8,5874.18 L 9164.8,5874.18 L 9164.8,5382.78 L 9196.8,5382.78 L 9196.8,5874.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 461.417 268.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9786.78,6090.82 L 9770.78,6063.11 L 10043.1,5905.87 L 10059.1,5933.58 L 9786.78,6090.82 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9562.54,5912.63 A 92.7999,92.7999 0 1 0 9748.14,5912.63A 92.7999,92.7999 0 1 0 9562.54,5912.63Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9599.34,5899.63 L 9711.34,5899.63 L 9711.34,5925.63 L 9599.34,5925.63 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10071.7,5580.44 C 9955.06,5538.49 9826.34,5599.22 9784.42,5716 C 9752.75,5804.25 9782.95,5910.08 9856.41,5968.27 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10216.1,5748.18 C 10216.1,5748.18 10002.2,5598.72 10002.2,5598.72 C 10002.2,5598.72 10050.6,5598.7 10071.7,5580.44 C 10092.9,5562.18 10100,5514.23 10100,5514.23 C 10100,5514.23 10216.1,5748.18 10216.1,5748.18 C 10216.1,5748.18 10216.1,5748.18 10216.1,5748.18 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10216.1,5748.18 C 10216.1,5748.18 10002.2,5598.72 10002.2,5598.72 C 10002.2,5598.72 10050.6,5598.7 10071.7,5580.44 C 10092.9,5562.18 10100,5514.23 10100,5514.23 C 10100,5514.23 10216.1,5748.18 10216.1,5748.18 C 10216.1,5748.18 10216.1,5748.18 10216.1,5748.18 " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8851.38,6068.2 C 8803.96,6218.47 8932.32,6368.58 9137.89,6403.25 C 9243.07,6420.99 9357.93,6404.27 9445.8,6358.44 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9596.22,6193.8 C 9596.22,6193.8 9472.34,6425.93 9472.34,6425.93 C 9472.34,6425.93 9466.72,6377.59 9445.8,6358.44 C 9424.87,6339.28 9376.27,6337.98 9376.27,6337.98 C 9376.27,6337.98 9596.22,6193.8 9596.22,6193.8 C 9596.22,6193.8 9596.22,6193.8 9596.22,6193.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9596.22,6193.8 C 9596.22,6193.8 9472.34,6425.93 9472.34,6425.93 C 9472.34,6425.93 9466.72,6377.59 9445.8,6358.44 C 9424.87,6339.28 9376.27,6337.98 9376.27,6337.98 C 9376.27,6337.98 9596.22,6193.8 9596.22,6193.8 C 9596.22,6193.8 9596.22,6193.8 9596.22,6193.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9590.34,6339.78 A 20,20 0 1 0 9630.34,6339.78A 20,20 0 1 0 9590.34,6339.78Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9680.34,6339.78 A 20,20 0 1 0 9720.34,6339.78A 20,20 0 1 0 9680.34,6339.78Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9636.19,5868.29 C 9677.31,5774.46 9634.53,5664.92 9540.69,5623.81 C 9478.16,5596.4 9401.14,5607.05 9348.39,5650.39 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9296.17,5868.21 C 9296.17,5868.21 9292.61,5603.35 9292.61,5603.35 C 9292.61,5603.35 9320.72,5643.42 9348.39,5650.39 C 9376.05,5657.35 9419.08,5635.19 9419.08,5635.19 C 9419.08,5635.19 9296.17,5868.21 9296.17,5868.21 C 9296.17,5868.21 9296.17,5868.21 9296.17,5868.21 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9296.17,5868.21 C 9296.17,5868.21 9292.61,5603.35 9292.61,5603.35 C 9292.61,5603.35 9320.72,5643.42 9348.39,5650.39 C 9376.05,5657.35 9419.08,5635.19 9419.08,5635.19 C 9419.08,5635.19 9296.17,5868.21 9296.17,5868.21 C 9296.17,5868.21 9296.17,5868.21 9296.17,5868.21 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 487.397 253.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10261.4,5712.88 L 10245.4,5685.17 L 10517.7,5527.93 L 10533.7,5555.64 L 10261.4,5712.88 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10306.4,5790.82 L 10290.4,5763.11 L 10562.7,5605.87 L 10578.7,5633.58 L 10306.4,5790.82 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10351.4,5868.76 L 10335.4,5841.05 L 10607.7,5683.81 L 10623.7,5711.52 L 10351.4,5868.76 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10082.1,5612.63 A 92.7999,92.7999 0 1 0 10267.7,5612.63A 92.7999,92.7999 0 1 0 10082.1,5612.63Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10118.9,5599.63 L 10230.9,5599.63 L 10230.9,5625.63 L 10118.9,5625.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10187.9,5556.63 L 10187.9,5668.63 L 10161.9,5668.63 L 10161.9,5556.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12097.2,5624.2 L 11176.2,5624.2 L 11176.2,5592.2 L 12097.2,5592.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12376.2,5608.2 C 12376.2,5608.2 12056.2,5689.2 12056.2,5689.2 C 12056.2,5689.2 12096.2,5643.64 12096.2,5608.2 C 12096.2,5572.32 12056.2,5526.2 12056.2,5526.2 C 12056.2,5526.2 12376.2,5608.2 12376.2,5608.2 C 12376.2,5608.2 12376.2,5608.2 12376.2,5608.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12376.2,5608.2 C 12376.2,5608.2 12056.2,5689.2 12056.2,5689.2 C 12056.2,5689.2 12096.2,5643.64 12096.2,5608.2 C 12096.2,5572.32 12056.2,5526.2 12056.2,5526.2 C 12056.2,5526.2 12376.2,5608.2 12376.2,5608.2 C 12376.2,5608.2 12376.2,5608.2 12376.2,5608.2 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 624.457 244.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 650.437 259.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13559.3,5406.01 L 13575.3,5378.3 L 13862,5543.81 L 13846,5571.52 L 13559.3,5406.01 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13514.3,5483.95 L 13530.3,5456.24 L 13817,5621.75 L 13801,5649.46 L 13514.3,5483.95 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 676.357 274.814)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14070.5,5753.78 L 14086.6,5726.13 L 14359.7,5885.22 L 14343.6,5912.87 L 14070.5,5753.78 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 598.033 229.904)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13314.9,5332.95 L 13299.2,5360.77 L 12995.3,5188.29 L 13011.1,5160.46 L 13314.9,5332.95 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13359.4,5254.68 L 13343.6,5282.5 L 13039.7,5110.02 L 13055.5,5082.19 L 13359.4,5254.68 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 593.81 293.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(Isocyanate)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 9.47699 393.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1256.21,8297.39 L 1240.21,8269.67 L 1655.79,8028.98 L 1655.79,8065.98 L 1256.21,8297.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 61.437 393.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+CHN</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 87.435 396.473)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
+2</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1655.79,8065.98 L 1655.79,8028.98 L 2077.66,8273.29 L 2061.66,8301.01 L 1655.79,8065.98 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 35.123 348.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1626.8,8074.18 L 1594.8,8074.18 L 1594.8,7582.78 L 1626.8,7582.78 L 1626.8,8074.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1716.8,8074.18 L 1684.8,8074.18 L 1684.8,7582.78 L 1716.8,7582.78 L 1716.8,8074.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4385.6,7924.2 L 3141.8,7924.2 L 3141.8,7892.2 L 4385.6,7892.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4664.6,7908.2 C 4664.6,7908.2 4344.6,7989.2 4344.6,7989.2 C 4344.6,7989.2 4384.6,7943.64 4384.6,7908.2 C 4384.6,7872.32 4344.6,7826.2 4344.6,7826.2 C 4344.6,7826.2 4664.6,7908.2 4664.6,7908.2 C 4664.6,7908.2 4664.6,7908.2 4664.6,7908.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 4664.6,7908.2 C 4664.6,7908.2 4344.6,7989.2 4344.6,7989.2 C 4344.6,7989.2 4384.6,7943.64 4384.6,7908.2 C 4384.6,7872.32 4344.6,7826.2 4344.6,7826.2 C 4344.6,7826.2 4664.6,7908.2 4664.6,7908.2 C 4664.6,7908.2 4664.6,7908.2 4664.6,7908.2 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 201.897 393.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5104.61,8297.39 L 5088.61,8269.67 L 5504.19,8028.98 L 5504.19,8065.98 L 5104.61,8297.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 253.857 393.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 253.857 403.947)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5504.19,8065.98 L 5504.19,8028.98 L 5926.81,8273.73 L 5910.81,8301.44 L 5504.19,8065.98 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 227.543 348.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5475.2,8074.18 L 5443.2,8074.18 L 5443.2,7582.78 L 5475.2,7582.78 L 5475.2,8074.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5565.2,8074.18 L 5533.2,8074.18 L 5533.2,7582.78 L 5565.2,7582.78 L 5565.2,8074.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 279.837 378.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6119.28,8259.58 L 6103.28,8231.87 L 6389.02,8066.9 L 6405.02,8094.61 L 6119.28,8259.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6164.28,8337.52 L 6148.28,8309.81 L 6434.02,8144.84 L 6450.02,8172.55 L 6164.28,8337.52 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 305.817 363.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6652.28,7951.85 L 6636.28,7924.14 L 6908.62,7766.9 L 6924.62,7794.61 L 6652.28,7951.85 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6697.28,8029.79 L 6681.28,8002.08 L 6953.62,7844.84 L 6969.62,7872.55 L 6697.28,8029.79 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6450.54,7812.63 A 92.7999,92.7999 0 1 0 6636.14,7812.63A 92.7999,92.7999 0 1 0 6450.54,7812.63Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6487.34,7799.63 L 6599.34,7799.63 L 6599.34,7825.63 L 6487.34,7825.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6556.34,7756.63 L 6556.34,7868.63 L 6530.34,7868.63 L 6530.34,7756.63 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7136.72,7581.62 A 92.7999,92.7999 0 1 0 7322.32,7581.62A 92.7999,92.7999 0 1 0 7136.72,7581.62Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7173.52,7568.62 L 7285.52,7568.62 L 7285.52,7594.62 L 7173.52,7594.62 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8645.6,7864.2 L 7724.6,7864.2 L 7724.6,7832.2 L 8645.6,7832.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8924.6,7848.2 C 8924.6,7848.2 8604.6,7929.2 8604.6,7929.2 C 8604.6,7929.2 8644.6,7883.64 8644.6,7848.2 C 8644.6,7812.32 8604.6,7766.2 8604.6,7766.2 C 8604.6,7766.2 8924.6,7848.2 8924.6,7848.2 C 8924.6,7848.2 8924.6,7848.2 8924.6,7848.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8924.6,7848.2 C 8924.6,7848.2 8604.6,7929.2 8604.6,7929.2 C 8604.6,7929.2 8644.6,7883.64 8644.6,7848.2 C 8644.6,7812.32 8604.6,7766.2 8604.6,7766.2 C 8604.6,7766.2 8924.6,7848.2 8924.6,7848.2 C 8924.6,7848.2 8924.6,7848.2 8924.6,7848.2 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7234.52,7793.2 A 20,20 0 1 0 7274.52,7793.2A 20,20 0 1 0 7234.52,7793.2Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7234.52,7703.2 A 20,20 0 1 0 7274.52,7703.2A 20,20 0 1 0 7234.52,7703.2Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7044.61,7488.19 C 6945.25,7394.35 6788.43,7398.83 6694.59,7498.19 C 6658.77,7536.13 6635.42,7585.6 6628.93,7637.38 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6704.59,7848.21 C 6704.59,7848.21 6556.88,7629.88 6556.88,7629.88 C 6556.88,7629.88 6602.13,7647.27 6628.93,7637.38 C 6655.72,7627.48 6679.35,7584.64 6679.35,7584.64 C 6679.35,7584.64 6704.59,7848.21 6704.59,7848.21 C 6704.59,7848.21 6704.59,7848.21 6704.59,7848.21 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6704.59,7848.21 C 6704.59,7848.21 6556.88,7629.88 6556.88,7629.88 C 6556.88,7629.88 6602.13,7647.27 6628.93,7637.38 C 6655.72,7627.48 6679.35,7584.64 6679.35,7584.64 C 6679.35,7584.64 6704.59,7848.21 6704.59,7848.21 C 6704.59,7848.21 6704.59,7848.21 6704.59,7848.21 " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6304.62,8048.32 C 6309.32,7939.57 6224.79,7847.49 6115.93,7842.78 C 6024.11,7838.82 5935.63,7906.11 5915.03,7995.58 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6004.62,8208.16 C 6004.62,8208.16 5842.13,7990.77 5842.13,7990.77 C 5842.13,7990.77 5888.83,8006.88 5915.03,7995.58 C 5941.23,7984.29 5962.07,7939.06 5962.07,7939.06 C 5962.07,7939.06 6004.62,8208.16 6004.62,8208.16 C 6004.62,8208.16 6004.62,8208.16 6004.62,8208.16 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6004.62,8208.16 C 6004.62,8208.16 5842.13,7990.77 5842.13,7990.77 C 5842.13,7990.77 5888.83,8006.88 5915.03,7995.58 C 5941.23,7984.29 5962.07,7939.06 5962.07,7939.06 C 5962.07,7939.06 6004.62,8208.16 6004.62,8208.16 C 6004.62,8208.16 6004.62,8208.16 6004.62,8208.16 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 412.897 392.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9324.61,8277.39 L 9308.61,8249.67 L 9724.19,8008.98 L 9724.19,8045.98 L 9324.61,8277.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 464.857 392.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 464.857 402.947)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9724.19,8045.98 L 9724.19,8008.98 L 10146.8,8253.73 L 10130.8,8281.44 L 9724.19,8045.98 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 438.543 347.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9695.2,8054.18 L 9663.2,8054.18 L 9663.2,7562.78 L 9695.2,7562.78 L 9695.2,8054.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9785.2,8054.18 L 9753.2,8054.18 L 9753.2,7562.78 L 9785.2,7562.78 L 9785.2,8054.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 490.837 377.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10361.8,8278.55 L 10345.8,8250.84 L 10631.5,8085.87 L 10647.5,8113.58 L 10361.8,8278.55 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10151.2,8090.28 A 92.7999,92.7999 0 1 0 10336.8,8090.28A 92.7999,92.7999 0 1 0 10151.2,8090.28Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10188,8077.28 L 10300,8077.28 L 10300,8103.28 L 10188,8103.28 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10660.1,7760.44 C 10543.5,7718.49 10414.7,7779.22 10372.8,7896 C 10341.2,7984.25 10371.4,8090.08 10444.8,8148.27 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10804.5,7928.18 C 10804.5,7928.18 10590.6,7778.72 10590.6,7778.72 C 10590.6,7778.72 10639,7778.7 10660.1,7760.44 C 10681.3,7742.18 10688.4,7694.23 10688.4,7694.23 C 10688.4,7694.23 10804.5,7928.18 10804.5,7928.18 C 10804.5,7928.18 10804.5,7928.18 10804.5,7928.18 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10804.5,7928.18 C 10804.5,7928.18 10590.6,7778.72 10590.6,7778.72 C 10590.6,7778.72 10639,7778.7 10660.1,7760.44 C 10681.3,7742.18 10688.4,7694.23 10688.4,7694.23 C 10688.4,7694.23 10804.5,7928.18 10804.5,7928.18 C 10804.5,7928.18 10804.5,7928.18 10804.5,7928.18 " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9439.78,8248.2 C 9392.36,8398.47 9520.72,8548.58 9726.29,8583.25 C 9831.47,8600.99 9946.33,8584.27 10034.2,8538.44 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10184.6,8373.8 C 10184.6,8373.8 10060.7,8605.93 10060.7,8605.93 C 10060.7,8605.93 10055.1,8557.59 10034.2,8538.44 C 10013.3,8519.28 9964.67,8517.98 9964.67,8517.98 C 9964.67,8517.98 10184.6,8373.8 10184.6,8373.8 C 10184.6,8373.8 10184.6,8373.8 10184.6,8373.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10184.6,8373.8 C 10184.6,8373.8 10060.7,8605.93 10060.7,8605.93 C 10060.7,8605.93 10055.1,8557.59 10034.2,8538.44 C 10013.3,8519.28 9964.67,8517.98 9964.67,8517.98 C 9964.67,8517.98 10184.6,8373.8 10184.6,8373.8 C 10184.6,8373.8 10184.6,8373.8 10184.6,8373.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10415.9,8583.96 A 20,20 0 1 0 10455.9,8583.96A 20,20 0 1 0 10415.9,8583.96Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10415.9,8493.96 A 20,20 0 1 0 10455.9,8493.96A 20,20 0 1 0 10415.9,8493.96Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10224.6,8048.29 C 10265.7,7954.46 10222.9,7844.92 10129.1,7803.81 C 10066.6,7776.4 9989.54,7787.05 9936.79,7830.39 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9884.57,8048.21 C 9884.57,8048.21 9881.01,7783.35 9881.01,7783.35 C 9881.01,7783.35 9909.12,7823.42 9936.79,7830.39 C 9964.45,7837.35 10007.5,7815.19 10007.5,7815.19 C 10007.5,7815.19 9884.57,8048.21 9884.57,8048.21 C 9884.57,8048.21 9884.57,8048.21 9884.57,8048.21 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 9884.57,8048.21 C 9884.57,8048.21 9881.01,7783.35 9881.01,7783.35 C 9881.01,7783.35 9909.12,7823.42 9936.79,7830.39 C 9964.45,7837.35 10007.5,7815.19 10007.5,7815.19 C 10007.5,7815.19 9884.57,8048.21 9884.57,8048.21 C 9884.57,8048.21 9884.57,8048.21 9884.57,8048.21 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 516.817 362.714)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10849.8,7892.88 L 10833.8,7865.17 L 11106.1,7707.93 L 11122.1,7735.64 L 10849.8,7892.88 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10894.8,7970.82 L 10878.8,7943.11 L 11151.1,7785.87 L 11167.1,7813.58 L 10894.8,7970.82 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10939.8,8048.76 L 10923.8,8021.05 L 11196.1,7863.81 L 11212.1,7891.52 L 10939.8,8048.76 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10670.5,7792.63 A 92.7999,92.7999 0 1 0 10856.1,7792.63A 92.7999,92.7999 0 1 0 10670.5,7792.63Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10707.3,7779.63 L 10819.3,7779.63 L 10819.3,7805.63 L 10707.3,7805.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10776.3,7736.63 L 10776.3,7848.63 L 10750.3,7848.63 L 10750.3,7736.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12685.6,7804.2 L 11764.6,7804.2 L 11764.6,7772.2 L 12685.6,7772.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12964.6,7788.2 C 12964.6,7788.2 12644.6,7869.2 12644.6,7869.2 C 12644.6,7869.2 12684.6,7823.64 12684.6,7788.2 C 12684.6,7752.32 12644.6,7706.2 12644.6,7706.2 C 12644.6,7706.2 12964.6,7788.2 12964.6,7788.2 C 12964.6,7788.2 12964.6,7788.2 12964.6,7788.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12964.6,7788.2 C 12964.6,7788.2 12644.6,7869.2 12644.6,7869.2 C 12644.6,7869.2 12684.6,7823.64 12684.6,7788.2 C 12684.6,7752.32 12644.6,7706.2 12644.6,7706.2 C 12644.6,7706.2 12964.6,7788.2 12964.6,7788.2 C 12964.6,7788.2 12964.6,7788.2 12964.6,7788.2 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 653.877 360.374)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 679.857 375.374)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+CH</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14147.7,7719.21 L 14163.7,7691.5 L 14469.3,7867.96 L 14453.3,7895.67 L 14147.7,7719.21 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14102.7,7797.15 L 14118.7,7769.44 L 14424.3,7945.9 L 14408.3,7973.61 L 14102.7,7797.15 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 705.777 390.474)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14789.4,8143.01 L 14805.5,8115.36 L 14948.1,8198.42 L 14932,8226.07 L 14789.4,8143.01 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 627.453 345.564)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13903.3,7646.15 L 13887.6,7673.97 L 13583.7,7501.49 L 13599.5,7473.66 L 13903.3,7646.15 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13947.8,7567.88 L 13932,7595.7 L 13628.1,7423.22 L 13643.9,7395.39 L 13947.8,7567.88 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 623.23 406.22)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(ketene)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 117.923 249.414)" font-style="normal" font-weight="normal" font-size="320px" font-family="Symbol" >
+D</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 149.343 357.414)" font-style="normal" font-weight="normal" font-size="320px" font-family="Symbol" >
+D</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 738.52 251.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+: </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 747.411 251.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Curtius </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 802.536 251.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Rearrangement</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 739.52 361.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+: </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 748.411 361.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Wolff </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 788.739 361.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Rearrangement</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 0.899994 423.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(Diazo </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 51.5797 423.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Ketone)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 2.81 308.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(Acyl </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.935 308.41)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Azide)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 735.62 34.93)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+: </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 744.511 34.93)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Hofmann </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 813.878 34.93)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Rearrangement</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13049.6,1348.8 L 11748.2,1348.8 L 11748.2,1316.8 L 13049.6,1316.8 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13328.6,1332.8 C 13328.6,1332.8 13008.6,1413.8 13008.6,1413.8 C 13008.6,1413.8 13048.6,1368.24 13048.6,1332.8 C 13048.6,1296.93 13008.6,1250.8 13008.6,1250.8 C 13008.6,1250.8 13328.6,1332.8 13328.6,1332.8 C 13328.6,1332.8 13328.6,1332.8 13328.6,1332.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 13328.6,1332.8 C 13328.6,1332.8 13008.6,1413.8 13008.6,1413.8 C 13008.6,1413.8 13048.6,1368.24 13048.6,1332.8 C 13048.6,1296.93 13008.6,1250.8 13008.6,1250.8 C 13008.6,1250.8 13328.6,1332.8 13328.6,1332.8 C 13328.6,1332.8 13328.6,1332.8 13328.6,1332.8 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 135.997 32.9283)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+OH</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 159.997 27.19)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+-</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 566.253 30.9983)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+H</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 577.807 34.678)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+2</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 584.481 30.9983)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+O</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 652.74 43.49)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+?</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1.70999 204.53)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+(hydroxamate </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 103.976 204.53)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+ester)</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 10.567 153.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1278.01,3489.79 L 1262.01,3462.07 L 1677.62,3221.36 L 1677.62,3258.37 L 1278.01,3489.79 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 62.527 153.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1677.62,3258.37 L 1677.62,3221.36 L 2081.25,3455.18 L 2065.25,3482.89 L 1677.62,3258.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 36.213 108.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1648.6,3266.58 L 1616.6,3266.58 L 1616.6,2775.18 L 1648.6,2775.18 L 1648.6,3266.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 1738.6,3266.58 L 1706.6,3266.58 L 1706.6,2775.18 L 1738.6,2775.18 L 1738.6,3266.58 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 62.527 183.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+H</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 2181.2,3666.53 L 2213.2,3666.53 L 2213.2,4014.53 L 2181.2,4014.53 L 2181.2,3666.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 88.173 138.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 2328.58,3483.22 L 2312.58,3455.51 L 2594.62,3292.67 L 2610.62,3320.38 L 2328.58,3483.22 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5453,3316.6 L 4332,3316.6 L 4332,3284.6 L 5453,3284.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5732,3300.6 C 5732,3300.6 5412,3381.6 5412,3381.6 C 5412,3381.6 5452,3336.04 5452,3300.6 C 5452,3264.73 5412,3218.6 5412,3218.6 C 5412,3218.6 5732,3300.6 5732,3300.6 C 5732,3300.6 5732,3300.6 5732,3300.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 5732,3300.6 C 5732,3300.6 5412,3381.6 5412,3381.6 C 5412,3381.6 5452,3336.04 5452,3300.6 C 5452,3264.73 5412,3218.6 5412,3218.6 C 5412,3218.6 5732,3300.6 5732,3300.6 C 5732,3300.6 5732,3300.6 5732,3300.6 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 254.847 158.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6163.61,3588.99 L 6147.61,3561.27 L 6563.22,3320.56 L 6563.22,3357.57 L 6163.61,3588.99 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 306.807 158.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6563.22,3357.57 L 6563.22,3320.56 L 6966.85,3554.38 L 6950.85,3582.09 L 6563.22,3357.57 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 280.493 113.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6534.2,3365.78 L 6502.2,3365.78 L 6502.2,2874.38 L 6534.2,2874.38 L 6534.2,3365.78 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6624.2,3365.78 L 6592.2,3365.78 L 6592.2,2874.38 L 6624.2,2874.38 L 6624.2,3365.78 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 332.453 143.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7214.18,3582.42 L 7198.18,3554.71 L 7480.22,3391.87 L 7496.22,3419.58 L 7214.18,3582.42 Z " />
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6989.94,3404.23 A 92.7999,92.7999 0 1 0 7175.54,3404.23A 92.7999,92.7999 0 1 0 6989.94,3404.23Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7026.74,3391.23 L 7138.74,3391.23 L 7138.74,3417.23 L 7026.74,3417.23 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7498.95,3071.97 C 7382.24,3030.12 7253.57,3090.97 7211.76,3207.78 C 7180.16,3296.06 7210.45,3401.86 7283.97,3459.99 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7643.45,3239.59 C 7643.45,3239.59 7429.41,3090.31 7429.41,3090.31 C 7429.41,3090.31 7477.81,3090.25 7498.95,3071.97 C 7520.08,3053.69 7527.2,3005.74 7527.2,3005.74 C 7527.2,3005.74 7643.45,3239.59 7643.45,3239.59 C 7643.45,3239.59 7643.45,3239.59 7643.45,3239.59 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7643.45,3239.59 C 7643.45,3239.59 7429.41,3090.31 7429.41,3090.31 C 7429.41,3090.31 7477.81,3090.25 7498.95,3071.97 C 7520.08,3053.69 7527.2,3005.74 7527.2,3005.74 C 7527.2,3005.74 7643.45,3239.59 7643.45,3239.59 C 7643.45,3239.59 7643.45,3239.59 7643.45,3239.59 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10169,3336.6 L 9248,3336.6 L 9248,3304.6 L 10169,3304.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10448,3320.6 C 10448,3320.6 10128,3401.6 10128,3401.6 C 10128,3401.6 10168,3356.04 10168,3320.6 C 10168,3284.73 10128,3238.6 10128,3238.6 C 10128,3238.6 10448,3320.6 10448,3320.6 C 10448,3320.6 10448,3320.6 10448,3320.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 10448,3320.6 C 10448,3320.6 10128,3401.6 10128,3401.6 C 10128,3401.6 10168,3356.04 10168,3320.6 C 10168,3284.73 10128,3238.6 10128,3238.6 C 10128,3238.6 10448,3320.6 10448,3320.6 C 10448,3320.6 10448,3320.6 10448,3320.6 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 528.047 130.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+C</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 554.027 145.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+N</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 11631.1,3118.41 L 11647.1,3090.7 L 11933.8,3256.21 L 11917.8,3283.92 L 11631.1,3118.41 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 11586.1,3196.35 L 11602.1,3168.64 L 11888.8,3334.15 L 11872.8,3361.86 L 11586.1,3196.35 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 579.947 160.434)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 12142.3,3466.18 L 12158.4,3438.53 L 12431.5,3597.62 L 12415.4,3625.27 L 12142.3,3466.18 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 501.623 115.524)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 11386.7,3045.35 L 11371,3073.17 L 11067.1,2900.69 L 11082.9,2872.86 L 11386.7,3045.35 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 11431.2,2967.08 L 11415.4,2994.9 L 11111.5,2822.42 L 11127.3,2794.59 L 11431.2,2967.08 Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6278.78,3559.8 C 6231.36,3710.07 6359.73,3860.18 6565.29,3894.85 C 6670.47,3912.59 6785.33,3895.87 6873.2,3850.04 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7023.62,3685.4 C 7023.62,3685.4 6899.74,3917.53 6899.74,3917.53 C 6899.74,3917.53 6894.12,3869.19 6873.2,3850.04 C 6852.27,3830.88 6803.67,3829.58 6803.67,3829.58 C 6803.67,3829.58 7023.62,3685.4 7023.62,3685.4 C 7023.62,3685.4 7023.62,3685.4 7023.62,3685.4 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7023.62,3685.4 C 7023.62,3685.4 6899.74,3917.53 6899.74,3917.53 C 6899.74,3917.53 6894.12,3869.19 6873.2,3850.04 C 6852.27,3830.88 6803.67,3829.58 6803.67,3829.58 C 6803.67,3829.58 7023.62,3685.4 7023.62,3685.4 C 7023.62,3685.4 7023.62,3685.4 7023.62,3685.4 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7017.74,3831.38 A 20,20 0 1 0 7057.74,3831.38A 20,20 0 1 0 7017.74,3831.38Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7107.74,3831.38 A 20,20 0 1 0 7147.74,3831.38A 20,20 0 1 0 7107.74,3831.38Z " />
+<path stroke="#0000ff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7063.59,3359.89 C 7104.71,3266.06 7061.93,3156.52 6968.09,3115.41 C 6905.56,3088 6828.54,3098.65 6775.79,3141.99 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6723.57,3359.81 C 6723.57,3359.81 6720.01,3094.95 6720.01,3094.95 C 6720.01,3094.95 6748.12,3135.02 6775.79,3141.99 C 6803.45,3148.95 6846.48,3126.79 6846.48,3126.79 C 6846.48,3126.79 6723.57,3359.81 6723.57,3359.81 C 6723.57,3359.81 6723.57,3359.81 6723.57,3359.81 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 6723.57,3359.81 C 6723.57,3359.81 6720.01,3094.95 6720.01,3094.95 C 6720.01,3094.95 6748.12,3135.02 6775.79,3141.99 C 6803.45,3148.95 6846.48,3126.79 6846.48,3126.79 C 6846.48,3126.79 6723.57,3359.81 6723.57,3359.81 C 6723.57,3359.81 6723.57,3359.81 6723.57,3359.81 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 737.52 139.65)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+: </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 746.411 139.65)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Lossen </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 802.45 139.65)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Rearrangement</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 2819.84,3318.54 L 2835.84,3290.83 L 3236.62,3522.83 L 3236.62,3559.84 L 2819.84,3318.54 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 140.477 138.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R’</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 3236.62,3559.84 L 3236.62,3522.83 L 3626.43,3297.05 L 3642.43,3324.76 L 3236.62,3559.84 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 114.163 183.334)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 3265.6,3514.62 L 3297.6,3514.62 L 3297.6,4012.18 L 3265.6,4012.18 L 3265.6,3514.62 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 3175.6,3514.63 L 3207.6,3514.63 L 3207.6,4012.18 L 3175.6,4012.18 L 3175.6,3514.63 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 7705.43,3417.76 L 7721.43,3390.05 L 8122.02,3622.03 L 8122.02,3659.04 L 7705.43,3417.76 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 384.747 143.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+R’</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8122.02,3659.04 L 8122.02,3622.03 L 8511.08,3396.68 L 8527.08,3424.4 L 8122.02,3659.04 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 358.433 188.294)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+O</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8151,3613.82 L 8183,3613.82 L 8183,4111.38 L 8151,4111.38 L 8151,3613.82 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 8061,3613.82 L 8093,3613.82 L 8093,4111.38 L 8061,4111.38 L 8061,3613.82 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 183.597 130.038)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+OH</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 207.597 124.3)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+-</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14249.2,3310 L 12947.8,3310 L 12947.8,3278 L 14249.2,3278 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14528.2,3294 C 14528.2,3294 14208.2,3375 14208.2,3375 C 14208.2,3375 14248.2,3329.44 14248.2,3294 C 14248.2,3258.13 14208.2,3212 14208.2,3212 C 14208.2,3212 14528.2,3294 14528.2,3294 C 14528.2,3294 14528.2,3294 14528.2,3294 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -43 -28)" d="M 14528.2,3294 C 14528.2,3294 14208.2,3375 14208.2,3375 C 14208.2,3375 14248.2,3329.44 14248.2,3294 C 14248.2,3258.13 14208.2,3212 14208.2,3212 C 14208.2,3212 14528.2,3294 14528.2,3294 C 14528.2,3294 14528.2,3294 14528.2,3294 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 626.233 129.058)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+H</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 637.787 132.738)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+2</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 644.461 129.058)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+O</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 712.72 141.55)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+?</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 518.808 164.288)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
++</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 498.663 187.138)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+R’COO</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 550.217 181.4)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+-</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 122.45 383.374)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+or </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 141.122 383.374)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+hv</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 122.45 400.291)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+or </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 140.247 400.291)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+Ag</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 159.817 403.97)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+2</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 166.491 400.291)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+O</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 106.266 273.894)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+or </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 124.938 273.894)" font-style="normal" font-weight="normal" font-size="320px" font-family="Helvetica" >
+hv</text>
+</svg>
