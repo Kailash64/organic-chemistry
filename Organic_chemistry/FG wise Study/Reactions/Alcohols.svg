@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="975px" height="2464px" viewBox="0 0 975 2464" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<svg width="975px" height="2509px" viewBox="0 0 975 2509" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
 <clipPath id="1" >
 <path clip-rule="nonzero" d="M 5.05,5.3 L 151.55,5.3 L 151.55,470.9 L 5.05,470.9 L 5.05,5.3 " />
 </clipPath>
@@ -2271,6 +2271,32 @@ alcohol</text>
 </clipPath>
 <g clip-path="url(#24)" >
 <path stroke="none" fill="#ffffff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17925,48455 L 21049,48455 L 21049,49452 L 17925,49452 L 17925,48455 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 830.06 2434.18)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+covered </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 876.085 2434.18)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+under </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.111 2434.18)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+reagents</text>
+</g>
+<clipPath id="25" >
+<path clip-rule="nonzero" d="M 5.05,2459.55 L 151.55,2459.55 L 151.55,2503.9 L 5.05,2503.9 L 5.05,2459.55 " />
+</clipPath>
+<g clip-path="url(#25)" >
+<path stroke="none" fill="#ffffff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 1741,49451 L 4671,49451 L 4671,50338 L 1741,50338 L 1741,49451 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 17.67 2486.38)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+Esterification</text>
+</g>
+<clipPath id="26" >
+<path clip-rule="nonzero" d="M 151.5,2459.55 L 814.3,2459.55 L 814.3,2503.9 L 151.5,2503.9 L 151.5,2459.55 " />
+</clipPath>
+<g clip-path="url(#26)" >
+<path stroke="none" fill="#ffffff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4670,49451 L 17926,49451 L 17926,50338 L 4670,50338 L 4670,49451 " />
+</g>
+<clipPath id="27" >
+<path clip-rule="nonzero" d="M 814.25,2459.55 L 970.45,2459.55 L 970.45,2503.9 L 814.25,2503.9 L 814.25,2459.55 " />
+</clipPath>
+<g clip-path="url(#27)" >
+<path stroke="none" fill="#ffffff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17925,49451 L 21049,49451 L 21049,50338 L 17925,50338 L 17925,49451 " />
 </g>
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 1757.4,350.6 L 1757.4,9693.4 L 1725.4,9693.4 L 1725.4,350.6 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4686.8,350.6 L 4686.8,9693.4 L 4654.8,9693.4 L 4654.8,350.6 Z " />
@@ -2368,4 +2394,16 @@ alcohol</text>
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 21064.6,48439 L 21064.6,49467.2 L 21032.6,49467.2 L 21032.6,48439 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17909.6,48439 L 21064.6,48439 L 21064.6,48471 L 17909.6,48471 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17909.6,49435.2 L 21064.6,49435.2 L 21064.6,49467.2 L 17909.6,49467.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 1757.4,49435.2 L 1757.4,50353.4 L 1725.4,50353.4 L 1725.4,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4686.8,49435.2 L 4686.8,50353.4 L 4654.8,50353.4 L 4654.8,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 1725.4,49435.2 L 4686.8,49435.2 L 4686.8,49467.2 L 1725.4,49467.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 1725.4,50321.4 L 4686.8,50321.4 L 4686.8,50353.4 L 1725.4,50353.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4686.8,49435.2 L 4686.8,50353.4 L 4654.8,50353.4 L 4654.8,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17941.6,49435.2 L 17941.6,50353.4 L 17909.6,50353.4 L 17909.6,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4654.8,49435.2 L 17941.6,49435.2 L 17941.6,49467.2 L 4654.8,49467.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 4654.8,50321.4 L 17941.6,50321.4 L 17941.6,50353.4 L 4654.8,50353.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17941.6,49435.2 L 17941.6,50353.4 L 17909.6,50353.4 L 17909.6,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 21064.6,49435.2 L 21064.6,50353.4 L 21032.6,50353.4 L 21032.6,49435.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17909.6,49435.2 L 21064.6,49435.2 L 21064.6,49467.2 L 17909.6,49467.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -82 -13)" d="M 17909.6,50321.4 L 21064.6,50321.4 L 21064.6,50353.4 L 17909.6,50353.4 Z " />
 </svg>
