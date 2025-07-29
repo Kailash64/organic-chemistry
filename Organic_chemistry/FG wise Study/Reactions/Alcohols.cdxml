@@ -80,7 +80,7 @@
 <font id="23" charset="x-mac-roman" name="Symbol"/>
 <font id="308" charset="x-mac-roman" name="Helvetica Bold"/>
 </fonttable><page
- id="9619"
+ id="9639"
  BoundingBox="0 0 1728 3888"
  HeaderPosition="36"
  FooterPosition="36"
@@ -92,7 +92,7 @@
  BoundingBox="84.67 15.93 1054.85 2548.01"
  Z="1"
 ><page
- id="9620"
+ id="9640"
  BoundingBox="87.07 18.33 233.54 483.87"
  HeaderPosition="36"
  FooterPosition="36"
@@ -109,7 +109,7 @@
  LineHeight="auto"
  WordWrapWidth="130"
 ><s font="21" size="14">Reaction with HX</s></t></page><page
- id="9621"
+ id="9641"
  BoundingBox="233.54 18.33 896.28 483.87"
  HeaderPosition="36"
  FooterPosition="36"
@@ -152,7 +152,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9622"
+ id="9642"
 ><n
  id="2490"
  p="37.72 100.42"
@@ -300,7 +300,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9623"
+ id="9643"
 ><n
  id="2501"
  p="36.89 368.60"
@@ -448,7 +448,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9624"
+ id="9644"
 ><n
  id="696"
  p="49.41 446.81"
@@ -572,7 +572,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9625"
+ id="9645"
 ><n
  id="706"
  p="139.06 57.13"
@@ -646,7 +646,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9626"
+ id="9646"
 ><n
  id="527"
  p="138.23 10.17"
@@ -670,7 +670,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9627"
+ id="9647"
 ><n
  id="709"
  p="167.89 31.97"
@@ -863,7 +863,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9628"
+ id="9648"
 ><n
  id="1003"
  p="139.90 116.63"
@@ -949,7 +949,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9629"
+ id="9649"
 ><n
  id="2517"
  p="23.34 247.06"
@@ -1080,7 +1080,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9630"
+ id="9650"
 ><n
  id="1044"
  p="162.53 173.61"
@@ -1104,7 +1104,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9631"
+ id="9651"
 ><n
  id="1056"
  p="144.93 243.17"
@@ -1139,7 +1139,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9632"
+ id="9652"
 ><n
  id="2535"
  p="217.05 99.58"
@@ -1362,7 +1362,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9633"
+ id="9653"
 ><n
  id="2546"
  p="200.16 251.25"
@@ -1503,7 +1503,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9634"
+ id="9654"
 ><n
  id="2562"
  p="459.24 361.06"
@@ -1666,7 +1666,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9635"
+ id="9655"
 ><n
  id="1265"
  p="355.28 445.97"
@@ -1821,7 +1821,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9636"
+ id="9656"
 ><n
  id="1314"
  p="461.71 445.97"
@@ -2067,7 +2067,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9637"
+ id="9657"
 ><n
  id="2575"
  p="567.34 361.89"
@@ -2219,7 +2219,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9638"
+ id="9658"
 ><n
  id="1472"
  p="299.96 55.46"
@@ -2274,7 +2274,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9639"
+ id="9659"
 ><n
  id="2587"
  p="372.92 98.74"
@@ -2542,7 +2542,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9640"
+ id="9660"
 ><n
  id="1596"
  p="329.21 237"
@@ -2676,7 +2676,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9641"
+ id="9661"
 ><n
  id="1694"
  p="120.63 316.91"
@@ -2723,7 +2723,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9642"
+ id="9662"
 ><n
  id="1702"
  p="188.56 361.06"
@@ -2857,7 +2857,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9643"
+ id="9663"
 ><n
  id="1724"
  p="218.72 391.67"
@@ -2979,7 +2979,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9644"
+ id="9664"
 ><n
  id="1742"
  p="120.63 413.28"
@@ -3005,7 +3005,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9645"
+ id="9665"
 ><n
  id="1746"
  p="132.53 338.68"
@@ -3055,7 +3055,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9646"
+ id="9666"
 ><n
  id="1752"
  p="133.36 435.89"
@@ -3124,7 +3124,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9647"
+ id="9667"
 ><n
  id="1845"
  p="324.32 360.22"
@@ -3241,7 +3241,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9648"
+ id="9668"
 ><n
  id="1940"
  p="411.33 235.33"
@@ -3490,7 +3490,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9649"
+ id="9669"
 ><n
  id="2607"
  p="458.40 98.74"
@@ -3715,7 +3715,7 @@
  LabelAlignment="Left"
 ><s font="21" size="12">X</s><s font="21" size="12" face="64">-</s></t></n></fragment><graphic
  id="9374"
- SupersededBy="9650"
+ SupersededBy="9670"
  BoundingBox="176.04 68.74 127.42 68.74"
  Z="692"
  GraphicType="Line"
@@ -3723,7 +3723,7 @@
  HeadSize="1000"
 /><graphic
  id="9375"
- SupersededBy="9651"
+ SupersededBy="9671"
  BoundingBox="175.20 21.78 126.58 21.78"
  Z="714"
  GraphicType="Line"
@@ -3731,7 +3731,7 @@
  HeadSize="1000"
 /><graphic
  id="9376"
- SupersededBy="9652"
+ SupersededBy="9672"
  BoundingBox="176.88 128.24 128.26 128.24"
  Z="742"
  GraphicType="Line"
@@ -3739,7 +3739,7 @@
  HeadSize="1000"
 /><graphic
  id="9377"
- SupersededBy="9653"
+ SupersededBy="9673"
  BoundingBox="199.50 185.22 150.88 185.22"
  Z="764"
  GraphicType="Line"
@@ -3747,7 +3747,7 @@
  HeadSize="1000"
 /><graphic
  id="9378"
- SupersededBy="9654"
+ SupersededBy="9674"
  BoundingBox="180.23 254.78 131.61 254.78"
  Z="768"
  GraphicType="Line"
@@ -3755,7 +3755,7 @@
  HeadSize="1000"
 /><graphic
  id="9379"
- SupersededBy="9655"
+ SupersededBy="9675"
  BoundingBox="423.25 328.52 387.99 328.52"
  Z="803"
  GraphicType="Line"
@@ -3763,7 +3763,7 @@
  HeadSize="1000"
 /><graphic
  id="9380"
- SupersededBy="9656"
+ SupersededBy="9676"
  BoundingBox="331.91 67.06 283.29 67.06"
  Z="883"
  GraphicType="Line"
@@ -3771,7 +3771,7 @@
  HeadSize="1000"
 /><graphic
  id="9381"
- SupersededBy="9657"
+ SupersededBy="9677"
  BoundingBox="332.75 126.56 284.13 126.56"
  Z="886"
  GraphicType="Line"
@@ -3779,7 +3779,7 @@
  HeadSize="1000"
 /><graphic
  id="9382"
- SupersededBy="9658"
+ SupersededBy="9678"
  BoundingBox="350.34 183.55 301.72 183.55"
  Z="913"
  GraphicType="Line"
@@ -3787,7 +3787,7 @@
  HeadSize="1000"
 /><graphic
  id="9383"
- SupersededBy="9659"
+ SupersededBy="9679"
  BoundingBox="315.15 253.94 266.53 253.94"
  Z="938"
  GraphicType="Line"
@@ -3795,7 +3795,7 @@
  HeadSize="1000"
 /><graphic
  id="9384"
- SupersededBy="9660"
+ SupersededBy="9680"
  BoundingBox="155.93 328.52 107.31 328.52"
  Z="963"
  GraphicType="Line"
@@ -3803,7 +3803,7 @@
  HeadSize="1000"
 /><graphic
  id="9385"
- SupersededBy="9661"
+ SupersededBy="9681"
  BoundingBox="155.93 424.89 107.31 424.89"
  Z="996"
  GraphicType="Line"
@@ -3811,7 +3811,7 @@
  HeadSize="1000"
 /><graphic
  id="9386"
- SupersededBy="9662"
+ SupersededBy="9682"
  BoundingBox="289.95 327.68 253.08 327.68"
  Z="1012"
  GraphicType="Line"
@@ -3819,118 +3819,118 @@
  HeadSize="1000"
 /><graphic
  id="9387"
- SupersededBy="9663"
+ SupersededBy="9683"
  BoundingBox="303.42 424.05 254.79 424.05"
  Z="1023"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9664"
+ id="9684"
 ><step
- id="9665"
+ id="9685"
  ReactionStepReactants="516"
  ReactionStepProducts="907"
  ReactionStepArrows="9375"
  ReactionStepObjectsAboveArrow="524"
  ReactionStepObjectsBelowArrow="537"
 /></scheme><scheme
- id="9666"
+ id="9686"
 ><step
- id="9667"
+ id="9687"
  ReactionStepReactants="414"
  ReactionStepProducts="1069"
  ReactionStepArrows="9374"
  ReactionStepObjectsAboveArrow="459"
  ReactionStepObjectsBelowArrow="1362"
 /><step
- id="9668"
+ id="9688"
  ReactionStepReactants="1069"
  ReactionStepProducts="1477"
  ReactionStepArrows="9380"
  ReactionStepObjectsAboveArrow="1469"
 /></scheme><scheme
- id="9669"
+ id="9689"
 ><step
- id="9670"
+ id="9690"
  ReactionStepReactants="950"
  ReactionStepProducts="1105"
  ReactionStepArrows="9376"
  ReactionStepObjectsAboveArrow="1000"
  ReactionStepObjectsBelowArrow="1372"
 /><step
- id="9671"
+ id="9691"
  ReactionStepReactants="1105"
  ReactionStepProducts="1487"
  ReactionStepArrows="9381"
  ReactionStepObjectsAboveArrow="1473"
 /></scheme><scheme
- id="9672"
+ id="9692"
 ><step
- id="9673"
+ id="9693"
  ReactionStepReactants="1007"
  ReactionStepProducts="1142"
  ReactionStepArrows="9377"
  ReactionStepObjectsAboveArrow="1041"
  ReactionStepObjectsBelowArrow="1376"
 /><step
- id="9674"
+ id="9694"
  ReactionStepReactants="1142"
  ReactionStepProducts="1540 1970 1982"
  ReactionStepArrows="9382"
  ReactionStepObjectsAboveArrow="2026"
 /></scheme><scheme
- id="9675"
+ id="9695"
 ><step
- id="9676"
+ id="9696"
  ReactionStepReactants="1024"
  ReactionStepProducts="1165"
  ReactionStepArrows="9378"
  ReactionStepObjectsAboveArrow="1053"
  ReactionStepObjectsBelowArrow="1380"
 /><step
- id="9677"
+ id="9697"
  ReactionStepReactants="1165"
  ReactionStepProducts="1593 1965 1937"
  ReactionStepArrows="9383"
  ReactionStepObjectsAboveArrow="2030"
 /></scheme><scheme
- id="9678"
+ id="9698"
 ><step
- id="9679"
+ id="9699"
  ReactionStepReactants="426"
  ReactionStepProducts="1695"
  ReactionStepArrows="9384"
  ReactionStepObjectsAboveArrow="1691"
  ReactionStepObjectsBelowArrow="1743"
 /><step
- id="9680"
+ id="9700"
  ReactionStepReactants="1695"
  ReactionStepProducts="1838"
  ReactionStepArrows="9386"
 /><step
- id="9681"
+ id="9701"
  ReactionStepReactants="1838"
  ReactionStepProducts="1209 1425 1406"
  ReactionStepArrows="9379"
  ReactionStepObjectsAboveArrow="2034"
 /></scheme><scheme
- id="9682"
+ id="9702"
 ><step
- id="9683"
+ id="9703"
  ReactionStepReactants="444"
  ReactionStepProducts="1717"
  ReactionStepArrows="9385"
  ReactionStepObjectsAboveArrow="1739"
  ReactionStepObjectsBelowArrow="1749"
 /><step
- id="9684"
+ id="9704"
  ReactionStepReactants="1717"
  ReactionStepProducts="1258 1338 1307"
  ReactionStepArrows="9387"
  ReactionStepObjectsAboveArrow="2038"
 /></scheme><arrow
- id="9650"
+ id="9670"
  BoundingBox="127.42 63.95 176.04 72.74"
  Z="692"
  FillType="None"
@@ -3945,7 +3945,7 @@
  MajorAxisEnd3D="291.72 108.56 0"
  MinorAxisEnd3D="243.10 157.18 0"
 /><arrow
- id="9651"
+ id="9671"
  BoundingBox="126.58 16.99 175.20 25.78"
  Z="714"
  FillType="None"
@@ -3960,7 +3960,7 @@
  MajorAxisEnd3D="290.89 61.60 0"
  MinorAxisEnd3D="242.27 110.22 0"
 /><arrow
- id="9652"
+ id="9672"
  BoundingBox="128.26 123.45 176.88 132.24"
  Z="742"
  FillType="None"
@@ -3975,7 +3975,7 @@
  MajorAxisEnd3D="292.56 168.06 0"
  MinorAxisEnd3D="243.94 216.68 0"
 /><arrow
- id="9653"
+ id="9673"
  BoundingBox="150.88 180.43 199.50 189.22"
  Z="764"
  FillType="None"
@@ -3990,7 +3990,7 @@
  MajorAxisEnd3D="315.19 225.04 0"
  MinorAxisEnd3D="266.57 273.66 0"
 /><arrow
- id="9654"
+ id="9674"
  BoundingBox="131.61 249.99 180.23 258.78"
  Z="768"
  FillType="None"
@@ -4005,7 +4005,7 @@
  MajorAxisEnd3D="295.91 294.59 0"
  MinorAxisEnd3D="247.29 343.21 0"
 /><arrow
- id="9655"
+ id="9675"
  BoundingBox="387.99 323.73 423.25 332.52"
  Z="803"
  FillType="None"
@@ -4020,7 +4020,7 @@
  MajorAxisEnd3D="658.37 489.43 0"
  MinorAxisEnd3D="623.11 524.69 0"
 /><arrow
- id="9656"
+ id="9676"
  BoundingBox="283.29 62.27 331.91 71.06"
  Z="883"
  FillType="None"
@@ -4035,7 +4035,7 @@
  MajorAxisEnd3D="447.59 106.88 0"
  MinorAxisEnd3D="398.97 155.50 0"
 /><arrow
- id="9657"
+ id="9677"
  BoundingBox="284.13 121.77 332.75 130.56"
  Z="886"
  FillType="None"
@@ -4050,7 +4050,7 @@
  MajorAxisEnd3D="448.43 166.38 0"
  MinorAxisEnd3D="399.81 215 0"
 /><arrow
- id="9658"
+ id="9678"
  BoundingBox="301.72 178.76 350.34 187.55"
  Z="913"
  FillType="None"
@@ -4065,7 +4065,7 @@
  MajorAxisEnd3D="466.03 223.36 0"
  MinorAxisEnd3D="417.41 271.98 0"
 /><arrow
- id="9659"
+ id="9679"
  BoundingBox="266.53 249.15 315.15 257.94"
  Z="938"
  FillType="None"
@@ -4080,7 +4080,7 @@
  MajorAxisEnd3D="430.83 293.76 0"
  MinorAxisEnd3D="382.21 342.38 0"
 /><arrow
- id="9660"
+ id="9680"
  BoundingBox="107.31 323.73 155.93 332.52"
  Z="963"
  FillType="None"
@@ -4095,7 +4095,7 @@
  MajorAxisEnd3D="271.61 368.34 0"
  MinorAxisEnd3D="222.99 416.96 0"
 /><arrow
- id="9661"
+ id="9681"
  BoundingBox="107.31 420.10 155.93 428.89"
  Z="996"
  FillType="None"
@@ -4110,7 +4110,7 @@
  MajorAxisEnd3D="271.61 464.71 0"
  MinorAxisEnd3D="222.99 513.33 0"
 /><arrow
- id="9662"
+ id="9682"
  BoundingBox="253.08 322.89 289.95 331.68"
  Z="1012"
  FillType="None"
@@ -4125,7 +4125,7 @@
  MajorAxisEnd3D="457.55 488.18 0"
  MinorAxisEnd3D="420.68 525.05 0"
 /><arrow
- id="9663"
+ id="9683"
  BoundingBox="254.79 419.26 303.42 428.05"
  Z="1023"
  FillType="None"
@@ -4140,7 +4140,7 @@
  MajorAxisEnd3D="419.10 463.87 0"
  MinorAxisEnd3D="370.48 512.49 0"
 /></page><page
- id="9685"
+ id="9705"
  BoundingBox="896.28 18.33 1052.43 483.87"
  HeaderPosition="36"
  FooterPosition="36"
@@ -4150,11 +4150,11 @@
  BoundsInParent="896.28 18.33 1052.43 483.87"
 ><fragment
  id="1427"
- BoundingBox="4.59 11.33 156.86 114.35"
+ BoundingBox="6.88 10.54 150.47 113.57"
  Z="4"
 ><n
  id="1428"
- p="6.12 15.87"
+ p="8.48 15.08"
  Z="3"
  IgnoreWarnings="yes"
  Warning="ChemDraw can&apos;t interpret this label."
@@ -4162,15 +4162,15 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="4.45 20.17"
- BoundingBox="4.59 11.33 156.86 114.35"
+ p="6.82 19.39"
+ BoundingBox="6.88 10.54 150.47 113.57"
  LabelJustification="Left"
  LabelLineHeight="auto"
  LineHeight="auto"
  LabelAlignment="Left"
- LineStarts="27 62 87 108 134 163 186 206"
+ LineStarts="27 62 87 108 130 158 186 206"
 ><s font="21" size="12">If there is possibility of formation of a ‘significantly’ stable carbocation, even primary alcohols can undergo SN</s><s font="21" size="12" face="96">1 mechanism via concerted 1,2-shift. We call this SN1’ mechanism. Though verify again.</s></t></n></fragment></page><page
- id="9686"
+ id="9706"
  BoundingBox="87.07 483.87 233.54 705.48"
  HeaderPosition="36"
  FooterPosition="36"
@@ -4188,7 +4188,7 @@
  WordWrapWidth="130"
  LineStarts="21 38"
 ><s font="21" size="14">Reaction with PX</s><s font="21" size="14" face="96">3</s><s font="21" size="14"> or PX</s><s font="21" size="14" face="96">5 or SOCl2 + Py</s></t></page><page
- id="9687"
+ id="9707"
  BoundingBox="233.54 483.87 896.28 705.48"
  HeaderPosition="36"
  FooterPosition="36"
@@ -4300,7 +4300,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9688"
+ id="9708"
 ><n
  id="8467"
  p="121.30 34.49"
@@ -4474,7 +4474,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9689"
+ id="9709"
 ><n
  id="2330"
  p="51.93 208.63"
@@ -4598,7 +4598,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9690"
+ id="9710"
 ><n
  id="2427"
  p="173.73 86.44"
@@ -4720,7 +4720,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9691"
+ id="9711"
 ><n
  id="8476"
  p="359.13 200.95"
@@ -5020,7 +5020,7 @@
  LineHeight="auto"
 ><s font="21" size="12">(inversion)</s></t><graphic
  id="9416"
- SupersededBy="9692"
+ SupersededBy="9712"
  BoundingBox="203.63 47.51 126.58 47.51"
  Z="142"
  GraphicType="Line"
@@ -5028,7 +5028,7 @@
  HeadSize="1000"
 /><graphic
  id="9417"
- SupersededBy="9693"
+ SupersededBy="9713"
  BoundingBox="193.58 100.29 116.53 100.29"
  Z="185"
  GraphicType="Line"
@@ -5036,7 +5036,7 @@
  HeadSize="1000"
 /><graphic
  id="9418"
- SupersededBy="9694"
+ SupersededBy="9714"
  BoundingBox="156.68 184.16 116.53 184.16"
  Z="188"
  GraphicType="Line"
@@ -5044,44 +5044,44 @@
  HeadSize="1000"
 /><graphic
  id="9419"
- SupersededBy="9695"
+ SupersededBy="9715"
  BoundingBox="268.61 185.01 219.99 185.01"
  Z="192"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9696"
+ id="9716"
 ><step
- id="9697"
+ id="9717"
  ReactionStepReactants="2183"
  ReactionStepProducts="3140"
  ReactionStepArrows="9416"
  ReactionStepObjectsAboveArrow="2195"
 /></scheme><scheme
- id="9698"
+ id="9718"
 ><step
- id="9699"
+ id="9719"
  ReactionStepReactants="2250"
  ReactionStepProducts="3210"
  ReactionStepArrows="9417"
  ReactionStepObjectsAboveArrow="2416"
 /></scheme><scheme
- id="9700"
+ id="9720"
 ><step
- id="9701"
+ id="9721"
  ReactionStepReactants="2323"
  ReactionStepArrows="9418"
 /></scheme><scheme
- id="9702"
+ id="9722"
 ><step
- id="9703"
+ id="9723"
  ReactionStepProducts="3108"
  ReactionStepArrows="9419"
  ReactionStepObjectsAboveArrow="2471"
  ReactionStepObjectsBelowArrow="2448"
 /></scheme><arrow
- id="9692"
+ id="9712"
  BoundingBox="126.58 42.72 203.63 51.51"
  Z="142"
  FillType="None"
@@ -5096,7 +5096,7 @@
  MajorAxisEnd3D="343.98 59.25 0"
  MinorAxisEnd3D="266.92 136.30 0"
 /><arrow
- id="9693"
+ id="9713"
  BoundingBox="116.53 95.50 193.58 104.29"
  Z="185"
  FillType="None"
@@ -5111,7 +5111,7 @@
  MajorAxisEnd3D="333.92 112.03 0"
  MinorAxisEnd3D="256.87 189.08 0"
 /><arrow
- id="9694"
+ id="9714"
  BoundingBox="116.53 179.37 156.68 188.16"
  Z="188"
  FillType="None"
@@ -5126,7 +5126,7 @@
  MajorAxisEnd3D="255.10 276.23 0"
  MinorAxisEnd3D="214.95 316.38 0"
 /><arrow
- id="9695"
+ id="9715"
  BoundingBox="219.99 180.22 268.61 189.01"
  Z="192"
  FillType="None"
@@ -5141,7 +5141,7 @@
  MajorAxisEnd3D="384.30 224.83 0"
  MinorAxisEnd3D="335.67 273.45 0"
 /></page><page
- id="9704"
+ id="9724"
  BoundingBox="896.28 483.87 1052.43 705.48"
  HeaderPosition="36"
  FooterPosition="36"
@@ -5151,14 +5151,14 @@
  BoundsInParent="896.28 483.87 1052.43 705.48"
 ><t
  id="3097"
- p="7.46 24.87"
- BoundingBox="7.65 16.03 146.86 93.60"
+ p="7.46 19.35"
+ BoundingBox="7.65 10.51 146.86 88.09"
  Z="1"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  LineStarts="25 51 75 104 129 135"
 ><s font="21" size="12">The reactions with PBr</s><s font="21" size="12" face="32">3</s><s font="21" size="12">, PBr</s><s font="21" size="12" face="96">5 or SOCl2</s><s font="21" size="12"> are carried out in </s><s font="308" size="12" face="1">aprotic solvents</s><s font="21" size="12"> (like pyridine or ether) and hence SN</s><s font="21" size="12" face="32">1</s><s font="21" size="12" face="96"> doesn’t take place.</s></t></page><page
- id="9705"
+ id="9725"
  BoundingBox="87.07 705.48 233.54 930.97"
  HeaderPosition="36"
  FooterPosition="36"
@@ -5175,7 +5175,7 @@
  LineHeight="auto"
  WordWrapWidth="130"
 ><s font="21" size="14">Reaction with SOCl</s><s font="21" size="14" face="96">2</s></t></page><page
- id="9706"
+ id="9726"
  BoundingBox="233.54 705.48 896.28 930.97"
  HeaderPosition="36"
  FooterPosition="36"
@@ -5411,7 +5411,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9707"
+ id="9727"
 ><n
  id="3416"
  p="51.10 209.45"
@@ -5606,7 +5606,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9708"
+ id="9728"
 ><n
  id="3448"
  p="358.30 201.78"
@@ -5906,7 +5906,7 @@
  LineHeight="auto"
 ><s font="21" size="12">(retension)</s></t><graphic
  id="9433"
- SupersededBy="9709"
+ SupersededBy="9729"
  BoundingBox="202.80 48.34 125.75 48.34"
  Z="125"
  GraphicType="Line"
@@ -5914,7 +5914,7 @@
  HeadSize="1000"
 /><graphic
  id="9434"
- SupersededBy="9710"
+ SupersededBy="9730"
  BoundingBox="192.75 101.12 115.70 101.12"
  Z="163"
  GraphicType="Line"
@@ -5922,7 +5922,7 @@
  HeadSize="1000"
 /><graphic
  id="9435"
- SupersededBy="9711"
+ SupersededBy="9731"
  BoundingBox="155.85 184.98 113.21 184.98"
  Z="166"
  GraphicType="Line"
@@ -5930,44 +5930,44 @@
  HeadSize="1000"
 /><graphic
  id="9436"
- SupersededBy="9712"
+ SupersededBy="9732"
  BoundingBox="267.78 185.83 219.16 185.83"
  Z="170"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9713"
+ id="9733"
 ><step
- id="9714"
+ id="9734"
  ReactionStepReactants="3377"
  ReactionStepProducts="3463"
  ReactionStepArrows="9433"
  ReactionStepObjectsAboveArrow="3389"
 /></scheme><scheme
- id="9715"
+ id="9735"
 ><step
- id="9716"
+ id="9736"
  ReactionStepReactants="3397"
  ReactionStepProducts="3475"
  ReactionStepArrows="9434"
  ReactionStepObjectsAboveArrow="3431"
 /></scheme><scheme
- id="9717"
+ id="9737"
 ><step
- id="9718"
+ id="9738"
  ReactionStepReactants="3409"
  ReactionStepArrows="9435"
 /></scheme><scheme
- id="9719"
+ id="9739"
 ><step
- id="9720"
+ id="9740"
  ReactionStepProducts="3443"
  ReactionStepArrows="9436"
  ReactionStepObjectsAboveArrow="3441"
  ReactionStepObjectsBelowArrow="3439"
 /></scheme><arrow
- id="9709"
+ id="9729"
  BoundingBox="125.75 43.55 202.80 52.34"
  Z="125"
  FillType="None"
@@ -5982,7 +5982,7 @@
  MajorAxisEnd3D="343.15 60.08 0"
  MinorAxisEnd3D="266.09 137.13 0"
 /><arrow
- id="9710"
+ id="9730"
  BoundingBox="115.70 96.33 192.75 105.12"
  Z="163"
  FillType="None"
@@ -5997,7 +5997,7 @@
  MajorAxisEnd3D="333.09 112.86 0"
  MinorAxisEnd3D="256.04 189.91 0"
 /><arrow
- id="9711"
+ id="9731"
  BoundingBox="113.21 180.19 155.85 188.98"
  Z="166"
  FillType="None"
@@ -6012,7 +6012,7 @@
  MajorAxisEnd3D="256.34 277.48 0"
  MinorAxisEnd3D="213.70 320.12 0"
 /><arrow
- id="9712"
+ id="9732"
  BoundingBox="219.16 181.04 267.78 189.83"
  Z="170"
  FillType="None"
@@ -6027,7 +6027,7 @@
  MajorAxisEnd3D="383.47 225.65 0"
  MinorAxisEnd3D="334.84 274.27 0"
 /></page><page
- id="9721"
+ id="9741"
  BoundingBox="896.28 705.48 1052.43 930.97"
  HeaderPosition="36"
  FooterPosition="36"
@@ -6037,14 +6037,15 @@
  BoundsInParent="896.28 705.48 1052.43 930.97"
 ><t
  id="3530"
- p="5.80 21.55"
- BoundingBox="5.99 12.71 140.19 76.35"
+ p="5.80 18.40"
+ BoundingBox="5.99 9.56 140.19 73.20"
  Z="1"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
+ WordWrapWidth="141.05"
  LineStarts="25 52 79 100 121"
 ><s font="21" size="12">The reactions with </s><s font="21" size="12" face="96">SOCl2</s><s font="21" size="12"> are carried out in </s><s font="308" size="12" face="1">aprotic solvents</s><s font="21" size="12"> (like pyridine or ether) and hence SN</s><s font="21" size="12" face="32">1</s><s font="21" size="12" face="96"> doesn’t take place.</s></t></page><page
- id="9722"
+ id="9742"
  BoundingBox="87.07 930.97 233.54 1270.25"
  HeaderPosition="36"
  FooterPosition="36"
@@ -6064,7 +6065,7 @@
 ><s font="21" size="14">conc. H</s><s font="21" size="14" face="32">2</s><s font="21" size="14">SO</s><s font="21" size="14" face="32">4</s><s font="21" size="14"> or H</s><s font="21" size="14" face="32">3</s><s font="21" size="14">PO</s><s font="21" size="14" face="32">4
 </s><s font="21" size="14">or anhyd. ZnCl</s><s font="21" size="14" face="32">2</s><s font="21" size="14"> + </s><s font="23" size="14">D
 (</s><s font="21" size="14">above </s><s font="23" size="14">160</s><s font="23" size="14" face="64">o</s><s font="21" size="14">C)</s></t></page><page
- id="9723"
+ id="9743"
  BoundingBox="233.54 930.97 896.28 1270.25"
  HeaderPosition="36"
  FooterPosition="36"
@@ -6809,7 +6810,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9724"
+ id="9744"
 ><n
  id="5838"
  p="376.82 65.23"
@@ -7085,7 +7086,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="9725"
+ id="9745"
 ><n
  id="5968"
  p="527.51 137.82"
@@ -7351,7 +7352,7 @@
  WordWrapWidth="130"
 ><s font="21" size="12">H</s><s font="21" size="12" face="32">2</s><s font="21" size="12">SO</s><s font="21" size="12" face="32">4</s><s font="21" size="12"> or H</s><s font="21" size="12" face="32">3</s><s font="21" size="12">PO</s><s font="21" size="12" face="32">4</s><s font="21" size="12" face="96"> + </s><s font="23" size="12" face="96">D</s></t><graphic
  id="9450"
- SupersededBy="9726"
+ SupersededBy="9746"
  BoundingBox="265.10 25.96 141.49 25.96"
  Z="253"
  GraphicType="Line"
@@ -7359,7 +7360,7 @@
  HeadSize="1000"
 /><graphic
  id="9451"
- SupersededBy="9727"
+ SupersededBy="9747"
  BoundingBox="419.60 77.63 370.98 77.63"
  Z="358"
  GraphicType="Line"
@@ -7367,7 +7368,7 @@
  HeadSize="1000"
 /><graphic
  id="9452"
- SupersededBy="9728"
+ SupersededBy="9748"
  BoundingBox="420.52 21.61 378.08 21.61"
  Z="373"
  GraphicType="Line"
@@ -7375,7 +7376,7 @@
  HeadSize="1000"
 /><graphic
  id="9453"
- SupersededBy="9729"
+ SupersededBy="9749"
  BoundingBox="563.33 22.40 521.67 22.40"
  Z="383"
  GraphicType="Line"
@@ -7383,7 +7384,7 @@
  HeadSize="1000"
 /><graphic
  id="9454"
- SupersededBy="9730"
+ SupersededBy="9750"
  BoundingBox="419.60 151.79 378.71 151.79"
  Z="385"
  GraphicType="Line"
@@ -7391,7 +7392,7 @@
  HeadSize="1000"
 /><graphic
  id="9455"
- SupersededBy="9731"
+ SupersededBy="9751"
  BoundingBox="570.29 150.22 521.67 150.22"
  Z="408"
  GraphicType="Line"
@@ -7399,7 +7400,7 @@
  HeadSize="1000"
 /><graphic
  id="9456"
- SupersededBy="9732"
+ SupersededBy="9752"
  BoundingBox="268.25 78.82 144.65 78.82"
  Z="411"
  GraphicType="Line"
@@ -7407,7 +7408,7 @@
  HeadSize="1000"
 /><graphic
  id="9457"
- SupersededBy="9733"
+ SupersededBy="9753"
  BoundingBox="270.62 153.77 147.01 153.77"
  Z="415"
  GraphicType="Line"
@@ -7415,7 +7416,7 @@
  HeadSize="1000"
 /><graphic
  id="9458"
- SupersededBy="9734"
+ SupersededBy="9754"
  BoundingBox="237.48 225.57 113.88 225.57"
  Z="429"
  GraphicType="Line"
@@ -7423,77 +7424,77 @@
  HeadSize="1000"
 /><graphic
  id="9459"
- SupersededBy="9735"
+ SupersededBy="9755"
  BoundingBox="239.06 295.79 115.45 295.79"
  Z="433"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9736"
+ id="9756"
 ><step
- id="9737"
+ id="9757"
  ReactionStepReactants="5033"
  ReactionStepProducts="5052"
  ReactionStepArrows="9450"
  ReactionStepObjectsAboveArrow="5045"
  ReactionStepObjectsBelowArrow="5043"
 /><step
- id="9738"
+ id="9758"
  ReactionStepReactants="5052"
  ReactionStepProducts="5893"
  ReactionStepArrows="9452"
 /><step
- id="9739"
+ id="9759"
  ReactionStepReactants="5893"
  ReactionStepProducts="5075"
  ReactionStepArrows="9453"
 /></scheme><scheme
- id="9740"
+ id="9760"
 ><step
- id="9741"
+ id="9761"
  ReactionStepReactants="5812"
  ReactionStepProducts="5824"
  ReactionStepArrows="9456"
  ReactionStepObjectsAboveArrow="5986"
  ReactionStepObjectsBelowArrow="5984"
 /><step
- id="9742"
+ id="9762"
  ReactionStepReactants="5824"
  ReactionStepProducts="5847"
  ReactionStepArrows="9451"
  ReactionStepObjectsAboveArrow="5835"
 /></scheme><scheme
- id="9743"
+ id="9763"
 ><step
- id="9744"
+ id="9764"
  ReactionStepReactants="4387 5120"
  ReactionStepProducts="4756 5132"
  ReactionStepArrows="9458"
  ReactionStepObjectsAboveArrow="6034"
  ReactionStepObjectsBelowArrow="6032"
 /><step
- id="9745"
+ id="9765"
  ReactionStepReactants="4756 5132"
  ReactionStepProducts="5933"
  ReactionStepArrows="9454"
 /><step
- id="9746"
+ id="9766"
  ReactionStepReactants="5933"
  ReactionStepProducts="5140"
  ReactionStepArrows="9455"
  ReactionStepObjectsAboveArrow="5965"
 /></scheme><scheme
- id="9747"
+ id="9767"
 ><step
- id="9748"
+ id="9768"
  ReactionStepReactants="5693"
  ReactionStepProducts="6013"
  ReactionStepArrows="9459"
  ReactionStepObjectsAboveArrow="6044"
  ReactionStepObjectsBelowArrow="6042"
 /></scheme><arrow
- id="9726"
+ id="9746"
  BoundingBox="141.49 21.17 265.10 29.96"
  Z="253"
  FillType="None"
@@ -7508,7 +7509,7 @@
  MajorAxisEnd3D="459.46 38.94 0"
  MinorAxisEnd3D="335.84 162.54 0"
 /><arrow
- id="9727"
+ id="9747"
  BoundingBox="370.98 72.84 419.60 81.63"
  Z="358"
  FillType="None"
@@ -7523,7 +7524,7 @@
  MajorAxisEnd3D="535.28 117.45 0"
  MinorAxisEnd3D="486.66 166.07 0"
 /><arrow
- id="9728"
+ id="9748"
  BoundingBox="378.08 16.82 420.52 25.61"
  Z="373"
  FillType="None"
@@ -7538,7 +7539,7 @@
  MajorAxisEnd3D="645.70 32.42 0"
  MinorAxisEnd3D="603.25 74.86 0"
 /><arrow
- id="9729"
+ id="9749"
  BoundingBox="521.67 17.61 563.33 26.40"
  Z="383"
  FillType="None"
@@ -7553,7 +7554,7 @@
  MajorAxisEnd3D="863.06 33.60 0"
  MinorAxisEnd3D="821.40 75.26 0"
 /><arrow
- id="9730"
+ id="9750"
  BoundingBox="378.71 147 419.60 155.79"
  Z="385"
  FillType="None"
@@ -7568,7 +7569,7 @@
  MajorAxisEnd3D="652.61 227.69 0"
  MinorAxisEnd3D="611.72 268.58 0"
 /><arrow
- id="9731"
+ id="9751"
  BoundingBox="521.67 145.43 570.29 154.22"
  Z="408"
  FillType="None"
@@ -7583,7 +7584,7 @@
  MajorAxisEnd3D="685.97 190.04 0"
  MinorAxisEnd3D="637.35 238.66 0"
 /><arrow
- id="9732"
+ id="9752"
  BoundingBox="144.65 74.03 268.25 82.82"
  Z="411"
  FillType="None"
@@ -7598,7 +7599,7 @@
  MajorAxisEnd3D="462.62 91.80 0"
  MinorAxisEnd3D="339 215.40 0"
 /><arrow
- id="9733"
+ id="9753"
  BoundingBox="147.01 148.98 270.62 157.77"
  Z="415"
  FillType="None"
@@ -7613,7 +7614,7 @@
  MajorAxisEnd3D="464.99 166.75 0"
  MinorAxisEnd3D="341.36 290.36 0"
 /><arrow
- id="9734"
+ id="9754"
  BoundingBox="113.88 220.78 237.48 229.57"
  Z="429"
  FillType="None"
@@ -7628,7 +7629,7 @@
  MajorAxisEnd3D="431.85 238.55 0"
  MinorAxisEnd3D="308.23 362.15 0"
 /><arrow
- id="9735"
+ id="9755"
  BoundingBox="115.45 291 239.06 299.79"
  Z="433"
  FillType="None"
@@ -7643,7 +7644,7 @@
  MajorAxisEnd3D="433.43 308.77 0"
  MinorAxisEnd3D="309.80 432.37 0"
 /></page><page
- id="9749"
+ id="9769"
  BoundingBox="896.28 930.97 1052.43 1270.25"
  HeaderPosition="36"
  FooterPosition="36"
@@ -7658,6 +7659,7 @@
  Z="1"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
+ WordWrapWidth="141.05"
  LineStarts="20 44 66 91 109 131 136"
 ><s font="21" size="12">Always E</s><s font="21" size="12" face="96">1</s><s font="21" size="12"> =&gt; Due to absence of any good Nu- and strong base, even primary alcohols undergo E</s><s font="21" size="12" face="96">1 mechanism when reacted with H2SO4 or H3PO4</s></t><t
  id="8892"
@@ -7668,7 +7670,7 @@
  LineHeight="auto"
  LineStarts="24 52 78 105 131 158 183 209 236 264 288"
 ><s font="21" size="12">Both the elimination of alcohols to form alkene and condesation to form ether are reversible process and conc. dehydrating acid is used to drive the reaction forward. If the reaction mixture is diluted or the product alkene or ether is treated with a dilute acid, alcohols will form back.</s></t></page><page
- id="9750"
+ id="9770"
  BoundingBox="87.07 1270.25 233.54 1428.64"
  HeaderPosition="36"
  FooterPosition="36"
@@ -7687,7 +7689,7 @@
  LineStarts="15 31 42 55"
 ><s font="21" size="14">conc. H</s><s font="21" size="14" face="32">2</s><s font="21" size="14">SO</s><s font="21" size="14" face="32">4</s><s font="21" size="14"> or H</s><s font="21" size="14" face="32">3</s><s font="21" size="14">PO</s><s font="21" size="14" face="32">4 </s><s font="21" size="14">or anhyd. ZnCl</s><s font="21" size="14" face="32">2</s><s font="21" size="14"> + </s><s font="23" size="14">D
 </s><s font="21" size="14">(below 140</s><s font="21" size="14" face="64">o</s><s font="21" size="14">C)</s></t></page><page
- id="9751"
+ id="9771"
  BoundingBox="233.54 1270.25 896.28 1428.64"
  HeaderPosition="36"
  FooterPosition="36"
@@ -7770,62 +7772,62 @@
  AS="N"
  GenericNickname=", SN2"
 ><fragment
- id="9752"
+ id="9772"
 ><n
- id="9753"
+ id="9773"
  p="295.98 14.79"
  Element="16"
  NumHydrogens="0"
 /><n
- id="9754"
+ id="9774"
  p="265.98 14.79"
  Element="7"
  NumHydrogens="0"
  Charge="1"
 /><n
- id="9755"
+ id="9775"
  p="235.98 14.79"
  Element="7"
  NumHydrogens="0"
  Charge="-1"
 /><b
- id="9756"
- B="9754"
- E="9755"
+ id="9776"
+ B="9774"
+ E="9775"
  Order="2"
 /><b
- id="9757"
- B="9753"
- E="9754"
+ id="9777"
+ B="9773"
+ E="9774"
  Order="2"
 /></fragment><fragment
- id="9759"
+ id="9779"
 ><n
- id="9760"
+ id="9780"
  p="295.98 14.79"
  Element="16"
  NumHydrogens="0"
 /><n
- id="9761"
+ id="9781"
  p="265.98 14.79"
  Element="7"
  NumHydrogens="0"
  Charge="1"
 /><n
- id="9762"
+ id="9782"
  p="235.98 14.79"
  Element="7"
  NumHydrogens="0"
  Charge="-1"
 /><b
- id="9763"
- B="9761"
- E="9762"
+ id="9783"
+ B="9781"
+ E="9782"
  Order="2"
 /><b
- id="9764"
- B="9760"
- E="9761"
+ id="9784"
+ B="9780"
+ E="9781"
  Order="2"
 /></fragment><t
  p="263.81 19.09"
@@ -7956,7 +7958,7 @@
  LineHeight="auto"
 ><s font="21" size="12">dilution</s></t><graphic
  id="9490"
- SupersededBy="9766"
+ SupersededBy="9786"
  BoundingBox="100.08 33.94 224.90 -10.72"
  Z="66"
  GraphicType="Arc"
@@ -7965,28 +7967,28 @@
  AngularSize="-90"
 /><graphic
  id="9491"
- SupersededBy="9767"
+ SupersededBy="9787"
  BoundingBox="314.41 27.58 144.20 27.58"
  Z="68"
  GraphicType="Line"
  ArrowType="Equilibrium"
  HeadSize="1000"
 /><scheme
- id="9768"
+ id="9788"
 ><step
- id="9769"
+ id="9789"
  ReactionStepReactants="8636"
  ReactionStepProducts="8624"
  ReactionStepArrows="9490"
  ReactionStepObjectsBelowArrow="8889"
 /><step
- id="9770"
+ id="9790"
  ReactionStepReactants="8624"
  ReactionStepProducts="8636"
  ReactionStepArrows="9491"
  ReactionStepObjectsAboveArrow="8645 8634"
 /></scheme><arrow
- id="9766"
+ id="9786"
  BoundingBox="100.08 33.94 345.26 54.95"
  Z="66"
  FillType="None"
@@ -8002,7 +8004,7 @@
  MajorAxisEnd3D="397.20 -10.72 0"
  MinorAxisEnd3D="224.90 54.07 0"
 /><arrow
- id="9767"
+ id="9787"
  BoundingBox="144.20 20.39 314.41 34.77"
  Z="68"
  FillType="None"
@@ -8020,7 +8022,7 @@
  MajorAxisEnd3D="556.72 41.37 0"
  MinorAxisEnd3D="386.51 211.58 0"
 /></page><page
- id="9771"
+ id="9791"
  BoundingBox="896.28 1270.25 1052.43 1428.64"
  HeaderPosition="36"
  FooterPosition="36"
@@ -8029,7 +8031,7 @@
  WidthPages="2"
  BoundsInParent="896.28 1270.25 1052.43 1428.64"
 /><page
- id="9772"
+ id="9792"
  BoundingBox="87.07 1428.64 233.54 1923.33"
  HeaderPosition="36"
  FooterPosition="36"
@@ -8046,7 +8048,7 @@
  LineHeight="auto"
  WordWrapWidth="130"
 ><s font="21" size="14" face="96">POCl3 + Pyridine</s></t></page><page
- id="9773"
+ id="9793"
  BoundingBox="233.54 1428.64 896.28 1923.33"
  HeaderPosition="36"
  FooterPosition="36"
@@ -9263,7 +9265,7 @@
  LabelAlignment="Left"
 ><s font="21" size="12" face="96">(Saytzeff)</s></t></n></fragment><graphic
  id="9498"
- SupersededBy="9774"
+ SupersededBy="9794"
  BoundingBox="213.81 23.98 152.27 23.98"
  Z="287"
  GraphicType="Line"
@@ -9271,7 +9273,7 @@
  HeadSize="1000"
 /><graphic
  id="9499"
- SupersededBy="9775"
+ SupersededBy="9795"
  BoundingBox="213.02 61.85 151.48 61.85"
  Z="298"
  GraphicType="Line"
@@ -9279,7 +9281,7 @@
  HeadSize="1000"
 /><graphic
  id="9500"
- SupersededBy="9776"
+ SupersededBy="9796"
  BoundingBox="213.81 132.86 152.27 132.86"
  Z="301"
  GraphicType="Line"
@@ -9287,7 +9289,7 @@
  HeadSize="1000"
 /><graphic
  id="9501"
- SupersededBy="9777"
+ SupersededBy="9797"
  BoundingBox="213.02 209.39 151.48 209.39"
  Z="314"
  GraphicType="Line"
@@ -9295,7 +9297,7 @@
  HeadSize="1000"
 /><graphic
  id="9502"
- SupersededBy="9778"
+ SupersededBy="9798"
  BoundingBox="211.45 286.71 149.91 286.71"
  Z="315"
  GraphicType="Line"
@@ -9303,7 +9305,7 @@
  HeadSize="1000"
 /><graphic
  id="9503"
- SupersededBy="9779"
+ SupersededBy="9799"
  BoundingBox="267.46 367.97 164.11 367.97"
  Z="349"
  GraphicType="Line"
@@ -9311,71 +9313,71 @@
  HeadSize="1000"
 /><graphic
  id="9504"
- SupersededBy="9780"
+ SupersededBy="9800"
  BoundingBox="208.29 457.13 146.75 457.13"
  Z="391"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9781"
+ id="9801"
 ><step
- id="9782"
+ id="9802"
  ReactionStepReactants="7785"
  ReactionStepProducts="7795"
  ReactionStepArrows="9498"
  ReactionStepObjectsBelowArrow="7920"
 /></scheme><scheme
- id="9783"
+ id="9803"
 ><step
- id="9784"
+ id="9804"
  ReactionStepReactants="7829"
  ReactionStepProducts="7851"
  ReactionStepArrows="9499"
  ReactionStepObjectsBelowArrow="7924"
 /></scheme><scheme
- id="9785"
+ id="9805"
 ><step
- id="9786"
+ id="9806"
  ReactionStepReactants="7803"
  ReactionStepProducts="7853"
  ReactionStepArrows="9500"
  ReactionStepObjectsBelowArrow="7928"
 /></scheme><scheme
- id="9787"
+ id="9807"
 ><step
- id="9788"
+ id="9808"
  ReactionStepReactants="7763"
  ReactionStepProducts="7775"
  ReactionStepArrows="9501"
  ReactionStepObjectsBelowArrow="7932"
 /></scheme><scheme
- id="9789"
+ id="9809"
 ><step
- id="9790"
+ id="9810"
  ReactionStepReactants="7817"
  ReactionStepProducts="7841"
  ReactionStepArrows="9502"
  ReactionStepObjectsBelowArrow="7936"
 /></scheme><scheme
- id="9791"
+ id="9811"
 ><step
- id="9792"
+ id="9812"
  ReactionStepReactants="7974"
  ReactionStepProducts="8044"
  ReactionStepArrows="9503"
  ReactionStepObjectsAboveArrow="8017"
  ReactionStepObjectsBelowArrow="8011"
 /></scheme><scheme
- id="9793"
+ id="9813"
 ><step
- id="9794"
+ id="9814"
  ReactionStepReactants="8324"
  ReactionStepProducts="8340 8375"
  ReactionStepArrows="9504"
  ReactionStepObjectsAboveArrow="8371"
 /></scheme><arrow
- id="9774"
+ id="9794"
  BoundingBox="152.27 19.19 213.81 27.98"
  Z="287"
  FillType="None"
@@ -9390,7 +9392,7 @@
  MajorAxisEnd3D="349.12 41.49 0"
  MinorAxisEnd3D="287.58 103.03 0"
 /><arrow
- id="9775"
+ id="9795"
  BoundingBox="151.48 57.06 213.02 65.85"
  Z="298"
  FillType="None"
@@ -9405,7 +9407,7 @@
  MajorAxisEnd3D="348.33 79.36 0"
  MinorAxisEnd3D="286.79 140.90 0"
 /><arrow
- id="9776"
+ id="9796"
  BoundingBox="152.27 128.07 213.81 136.86"
  Z="301"
  FillType="None"
@@ -9420,7 +9422,7 @@
  MajorAxisEnd3D="349.12 150.37 0"
  MinorAxisEnd3D="287.58 211.91 0"
 /><arrow
- id="9777"
+ id="9797"
  BoundingBox="151.48 204.60 213.02 213.39"
  Z="314"
  FillType="None"
@@ -9435,7 +9437,7 @@
  MajorAxisEnd3D="348.33 226.90 0"
  MinorAxisEnd3D="286.79 288.44 0"
 /><arrow
- id="9778"
+ id="9798"
  BoundingBox="149.91 281.92 211.45 290.71"
  Z="315"
  FillType="None"
@@ -9450,7 +9452,7 @@
  MajorAxisEnd3D="346.75 304.22 0"
  MinorAxisEnd3D="285.21 365.76 0"
 /><arrow
- id="9779"
+ id="9799"
  BoundingBox="164.11 363.18 267.46 371.97"
  Z="349"
  FillType="None"
@@ -9465,7 +9467,7 @@
  MajorAxisEnd3D="452.87 551.57 0"
  MinorAxisEnd3D="349.52 654.92 0"
 /><arrow
- id="9780"
+ id="9800"
  BoundingBox="146.75 452.34 208.29 461.13"
  Z="391"
  FillType="None"
@@ -9480,7 +9482,7 @@
  MajorAxisEnd3D="343.60 474.64 0"
  MinorAxisEnd3D="282.06 536.18 0"
 /></page><page
- id="9795"
+ id="9815"
  BoundingBox="896.28 1428.64 1052.43 1923.33"
  HeaderPosition="36"
  FooterPosition="36"
@@ -9497,7 +9499,7 @@
  LineHeight="auto"
  LineStarts="24 50 74 102 127 148"
 ><s font="21" size="12">Always E</s><s font="21" size="12" face="96">2</s><s font="21" size="12"> =&gt; As we have both a good leaving group and a reasonably strong base (pyridine), its always E</s><s font="21" size="12" face="32">2</s><s font="21" size="12" face="96"> . Consequences: Anti- elimination, no rearr</s></t></page><page
- id="9796"
+ id="9816"
  BoundingBox="87.07 1923.33 233.54 2451.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -9514,7 +9516,7 @@
  LineHeight="auto"
  WordWrapWidth="130"
 ><s font="21" size="14">Alumina + </s><s font="23" size="14">D</s></t></page><page
- id="9797"
+ id="9817"
  BoundingBox="233.54 1923.33 896.28 2451.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -9712,26 +9714,26 @@
  BS="N"
 /></fragment><fragment
  id="6950"
- BoundingBox="257.55 45.18 336.29 65.72"
+ BoundingBox="257.55 49.90 336.29 70.45"
  Z="227"
 ><n
  id="6951"
- p="309.91 64.77"
+ p="309.91 69.49"
  Z="226"
  AS="N"
 /><n
  id="6952"
- p="335.89 49.77"
+ p="335.89 54.49"
  Z="228"
  AS="N"
 /><n
  id="6953"
- p="283.93 49.77"
+ p="283.93 54.49"
  Z="230"
  AS="N"
 /><n
  id="6954"
- p="257.95 64.77"
+ p="257.95 69.49"
  Z="232"
  AS="N"
 /><b
@@ -10628,34 +10630,66 @@
  BS="N"
 /></fragment><fragment
  id="9591"
- BoundingBox="257.55 6.56 336.29 27.11"
+ BoundingBox="257.55 12.56 466.19 33.19"
  Z="411"
 ><n
  id="9592"
- p="309.91 26.15"
+ p="309.91 28.52"
  Z="410"
  AS="N"
 /><n
  id="9593"
- p="335.89 11.15"
+ p="335.89 13.52"
  Z="412"
  AS="N"
 /><n
  id="9594"
- p="283.93 11.15"
+ p="283.93 13.52"
  Z="414"
  AS="N"
 /><n
  id="9595"
- p="257.95 26.15"
+ p="257.95 28.52"
  Z="416"
+ AS="N"
+/><n
+ id="9620"
+ p="361.87 28.52"
+ Z="430"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="357.20 32.94"
+ BoundingBox="357.67 24.10 366.06 33.19"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="21" size="12" face="96">O</s></t></n><n
+ id="9624"
+ p="387.85 13.52"
+ Z="434"
+ AS="N"
+/><n
+ id="9628"
+ p="413.83 28.52"
+ Z="438"
+ AS="N"
+/><n
+ id="9632"
+ p="439.81 13.52"
+ Z="442"
+ AS="N"
+/><n
+ id="9636"
+ p="465.79 28.52"
+ Z="446"
  AS="N"
 /><b
  id="9596"
  Z="413"
  B="9592"
  E="9593"
- Order="2"
  BS="N"
 /><b
  id="9597"
@@ -10668,6 +10702,36 @@
  Z="417"
  B="9594"
  E="9595"
+ BS="N"
+/><b
+ id="9621"
+ Z="431"
+ B="9593"
+ E="9620"
+ BS="N"
+/><b
+ id="9625"
+ Z="435"
+ B="9620"
+ E="9624"
+ BS="N"
+/><b
+ id="9629"
+ Z="439"
+ B="9624"
+ E="9628"
+ BS="N"
+/><b
+ id="9633"
+ Z="443"
+ B="9628"
+ E="9632"
+ BS="N"
+/><b
+ id="9637"
+ Z="447"
+ B="9632"
+ E="9636"
  BS="N"
 /></fragment><fragment
  id="9613"
@@ -10735,7 +10799,7 @@
  LineHeight="auto"
 ><s font="21" size="12">above 350</s><s font="21" size="12" face="64">o</s><s font="21" size="12">C</s></t><graphic
  id="9522"
- SupersededBy="9798"
+ SupersededBy="9818"
  BoundingBox="241.92 60.23 151.48 60.23"
  Z="272"
  GraphicType="Line"
@@ -10743,7 +10807,7 @@
  HeadSize="1000"
 /><graphic
  id="9523"
- SupersededBy="9799"
+ SupersededBy="9819"
  BoundingBox="212.23 101.25 150.69 101.25"
  Z="283"
  GraphicType="Line"
@@ -10751,7 +10815,7 @@
  HeadSize="1000"
 /><graphic
  id="9524"
- SupersededBy="9800"
+ SupersededBy="9820"
  BoundingBox="213.02 172.26 151.48 172.26"
  Z="286"
  GraphicType="Line"
@@ -10759,7 +10823,7 @@
  HeadSize="1000"
 /><graphic
  id="9525"
- SupersededBy="9801"
+ SupersededBy="9821"
  BoundingBox="208.29 248.79 146.75 248.79"
  Z="299"
  GraphicType="Line"
@@ -10767,7 +10831,7 @@
  HeadSize="1000"
 /><graphic
  id="9526"
- SupersededBy="9802"
+ SupersededBy="9822"
  BoundingBox="210.66 326.11 149.12 326.11"
  Z="300"
  GraphicType="Line"
@@ -10775,7 +10839,7 @@
  HeadSize="1000"
 /><graphic
  id="9527"
- SupersededBy="9803"
+ SupersededBy="9823"
  BoundingBox="261.95 408.16 158.59 408.16"
  Z="324"
  GraphicType="Line"
@@ -10783,7 +10847,7 @@
  HeadSize="1000"
 /><graphic
  id="9528"
- SupersededBy="9804"
+ SupersededBy="9824"
  BoundingBox="203.56 494.16 142.02 494.16"
  Z="364"
  GraphicType="Line"
@@ -10791,75 +10855,75 @@
  HeadSize="1000"
 /><graphic
  id="9600"
- SupersededBy="9805"
+ SupersededBy="9825"
  BoundingBox="241.92 21.61 151.48 21.61"
  Z="418"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="9806"
+ id="9826"
 ><step
- id="9807"
+ id="9827"
  ReactionStepReactants="9581"
  ReactionStepProducts="9591"
  ReactionStepArrows="9600"
  ReactionStepObjectsAboveArrow="9613"
  ReactionStepObjectsBelowArrow="9608"
 /></scheme><scheme
- id="9808"
+ id="9828"
 ><step
- id="9809"
+ id="9829"
  ReactionStepReactants="6940"
  ReactionStepProducts="6950"
  ReactionStepArrows="9522"
  ReactionStepObjectsAboveArrow="9616"
  ReactionStepObjectsBelowArrow="9610"
 /></scheme><scheme
- id="9810"
+ id="9830"
 ><step
- id="9811"
+ id="9831"
  ReactionStepReactants="6984"
  ReactionStepProducts="7006"
  ReactionStepArrows="9523"
 /></scheme><scheme
- id="9812"
+ id="9832"
 ><step
- id="9813"
+ id="9833"
  ReactionStepReactants="6958"
  ReactionStepProducts="7008"
  ReactionStepArrows="9524"
 /></scheme><scheme
- id="9814"
+ id="9834"
 ><step
- id="9815"
+ id="9835"
  ReactionStepReactants="6918"
  ReactionStepProducts="6930"
  ReactionStepArrows="9525"
 /></scheme><scheme
- id="9816"
+ id="9836"
 ><step
- id="9817"
+ id="9837"
  ReactionStepReactants="6972"
  ReactionStepProducts="6996"
  ReactionStepArrows="9526"
 /></scheme><scheme
- id="9818"
+ id="9838"
 ><step
- id="9819"
+ id="9839"
  ReactionStepReactants="8129"
  ReactionStepProducts="8156"
  ReactionStepArrows="9527"
  ReactionStepObjectsBelowArrow="8152"
 /></scheme><scheme
- id="9820"
+ id="9840"
 ><step
- id="9821"
+ id="9841"
  ReactionStepReactants="8222"
  ReactionStepProducts="8267"
  ReactionStepArrows="9528"
 /></scheme><arrow
- id="9798"
+ id="9818"
  BoundingBox="151.48 55.43 241.92 64.23"
  Z="272"
  FillType="None"
@@ -10874,7 +10938,7 @@
  MajorAxisEnd3D="408.09 102.95 0"
  MinorAxisEnd3D="317.66 193.38 0"
 /><arrow
- id="9799"
+ id="9819"
  BoundingBox="150.69 96.46 212.23 105.25"
  Z="283"
  FillType="None"
@@ -10889,7 +10953,7 @@
  MajorAxisEnd3D="347.54 118.76 0"
  MinorAxisEnd3D="286 180.30 0"
 /><arrow
- id="9800"
+ id="9820"
  BoundingBox="151.48 167.47 213.02 176.26"
  Z="286"
  FillType="None"
@@ -10904,7 +10968,7 @@
  MajorAxisEnd3D="348.33 189.77 0"
  MinorAxisEnd3D="286.79 251.31 0"
 /><arrow
- id="9801"
+ id="9821"
  BoundingBox="146.75 244 208.29 252.79"
  Z="299"
  FillType="None"
@@ -10919,7 +10983,7 @@
  MajorAxisEnd3D="343.60 266.30 0"
  MinorAxisEnd3D="282.06 327.84 0"
 /><arrow
- id="9802"
+ id="9822"
  BoundingBox="149.12 321.32 210.66 330.11"
  Z="300"
  FillType="None"
@@ -10934,7 +10998,7 @@
  MajorAxisEnd3D="345.97 343.62 0"
  MinorAxisEnd3D="284.43 405.16 0"
 /><arrow
- id="9803"
+ id="9823"
  BoundingBox="158.59 403.37 261.95 412.16"
  Z="324"
  FillType="None"
@@ -10949,7 +11013,7 @@
  MajorAxisEnd3D="447.36 591.76 0"
  MinorAxisEnd3D="344 695.11 0"
 /><arrow
- id="9804"
+ id="9824"
  BoundingBox="142.02 489.37 203.56 498.16"
  Z="364"
  FillType="None"
@@ -10964,7 +11028,7 @@
  MajorAxisEnd3D="338.87 511.67 0"
  MinorAxisEnd3D="277.33 573.21 0"
 /><arrow
- id="9805"
+ id="9825"
  BoundingBox="151.48 16.82 241.92 25.62"
  Z="418"
  FillType="None"
@@ -10979,7 +11043,7 @@
  MajorAxisEnd3D="408.09 46.60 0"
  MinorAxisEnd3D="317.66 137.04 0"
 /></page><page
- id="9822"
+ id="9842"
  BoundingBox="896.28 1923.33 1052.43 2451.47"
  HeaderPosition="36"
  FooterPosition="36"
@@ -10998,7 +11062,7 @@
  LineStarts="17 43 63 91 115 135 151 169 190"
 ><s font="21" size="12">Hot alumina is a dehydration catalyst that promotes an E2-like elimination on its surface. This mechanism does not involve carbocation rearrangements.
 Consequences: Syn-elimination, no rearr</s></t></page><page
- id="9823"
+ id="9843"
  BoundingBox="87.07 2451.47 233.54 2501.28"
  HeaderPosition="36"
  FooterPosition="36"
@@ -11014,7 +11078,7 @@ Consequences: Syn-elimination, no rearr</s></t></page><page
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
 ><s font="21" size="14">Oxidation of alcohol</s></t></page><page
- id="9824"
+ id="9844"
  BoundingBox="233.54 2451.47 896.28 2501.28"
  HeaderPosition="36"
  FooterPosition="36"
@@ -11023,7 +11087,7 @@ Consequences: Syn-elimination, no rearr</s></t></page><page
  WidthPages="2"
  BoundsInParent="233.54 2451.47 896.28 2501.28"
 /><page
- id="9825"
+ id="9845"
  BoundingBox="896.28 2451.47 1052.43 2501.28"
  HeaderPosition="36"
  FooterPosition="36"
@@ -11039,7 +11103,7 @@ Consequences: Syn-elimination, no rearr</s></t></page><page
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
 ><s font="21" size="12">covered under reagents</s></t></page><page
- id="9826"
+ id="9846"
  BoundingBox="87.07 2501.28 233.54 2545.59"
  HeaderPosition="36"
  FooterPosition="36"
@@ -11055,7 +11119,7 @@ Consequences: Syn-elimination, no rearr</s></t></page><page
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
 ><s font="21" size="14">Esterification</s></t></page><page
- id="9827"
+ id="9847"
  BoundingBox="233.54 2501.28 896.28 2545.59"
  HeaderPosition="36"
  FooterPosition="36"
@@ -11064,7 +11128,7 @@ Consequences: Syn-elimination, no rearr</s></t></page><page
  WidthPages="2"
  BoundsInParent="233.54 2501.28 896.28 2545.59"
 /><page
- id="9828"
+ id="9848"
  BoundingBox="896.28 2501.28 1052.43 2545.59"
  HeaderPosition="36"
  FooterPosition="36"
