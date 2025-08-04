@@ -10085,14 +10085,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  Z="3015"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="211" size="14">(Zwitter ion)</s></t><t
- id="5689"
- p="1035.27 796.82"
- BoundingBox="1036.20 789.91 1041.71 797.07"
- Z="3019"
- Warning="Chemical Interpretation is not possible for this label"
- LineHeight="auto"
-><s font="211" size="14">n</s></t><graphic
+><s font="211" size="14">(Zwitter ion)</s></t><graphic
  id="3977"
  SupersededBy="5944"
  BoundingBox="314.58 3525.04 197.89 3525.04"
