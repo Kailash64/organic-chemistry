@@ -10764,12 +10764,11 @@ e.g. CS2, CCl4</s></t><t
  p="475.47 1331.85"
  BoundingBox="475.47 1321.53 927.15 1371.42"
  Z="2229"
- color="0"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  WordWrapWidth="480.48"
  LineStarts="75 126 179"
-><s font="211" size="14" color="0">•  Polybromination takes place in this case as phenol gets ionised, and 
+><s font="211" size="14">•  Polybromination takes place in this case as phenol gets ionised, and 
    hence the rings become very strongly activated.
 •  This reaction is also used as a test for phenol.</s></t><t
  id="4373"
