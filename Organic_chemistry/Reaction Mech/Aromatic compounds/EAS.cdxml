@@ -80,7 +80,7 @@
 <font id="211" charset="x-mac-roman" name="Chalkboard"/>
 <font id="212" charset="x-mac-roman" name="Chalkboard Bold"/>
 </fonttable><page
- id="6328"
+ id="6411"
  BoundingBox="0 0 1133.86 3968.50"
  Width="1133.86"
  Height="3968.50"
@@ -866,7 +866,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6329"
+ id="6412"
 ><n
  id="5694"
  p="309.75 628.80"
@@ -1039,7 +1039,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6330"
+ id="6413"
 ><n
  id="5703"
  p="475.82 538.80"
@@ -1325,7 +1325,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6331"
+ id="6414"
 ><n
  id="4133"
  p="814.77 828.31"
@@ -1524,7 +1524,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6332"
+ id="6415"
 ><n
  id="4158"
  p="998.86 738.31"
@@ -2011,7 +2011,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6333"
+ id="6416"
 ><n
  id="5714"
  p="180.72 1180.31"
@@ -2846,7 +2846,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6334"
+ id="6417"
 ><n
  id="5719"
  p="123.18 1721.74"
@@ -3607,7 +3607,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6335"
+ id="6418"
 ><n
  id="5728"
  p="166.91 1918.66"
@@ -3737,7 +3737,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6336"
+ id="6419"
 ><n
  id="5737"
  p="252.63 1861.57"
@@ -4033,7 +4033,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6337"
+ id="6420"
 ><n
  id="5767"
  p="350.34 2100.62"
@@ -4221,7 +4221,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6338"
+ id="6421"
 ><n
  id="5778"
  p="457.35 2189.63"
@@ -4504,7 +4504,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6339"
+ id="6422"
 ><n
  id="4784"
  p="457.35 2337.66"
@@ -4649,7 +4649,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6340"
+ id="6423"
 ><n
  id="5790"
  p="142.46 2258.47"
@@ -4907,7 +4907,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6341"
+ id="6424"
 ><n
  id="5801"
  p="596.89 2337.66"
@@ -5197,7 +5197,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6342"
+ id="6425"
 ><n
  id="5812"
  p="382.13 2465.25"
@@ -5270,7 +5270,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6343"
+ id="6426"
 ><n
  id="5821"
  p="278.21 2465.25"
@@ -5345,7 +5345,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6344"
+ id="6427"
 ><n
  id="5830"
  p="330.17 2555.25"
@@ -5924,7 +5924,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6345"
+ id="6428"
 ><n
  id="5839"
  p="972.41 2507.70"
@@ -6351,7 +6351,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6346"
+ id="6429"
 ><n
  id="5165"
  p="589.78 2692.77"
@@ -6424,7 +6424,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6347"
+ id="6430"
 ><n
  id="5174"
  p="485.86 2692.77"
@@ -6499,7 +6499,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6348"
+ id="6431"
 ><n
  id="5183"
  p="537.82 2782.77"
@@ -6685,7 +6685,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6349"
+ id="6432"
 ><n
  id="5849"
  p="269.18 2782.77"
@@ -6968,7 +6968,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6350"
+ id="6433"
 ><n
  id="5860"
  p="351.33 2883.53"
@@ -7142,7 +7142,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6351"
+ id="6434"
 ><n
  id="5869"
  p="458.34 2972.54"
@@ -7411,7 +7411,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6352"
+ id="6435"
 ><n
  id="5327"
  p="344.38 3085.22"
@@ -7585,7 +7585,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6353"
+ id="6436"
 ><n
  id="5352"
  p="441.45 3174.23"
@@ -7759,7 +7759,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6354"
+ id="6437"
 ><n
  id="5880"
  p="619.59 3143.23"
@@ -8122,7 +8122,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6355"
+ id="6438"
 ><n
  id="5446"
  p="114.24 3324.32"
@@ -8274,7 +8274,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6356"
+ id="6439"
 ><n
  id="5890"
  p="454.26 3387.40"
@@ -8490,7 +8490,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6357"
+ id="6440"
 ><n
  id="5899"
  p="614.33 3298.80"
@@ -8703,7 +8703,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6358"
+ id="6441"
 ><n
  id="5908"
  p="755.42 3380.54"
@@ -8878,7 +8878,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6359"
+ id="6442"
 ><n
  id="5917"
  p="915.49 3290.95"
@@ -9145,7 +9145,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6360"
+ id="6443"
 ><n
  id="5926"
  p="264.05 452.94"
@@ -9332,7 +9332,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6361"
+ id="6444"
 ><n
  id="5646"
  p="465.74 451.95"
@@ -9745,7 +9745,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6362"
+ id="6445"
 ><n
  id="6104"
  p="373.35 1027.95"
@@ -9818,7 +9818,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6363"
+ id="6446"
 ><n
  id="6113"
  p="425.31 937.95"
@@ -9891,7 +9891,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6364"
+ id="6447"
 ><n
  id="6122"
  p="321.39 937.95"
@@ -10037,7 +10037,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6365"
+ id="6448"
 ><n
  id="6142"
  p="399.99 988.24"
@@ -10246,7 +10246,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6366"
+ id="6449"
 ><n
  id="6183"
  p="309.09 828.31"
@@ -10434,7 +10434,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6367"
+ id="6450"
 ><n
  id="6214"
  p="493.18 738.31"
@@ -10732,11 +10732,11 @@ However, if the alkyl group is made bulky, the steric factor will again take ove
 ><s font="211" size="14">+</s></t><t
  id="4254"
  p="363.07 1253.77"
- BoundingBox="363.53 1242.97 406.73 1256.14"
+ BoundingBox="363.53 1242.97 397.98 1256.14"
  Z="2184"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="211" size="14">(major)</s></t><t
+><s font="211" size="14">(93%)</s></t><t
  id="4258"
  p="54.46 1125.98"
  BoundingBox="54.72 1115.66 530.44 1129.89"
@@ -11305,49 +11305,56 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  Z="3339"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="211" size="14">(84%)</s></t><graphic
- id="6285"
- SupersededBy="6368"
+><s font="211" size="14">(84%)</s></t><t
+ id="6409"
+ p="461.35 1257.51"
+ BoundingBox="461.81 1246.72 489.12 1259.88"
+ Z="3341"
+ Warning="Chemical Interpretation is not possible for this label"
+ LineHeight="auto"
+><s font="211" size="14">(7%)</s></t><graphic
+ id="6368"
+ SupersededBy="6451"
  BoundingBox="314.58 3525.04 197.89 3525.04"
  Z="1906"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6286"
- SupersededBy="6369"
+ id="6369"
+ SupersededBy="6452"
  BoundingBox="263.10 3649.45 148.99 3649.45"
  Z="1927"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6287"
- SupersededBy="6370"
+ id="6370"
+ SupersededBy="6453"
  BoundingBox="238.22 3552.50 238.22 3541.34"
  Z="1931"
  GraphicType="Line"
  ArrowType="RetroSynthetic"
  HeadSize="600"
 /><graphic
- id="6288"
- SupersededBy="6371"
+ id="6371"
+ SupersededBy="6454"
  BoundingBox="324.34 198.13 146.73 198.13"
  Z="1951"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6289"
- SupersededBy="6372"
+ id="6372"
+ SupersededBy="6455"
  BoundingBox="252.26 564.51 171.61 564.51"
  Z="2008"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6290"
- SupersededBy="6373"
+ id="6373"
+ SupersededBy="6456"
  BoundingBox="757.28 764.02 676.63 764.02"
  Z="2076"
  GraphicType="Line"
@@ -11365,48 +11372,48 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1032.91 660.60 0"
  MinorAxisEnd3D="543.03 844.26 0"
 /><graphic
- id="6291"
- SupersededBy="6374"
+ id="6374"
+ SupersededBy="6457"
  BoundingBox="283.28 1195.43 147.72 1195.43"
  Z="2148"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6292"
- SupersededBy="6375"
+ id="6375"
+ SupersededBy="6458"
  BoundingBox="259.26 1346.44 166.59 1346.44"
  Z="2204"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6293"
- SupersededBy="6376"
+ id="6376"
+ SupersededBy="6459"
  BoundingBox="278.99 1497.45 139.99 1497.45"
  Z="2245"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6294"
- SupersededBy="6377"
+ id="6377"
+ SupersededBy="6460"
  BoundingBox="216.22 1714.15 134.71 1714.15"
  Z="2289"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6295"
- SupersededBy="6378"
+ id="6378"
+ SupersededBy="6461"
  BoundingBox="419.38 1713.71 329.38 1713.71"
  Z="2315"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6296"
- SupersededBy="6379"
+ id="6379"
+ SupersededBy="6462"
  BoundingBox="723.30 1711.54 649.51 1711.54"
  Z="2365"
  GraphicType="Line"
@@ -11424,72 +11431,72 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="944.66 1693.90 0"
  MinorAxisEnd3D="498.50 1796.89 0"
 /><graphic
- id="6297"
- SupersededBy="6380"
+ id="6380"
+ SupersededBy="6463"
  BoundingBox="221.10 1925.22 139.59 1925.22"
  Z="2425"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6298"
- SupersededBy="6381"
+ id="6381"
+ SupersededBy="6464"
  BoundingBox="242.42 2124.20 135.12 2124.20"
  Z="2466"
  GraphicType="Line"
  ArrowType="Equilibrium"
  HeadSize="1000"
 /><graphic
- id="6299"
- SupersededBy="6382"
+ id="6382"
+ SupersededBy="6465"
  BoundingBox="200.70 2273.23 128.17 2273.23"
  Z="2546"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6300"
- SupersededBy="6383"
+ id="6383"
+ SupersededBy="6466"
  BoundingBox="407.35 2272.23 307.01 2272.23"
  Z="2564"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6301"
- SupersededBy="6384"
+ id="6384"
+ SupersededBy="6467"
  BoundingBox="553.40 2274.73 504.89 2274.73"
  Z="2567"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6302"
- SupersededBy="6385"
+ id="6385"
+ SupersededBy="6468"
  BoundingBox="245.41 2491.81 137.11 2491.81"
  Z="2639"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6303"
- SupersededBy="6386"
+ id="6386"
+ SupersededBy="6469"
  BoundingBox="851.47 2499.76 755.32 2499.76"
  Z="2662"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6304"
- SupersededBy="6387"
+ id="6387"
+ SupersededBy="6470"
  BoundingBox="794.83 2471.52 794.83 2460.36"
  Z="2671"
  GraphicType="Line"
  ArrowType="RetroSynthetic"
  HeadSize="600"
 /><graphic
- id="6305"
- SupersededBy="6388"
+ id="6388"
+ SupersededBy="6471"
  BoundingBox="696.70 2464.98 690.74 2454.05"
  Z="2674"
  GraphicType="Arc"
@@ -11497,8 +11504,8 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="180"
 /><graphic
- id="6306"
- SupersededBy="6389"
+ id="6389"
+ SupersededBy="6472"
  BoundingBox="722.53 2504.72 714.58 2496.28"
  Z="2675"
  GraphicType="Arc"
@@ -11506,8 +11513,8 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="180"
 /><graphic
- id="6307"
- SupersededBy="6390"
+ id="6390"
+ SupersededBy="6473"
  BoundingBox="820.89 2489.82 749.36 2451.07"
  Z="2676"
  GraphicType="Arc"
@@ -11515,16 +11522,16 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="90"
 /><graphic
- id="6308"
- SupersededBy="6391"
+ id="6391"
+ SupersededBy="6474"
  BoundingBox="1009.67 2494.79 954.03 2494.79"
  Z="2698"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6309"
- SupersededBy="6392"
+ id="6392"
+ SupersededBy="6475"
  BoundingBox="1053.38 2525.59 1056.40 2515.90"
  Z="2727"
  GraphicType="Arc"
@@ -11532,8 +11539,8 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="-120"
 /><graphic
- id="6310"
- SupersededBy="6393"
+ id="6393"
+ SupersededBy="6476"
  BoundingBox="1085.18 2516.64 1088.65 2533.04"
  Z="2732"
  GraphicType="Arc"
@@ -11541,8 +11548,8 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="90"
 /><graphic
- id="6311"
- SupersededBy="6394"
+ id="6394"
+ SupersededBy="6477"
  BoundingBox="1071.26 2554.40 1062.32 2558.38"
  Z="2733"
  GraphicType="Arc"
@@ -11561,8 +11568,8 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1125.91 2490.29 0"
  MinorAxisEnd3D="893.31 2598.12 0"
 /><graphic
- id="6312"
- SupersededBy="6395"
+ id="6395"
+ SupersededBy="6478"
  BoundingBox="964.96 2509.69 962.47 2549.93"
  Z="2736"
  GraphicType="Arc"
@@ -11570,48 +11577,48 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  HeadSize="1000"
  AngularSize="-90"
 /><graphic
- id="6313"
- SupersededBy="6396"
+ id="6396"
+ SupersededBy="6479"
  BoundingBox="441.13 2712.37 332.84 2712.37"
  Z="2793"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6314"
- SupersededBy="6397"
+ id="6397"
+ SupersededBy="6480"
  BoundingBox="221.48 2713.79 131.48 2713.79"
  Z="2800"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6315"
- SupersededBy="6398"
+ id="6398"
+ SupersededBy="6481"
  BoundingBox="243.42 2907.11 136.12 2907.11"
  Z="2835"
  GraphicType="Line"
  ArrowType="Equilibrium"
  HeadSize="1000"
 /><graphic
- id="6316"
- SupersededBy="6399"
+ id="6399"
+ SupersededBy="6482"
  BoundingBox="243.42 3111.78 135.12 3111.78"
  Z="2940"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6317"
- SupersededBy="6400"
+ id="6400"
+ SupersededBy="6483"
  BoundingBox="207.28 3316.74 125.77 3316.74"
  Z="2985"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6318"
- SupersededBy="6401"
+ id="6401"
+ SupersededBy="6484"
  BoundingBox="714.36 3314.12 640.57 3314.12"
  Z="3058"
  GraphicType="Line"
@@ -11629,301 +11636,301 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="935.72 3296.49 0"
  MinorAxisEnd3D="489.56 3399.47 0"
 /><graphic
- id="6319"
- SupersededBy="6402"
+ id="6402"
+ SupersededBy="6485"
  BoundingBox="411.33 3323.40 308 3323.40"
  Z="3100"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6320"
- SupersededBy="6403"
+ id="6403"
+ SupersededBy="6486"
  BoundingBox="216.50 388.65 135.84 388.65"
  Z="3118"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6321"
- SupersededBy="6404"
+ id="6404"
+ SupersededBy="6487"
  BoundingBox="414.31 389.64 317.66 389.64"
  Z="3137"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6322"
- SupersededBy="6405"
+ id="6405"
+ SupersededBy="6488"
  BoundingBox="638.85 385.67 542.20 385.67"
  Z="3167"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6323"
- SupersededBy="6406"
+ id="6406"
+ SupersededBy="6489"
  BoundingBox="289.14 963.66 140.83 963.66"
  Z="3231"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6324"
- SupersededBy="6407"
+ id="6407"
+ SupersededBy="6490"
  BoundingBox="251.60 764.02 170.95 764.02"
  Z="3287"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6325"
- SupersededBy="6408"
+ id="6408"
+ SupersededBy="6491"
  BoundingBox="554.38 835.31 554.38 689.23"
  Z="3340"
  LineType="Bold"
  GraphicType="Line"
  HeadSize="2000"
 /><scheme
- id="6409"
+ id="6492"
 ><step
- id="6410"
+ id="6493"
  ReactionStepReactants="3985"
  ReactionStepProducts="4005 4022"
- ReactionStepArrows="6288"
+ ReactionStepArrows="6371"
  ReactionStepObjectsAboveArrow="4004 4003 3981"
  ReactionStepObjectsBelowArrow="4045 4046"
 /></scheme><scheme
- id="6411"
+ id="6494"
 ><step
- id="6412"
+ id="6495"
  ReactionStepReactants="5556"
  ReactionStepProducts="5571"
- ReactionStepArrows="6320"
+ ReactionStepArrows="6403"
  ReactionStepObjectsAboveArrow="5622"
 /><step
- id="6413"
+ id="6496"
  ReactionStepReactants="5571"
  ReactionStepProducts="5636"
- ReactionStepArrows="6321"
+ ReactionStepArrows="6404"
  ReactionStepObjectsAboveArrow="5633"
 /><step
- id="6414"
+ id="6497"
  ReactionStepReactants="5636"
  ReactionStepProducts="5668"
- ReactionStepArrows="6322"
+ ReactionStepArrows="6405"
  ReactionStepObjectsAboveArrow="5665 5555"
 /></scheme><scheme
- id="6415"
+ id="6498"
 ><step
- id="6416"
+ id="6499"
  ReactionStepReactants="4050"
  ReactionStepProducts="4065 4082"
- ReactionStepArrows="6289"
+ ReactionStepArrows="6372"
  ReactionStepObjectsAboveArrow="4103"
 /></scheme><scheme
- id="6417"
+ id="6500"
 ><step
- id="6418"
+ id="6501"
  ReactionStepReactants="6152"
  ReactionStepProducts="6173 6204 4108"
- ReactionStepArrows="6324"
+ ReactionStepArrows="6407"
  ReactionStepObjectsAboveArrow="6236"
 /><step
- id="6419"
+ id="6502"
  ReactionStepReactants="6173 6204 4108"
  ReactionStepProducts="4123 4148"
- ReactionStepArrows="6290"
+ ReactionStepArrows="6373"
  ReactionStepObjectsAboveArrow="4174"
 /></scheme><scheme
- id="6420"
+ id="6503"
 ><step
- id="6421"
+ id="6504"
  ReactionStepReactants="6079"
  ReactionStepProducts="6094 6139"
- ReactionStepArrows="6323"
+ ReactionStepArrows="6406"
  ReactionStepObjectsAboveArrow="6147"
  ReactionStepObjectsBelowArrow="6148"
 /></scheme><scheme
- id="6422"
+ id="6505"
 ><step
- id="6423"
+ id="6506"
  ReactionStepReactants="4199"
  ReactionStepProducts="4214 4231"
- ReactionStepArrows="6291"
+ ReactionStepArrows="6374"
  ReactionStepObjectsAboveArrow="4261"
  ReactionStepObjectsBelowArrow="4262"
 /></scheme><scheme
- id="6424"
+ id="6507"
 ><step
- id="6425"
+ id="6508"
  ReactionStepReactants="4263"
  ReactionStepProducts="4278"
- ReactionStepArrows="6292"
+ ReactionStepArrows="6375"
  ReactionStepObjectsAboveArrow="4312"
 /></scheme><scheme
- id="6426"
+ id="6509"
 ><step
- id="6427"
+ id="6510"
  ReactionStepReactants="4335"
  ReactionStepProducts="4350"
- ReactionStepArrows="6293"
+ ReactionStepArrows="6376"
  ReactionStepObjectsAboveArrow="4377"
  ReactionStepObjectsBelowArrow="4371"
 /></scheme><scheme
- id="6428"
+ id="6511"
 ><step
- id="6429"
+ id="6512"
  ReactionStepReactants="4386"
  ReactionStepProducts="4402"
- ReactionStepArrows="6294"
+ ReactionStepArrows="6377"
  ReactionStepObjectsAboveArrow="4427"
  ReactionStepObjectsBelowArrow="4428"
 /><step
- id="6430"
+ id="6513"
  ReactionStepReactants="4402"
  ReactionStepProducts="4439 4464"
- ReactionStepArrows="6295"
+ ReactionStepArrows="6378"
  ReactionStepObjectsAboveArrow="4460"
 /><step
- id="6431"
+ id="6514"
  ReactionStepReactants="4439 4464"
  ReactionStepProducts="4492 4510"
- ReactionStepArrows="6296"
+ ReactionStepArrows="6379"
  ReactionStepObjectsAboveArrow="4488"
 /></scheme><scheme
- id="6432"
+ id="6515"
 ><step
- id="6433"
+ id="6516"
  ReactionStepReactants="4539"
  ReactionStepProducts="4568"
- ReactionStepArrows="6297"
+ ReactionStepArrows="6380"
  ReactionStepObjectsAboveArrow="4554"
 /></scheme><scheme
- id="6434"
+ id="6517"
 ><step
- id="6435"
- ReactionStepReactants="4677 4732"
+ id="6518"
+ ReactionStepReactants="4732 4677"
  ReactionStepProducts="4695 4713 4774"
- ReactionStepArrows="6298"
+ ReactionStepArrows="6381"
  ReactionStepObjectsAboveArrow="4693"
 /><step
- id="6436"
- ReactionStepReactants="4677 4732"
+ id="6519"
+ ReactionStepReactants="4732 4677"
  ReactionStepProducts="4817"
- ReactionStepArrows="6299"
+ ReactionStepArrows="6382"
  ReactionStepObjectsAboveArrow="4809"
 /><step
- id="6437"
+ id="6520"
  ReactionStepReactants="4695 4713 4774"
  ReactionStepProducts="4847"
- ReactionStepArrows="6301"
+ ReactionStepArrows="6384"
 /><step
- id="6438"
+ id="6521"
  ReactionStepReactants="4817"
  ReactionStepProducts="4713 4774"
- ReactionStepArrows="6300"
+ ReactionStepArrows="6383"
  ReactionStepObjectsAboveArrow="4832"
 /></scheme><scheme
- id="6439"
+ id="6522"
 ><step
- id="6440"
+ id="6523"
  ReactionStepReactants="4876"
  ReactionStepProducts="4891 4918 4962"
- ReactionStepArrows="6302"
+ ReactionStepArrows="6385"
  ReactionStepObjectsAboveArrow="4945"
  ReactionStepObjectsBelowArrow="4954"
 /><step
- id="6441"
+ id="6524"
  ReactionStepReactants="4962"
  ReactionStepProducts="4990"
- ReactionStepArrows="6307"
+ ReactionStepArrows="6390"
 /><step
- id="6442"
+ id="6525"
  ReactionStepReactants="4891 4918 4962"
  ReactionStepProducts="5007"
- ReactionStepArrows="6303"
+ ReactionStepArrows="6386"
  ReactionStepObjectsAboveArrow="5001"
 /><step
- id="6443"
+ id="6526"
  ReactionStepReactants="4990"
  ReactionStepProducts="4962"
- ReactionStepArrows="6304"
+ ReactionStepArrows="6387"
 /><step
- id="6444"
+ id="6527"
  ReactionStepReactants="4990"
  ReactionStepProducts="5035"
- ReactionStepArrows="6312"
+ ReactionStepArrows="6395"
 /><step
- id="6445"
+ id="6528"
  ReactionStepReactants="5007"
  ReactionStepProducts="5041"
- ReactionStepArrows="6308"
+ ReactionStepArrows="6391"
 /></scheme><scheme
- id="6446"
+ id="6529"
 ><step
- id="6447"
+ id="6530"
  ReactionStepReactants="5140"
  ReactionStepProducts="5206"
- ReactionStepArrows="6314"
+ ReactionStepArrows="6397"
  ReactionStepObjectsAboveArrow="5221"
 /><step
- id="6448"
+ id="6531"
  ReactionStepReactants="5206"
  ReactionStepProducts="5155"
- ReactionStepArrows="6313"
+ ReactionStepArrows="6396"
  ReactionStepObjectsAboveArrow="5200"
  ReactionStepObjectsBelowArrow="5201"
 /></scheme><scheme
- id="6449"
+ id="6532"
 ><step
- id="6450"
+ id="6533"
  ReactionStepReactants="5225"
  ReactionStepProducts="5240 5267"
- ReactionStepArrows="6315"
+ ReactionStepArrows="6398"
  ReactionStepObjectsAboveArrow="5294"
 /></scheme><scheme
- id="6451"
+ id="6534"
 ><step
- id="6452"
+ id="6535"
  ReactionStepReactants="5302"
  ReactionStepProducts="5317 5342 5376"
- ReactionStepArrows="6316"
+ ReactionStepArrows="6399"
  ReactionStepObjectsAboveArrow="5372"
  ReactionStepObjectsBelowArrow="5373"
 /></scheme><scheme
- id="6453"
+ id="6536"
 ><step
- id="6454"
+ id="6537"
  ReactionStepReactants="5407"
  ReactionStepProducts="5422"
- ReactionStepArrows="6317"
+ ReactionStepArrows="6400"
  ReactionStepObjectsAboveArrow="5443"
  ReactionStepObjectsBelowArrow="5453"
 /><step
- id="6455"
+ id="6538"
  ReactionStepReactants="5422"
  ReactionStepProducts="5455 5480"
- ReactionStepArrows="6319"
+ ReactionStepArrows="6402"
  ReactionStepObjectsAboveArrow="5551"
  ReactionStepObjectsBelowArrow="5552"
 /><step
- id="6456"
+ id="6539"
  ReactionStepReactants="5455 5480"
  ReactionStepProducts="5505 5522"
- ReactionStepArrows="6318"
+ ReactionStepArrows="6401"
  ReactionStepObjectsAboveArrow="5503"
 /></scheme><scheme
- id="6457"
+ id="6540"
 ><step
- id="6458"
+ id="6541"
  ReactionStepReactants="3777"
  ReactionStepProducts="3815"
- ReactionStepArrows="6285"
+ ReactionStepArrows="6368"
  ReactionStepObjectsAboveArrow="3897"
  ReactionStepObjectsBelowArrow="3857"
 /></scheme><arrow
- id="6368"
+ id="6451"
  BoundingBox="197.89 3520.10 314.58 3529.04"
  Z="1906"
  FillType="None"
@@ -11938,7 +11945,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="527.36 3788.02 0"
  MinorAxisEnd3D="410.68 3904.71 0"
 /><arrow
- id="6369"
+ id="6452"
  BoundingBox="148.99 3644.51 263.10 3653.45"
  Z="1927"
  FillType="None"
@@ -11953,7 +11960,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="448.86 3904.28 0"
  MinorAxisEnd3D="334.74 4018.39 0"
 /><arrow
- id="6370"
+ id="6453"
  BoundingBox="232.52 3540.54 243.92 3554.10"
  Z="1931"
  FillType="None"
@@ -11969,7 +11976,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="333.88 3743.83 0"
  MinorAxisEnd3D="322.73 3754.99 0"
 /><arrow
- id="6371"
+ id="6454"
  BoundingBox="146.73 193.19 324.34 202.13"
  Z="1951"
  FillType="None"
@@ -11984,7 +11991,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="585.17 259.05 0"
  MinorAxisEnd3D="407.56 436.65 0"
 /><arrow
- id="6372"
+ id="6455"
  BoundingBox="171.61 559.57 252.26 568.51"
  Z="2008"
  FillType="None"
@@ -11999,7 +12006,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="412.71 708.65 0"
  MinorAxisEnd3D="332.06 789.30 0"
 /><arrow
- id="6373"
+ id="6456"
  BoundingBox="676.63 759.08 757.28 768.02"
  Z="2076"
  FillType="None"
@@ -12014,7 +12021,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="917.73 908.16 0"
  MinorAxisEnd3D="837.07 988.81 0"
 /><arrow
- id="6374"
+ id="6457"
  BoundingBox="147.72 1190.49 283.28 1199.43"
  Z="2148"
  FillType="None"
@@ -12029,7 +12036,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="494.35 1571.23 0"
  MinorAxisEnd3D="358.78 1706.80 0"
 /><arrow
- id="6375"
+ id="6458"
  BoundingBox="166.59 1341.50 259.26 1350.44"
  Z="2204"
  FillType="None"
@@ -12044,7 +12051,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="436.86 1784.88 0"
  MinorAxisEnd3D="344.20 1877.54 0"
 /><arrow
- id="6376"
+ id="6459"
  BoundingBox="139.99 1492.51 278.99 1501.45"
  Z="2245"
  FillType="None"
@@ -12059,7 +12066,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="489.63 2011.39 0"
  MinorAxisEnd3D="350.63 2150.38 0"
 /><arrow
- id="6377"
+ id="6460"
  BoundingBox="134.71 1709.21 216.22 1718.15"
  Z="2289"
  FillType="None"
@@ -12074,7 +12081,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="369.80 2336.45 0"
  MinorAxisEnd3D="288.29 2417.96 0"
 /><arrow
- id="6378"
+ id="6461"
  BoundingBox="329.38 1708.77 419.38 1717.71"
  Z="2315"
  FillType="None"
@@ -12089,7 +12096,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="681.79 2321.62 0"
  MinorAxisEnd3D="591.79 2411.62 0"
 /><arrow
- id="6379"
+ id="6462"
  BoundingBox="649.51 1706.60 723.30 1715.54"
  Z="2365"
  FillType="None"
@@ -12104,7 +12111,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1133.42 2331.04 0"
  MinorAxisEnd3D="1059.64 2404.82 0"
 /><arrow
- id="6380"
+ id="6463"
  BoundingBox="139.59 1920.28 221.10 1929.22"
  Z="2425"
  FillType="None"
@@ -12119,7 +12126,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="374.68 2547.52 0"
  MinorAxisEnd3D="293.17 2629.03 0"
 /><arrow
- id="6381"
+ id="6464"
  BoundingBox="132.72 2116.86 244.82 2131.54"
  Z="2466"
  FillType="None"
@@ -12136,7 +12143,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="423.75 3038.26 0"
  MinorAxisEnd3D="316.44 3145.56 0"
 /><arrow
- id="6382"
+ id="6465"
  BoundingBox="128.17 2268.29 200.70 2277.23"
  Z="2546"
  FillType="None"
@@ -12151,7 +12158,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="337.31 3257.83 0"
  MinorAxisEnd3D="264.78 3330.36 0"
 /><arrow
- id="6383"
+ id="6466"
  BoundingBox="307.01 2267.29 407.35 2276.23"
  Z="2564"
  FillType="None"
@@ -12166,7 +12173,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="658.72 3255.84 0"
  MinorAxisEnd3D="558.37 3356.19 0"
 /><arrow
- id="6384"
+ id="6467"
  BoundingBox="504.89 2269.79 553.40 2278.73"
  Z="2567"
  FillType="None"
@@ -12181,7 +12188,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="854.36 3262.56 0"
  MinorAxisEnd3D="805.85 3311.07 0"
 /><arrow
- id="6385"
+ id="6468"
  BoundingBox="137.11 2486.87 245.41 2495.81"
  Z="2639"
  FillType="None"
@@ -12196,7 +12203,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="422.26 3604.08 0"
  MinorAxisEnd3D="313.96 3712.38 0"
 /><arrow
- id="6386"
+ id="6469"
  BoundingBox="755.32 2494.82 851.47 2503.76"
  Z="2662"
  FillType="None"
@@ -12211,7 +12218,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1325.27 3602.59 0"
  MinorAxisEnd3D="1229.13 3698.74 0"
 /><arrow
- id="6387"
+ id="6470"
  BoundingBox="789.13 2459.56 800.53 2473.12"
  Z="2671"
  FillType="None"
@@ -12227,7 +12234,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="890.49 2662.85 0"
  MinorAxisEnd3D="879.34 2674.01 0"
 /><arrow
- id="6388"
+ id="6471"
  BoundingBox="677.06 2441.38 696.70 2468.60"
  Z="2674"
  FillType="None"
@@ -12243,7 +12250,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="703.19 2454.05 0"
  MinorAxisEnd3D="690.74 2466.50 0"
 /><arrow
- id="6389"
+ id="6472"
  BoundingBox="701.40 2486.10 722.53 2511.01"
  Z="2675"
  FillType="None"
@@ -12259,7 +12266,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="726.18 2496.28 0"
  MinorAxisEnd3D="714.58 2507.88 0"
 /><arrow
- id="6390"
+ id="6473"
  BoundingBox="708.88 2489.82 820.89 2533.47"
  Z="2676"
  FillType="None"
@@ -12275,7 +12282,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="830.71 2451.07 0"
  MinorAxisEnd3D="749.36 2532.43 0"
 /><arrow
- id="6391"
+ id="6474"
  BoundingBox="954.03 2489.85 1009.67 2498.79"
  Z="2698"
  FillType="None"
@@ -12290,7 +12297,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1542.21 3619.48 0"
  MinorAxisEnd3D="1486.57 3675.12 0"
 /><arrow
- id="6392"
+ id="6475"
  BoundingBox="1053.38 2511.93 1068.04 2527.20"
  Z="2727"
  FillType="None"
@@ -12306,7 +12313,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1066.55 2515.90 0"
  MinorAxisEnd3D="1056.40 2526.05 0"
 /><arrow
- id="6393"
+ id="6476"
  BoundingBox="1085.18 2514.69 1106.78 2531.31"
  Z="2732"
  FillType="None"
@@ -12322,7 +12329,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1105.41 2533.04 0"
  MinorAxisEnd3D="1088.65 2549.80 0"
 /><arrow
- id="6394"
+ id="6477"
  BoundingBox="1050.79 2547.71 1071.99 2569.75"
  Z="2733"
  FillType="None"
@@ -12338,7 +12345,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1072.11 2558.38 0"
  MinorAxisEnd3D="1062.32 2568.16 0"
 /><arrow
- id="6395"
+ id="6478"
  BoundingBox="920.49 2507.48 964.96 2549.18"
  Z="2736"
  FillType="None"
@@ -12354,7 +12361,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1002.79 2549.93 0"
  MinorAxisEnd3D="962.47 2590.25 0"
 /><arrow
- id="6396"
+ id="6479"
  BoundingBox="332.84 2707.43 441.13 2716.37"
  Z="2793"
  FillType="None"
@@ -12369,7 +12376,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="617.98 3824.65 0"
  MinorAxisEnd3D="509.69 3932.94 0"
 /><arrow
- id="6397"
+ id="6480"
  BoundingBox="131.48 2708.85 221.48 2717.79"
  Z="2800"
  FillType="None"
@@ -12384,7 +12391,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="355.36 3927.62 0"
  MinorAxisEnd3D="265.36 4017.62 0"
 /><arrow
- id="6398"
+ id="6481"
  BoundingBox="133.72 2899.77 245.82 2914.45"
  Z="2835"
  FillType="None"
@@ -12401,7 +12408,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="424.74 3821.17 0"
  MinorAxisEnd3D="317.44 3928.47 0"
 /><arrow
- id="6399"
+ id="6482"
  BoundingBox="135.12 3106.84 243.42 3115.78"
  Z="2940"
  FillType="None"
@@ -12416,7 +12423,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="420.27 4224.05 0"
  MinorAxisEnd3D="311.97 4332.35 0"
 /><arrow
- id="6400"
+ id="6483"
  BoundingBox="125.77 3311.80 207.28 3320.74"
  Z="2985"
  FillType="None"
@@ -12431,7 +12438,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="360.86 3939.04 0"
  MinorAxisEnd3D="279.35 4020.55 0"
 /><arrow
- id="6401"
+ id="6484"
  BoundingBox="640.57 3309.18 714.36 3318.12"
  Z="3058"
  FillType="None"
@@ -12446,7 +12453,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="1124.48 3933.62 0"
  MinorAxisEnd3D="1050.69 4007.41 0"
 /><arrow
- id="6402"
+ id="6485"
  BoundingBox="308 3318.46 411.33 3327.40"
  Z="3100"
  FillType="None"
@@ -12461,7 +12468,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="668.65 4837.07 0"
  MinorAxisEnd3D="565.33 4940.40 0"
 /><arrow
- id="6403"
+ id="6486"
  BoundingBox="135.84 383.71 216.50 392.65"
  Z="3118"
  FillType="None"
@@ -12476,7 +12483,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="376.94 532.79 0"
  MinorAxisEnd3D="296.29 613.45 0"
 /><arrow
- id="6404"
+ id="6487"
  BoundingBox="317.66 384.70 414.31 393.64"
  Z="3137"
  FillType="None"
@@ -12491,7 +12498,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="669.78 597.77 0"
  MinorAxisEnd3D="573.14 694.41 0"
 /><arrow
- id="6405"
+ id="6488"
  BoundingBox="542.20 380.73 638.85 389.67"
  Z="3167"
  FillType="None"
@@ -12506,7 +12513,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="894.33 593.79 0"
  MinorAxisEnd3D="797.68 690.44 0"
 /><arrow
- id="6406"
+ id="6489"
  BoundingBox="140.83 958.72 289.14 967.66"
  Z="3231"
  FillType="None"
@@ -12521,7 +12528,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="526.23 1347.64 0"
  MinorAxisEnd3D="377.92 1495.95 0"
 /><arrow
- id="6407"
+ id="6490"
  BoundingBox="170.95 759.08 251.60 768.02"
  Z="3287"
  FillType="None"
@@ -12536,7 +12543,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  MajorAxisEnd3D="412.05 908.16 0"
  MinorAxisEnd3D="331.39 988.81 0"
 /><arrow
- id="6408"
+ id="6491"
  BoundingBox="552.38 689.23 556.38 835.31"
  Z="3340"
  LineType="Bold"
