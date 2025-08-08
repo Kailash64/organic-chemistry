@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="Carbonyl Derivatives.cdxml"
- BoundingBox="59.57 90.91 988.98 415.68"
+ BoundingBox="59.57 90.91 1121.52 415.68"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -76,10 +76,9 @@
 <color r="0" g="1" b="1"/>
 <color r="1" g="0" b="1"/>
 </colortable><fonttable>
-<font id="21" charset="x-mac-roman" name="Helvetica"/>
 <font id="23" charset="x-mac-roman" name="Symbol"/>
 <font id="211" charset="x-mac-roman" name="Chalkboard"/>
-<font id="308" charset="x-mac-roman" name="Helvetica Bold"/>
+<font id="212" charset="x-mac-roman" name="Chalkboard Bold"/>
 </fonttable><page
  id="4978"
  BoundingBox="0 0 1133.86 2551.18"
@@ -1087,11 +1086,14 @@
 ><s font="211" size="14.6" face="96">dil. H+</s></t><t
  id="4954"
  p="634.06 194.77"
- BoundingBox="634.91 184.45 988.98 198.60"
+ BoundingBox="634.45 184.45 1121.52 270.07"
  Z="239"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="308" size="12" face="1">•</s><s font="21" size="12">  </s><s font="211" size="14">Trans-esterification and trans -anhydride also possible</s></t><t
+ LineStarts="65 141 195 274 328"
+><s font="212" size="14" face="1">•</s><s font="211" size="14">  Trans-esterification and trans-anhydride are also possible.
+</s><s font="212" size="14" face="1">•</s><s font="211" size="14">  Neutral amines are used instead of </s><s font="211" size="14" face="96">NaNH2, as NH2</s><s font="211" size="14" face="64">-</s><s font="211" size="14" face="96"> is a strong base and causes side reactions like deprotonation of a-carbon.
+</s><s font="212" size="14" face="1">•</s><s font="211" size="14">  Two equivalents of amines are usually used as, one as the nucleophile and one as a base to neutralize the HCl or RCOOH byproduct</s></t><t
  id="4963"
  p="421.51 239.28"
  BoundingBox="417.12 175.56 528.59 239.33"
