@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="604px" height="323px" viewBox="0 0 604 323" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<svg width="728px" height="323px" viewBox="0 0 728 323" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 866,6105.66 L 850,6077.94 L 1362.09,5782.84 L 1377.62,5791.8 L 1377.62,5809.72 L 866,6105.66 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 1377.62,5809.72 L 1377.62,5791.8 L 1393.14,5782.84 L 1897.23,6073.88 L 1897.23,6110.86 L 1377.62,5809.72 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 1459.62,5753.69 L 1475.62,5725.98 L 1905.23,5974.02 L 1889.23,6001.73 L 1459.62,5753.69 Z " />
@@ -154,10 +154,14 @@ k</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 217.939 216.484)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 3 </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 227.929 212.524)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-&gt;&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 245.657 212.524)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+= </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 240.103 212.524)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+1200 </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 274.152 212.524)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+x </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 287.301 212.524)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 k</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 253.051 216.484)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 294.696 216.484)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 1</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 100.712 60.658)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 14</text>
@@ -228,4 +232,28 @@ OAc</text>
 14</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 428.468 175.63)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 +</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13596.3,2922.9 L 13568.6,2906.9 L 13872.9,2378.75 L 13891.4,2410.78 L 13596.3,2922.9 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13891.4,2410.78 L 13872.9,2378.75 L 14478.2,2379.43 L 14482.4,2395.2 L 14478.2,2410.98 L 13891.4,2410.78 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13870.3,2432.26 L 13842.6,2448.26 L 13529.5,1906.17 L 13557.2,1890.17 L 13870.3,2432.26 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13948.2,2387.25 L 13920.5,2403.25 L 13607.5,1861.16 L 13635.2,1845.16 L 13948.2,2387.25 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 14478.2,2410.98 L 14482.4,2395.2 L 14511.7,2395.2 L 14987.4,2669.79 L 15019.7,2725.69 L 14478.2,2410.98 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 15019.7,2725.69 L 14987.4,2669.79 L 14987.3,2120.53 L 15019.6,2064.62 L 15019.7,2725.69 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 15019.6,2064.62 L 14987.3,2120.53 L 14511.7,2395.2 L 14482.4,2395.2 L 14478.2,2379.43 L 15019.6,2064.62 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 618.944 99.268)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
++</text>
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13596.3,4261.38 L 13568.6,4245.38 L 13872.9,3717.23 L 13891.4,3749.26 L 13596.3,4261.38 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13891.4,3749.26 L 13872.9,3717.23 L 14478.2,3717.91 L 14482.4,3733.68 L 14478.2,3749.46 L 13891.4,3749.26 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13870.3,3770.74 L 13842.6,3786.74 L 13529.5,3244.65 L 13557.2,3228.65 L 13870.3,3770.74 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 13948.2,3725.73 L 13920.5,3741.73 L 13607.5,3199.64 L 13635.2,3183.64 L 13948.2,3725.73 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 14478.2,3749.46 L 14482.4,3733.68 L 14511.7,3733.68 L 14987.4,4008.27 L 15019.7,4064.17 L 14478.2,3749.46 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 15019.7,4064.17 L 14987.4,4008.27 L 14987.3,3459.01 L 15019.6,3403.1 L 15019.7,4064.17 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -40 -26)" d="M 15019.6,3403.1 L 14987.3,3459.01 L 14511.7,3733.68 L 14482.4,3733.68 L 14478.2,3717.91 L 15019.6,3403.1 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 618.944 166.192)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
++</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 448.202 247.702)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+14</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 710.75 76.96)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+14</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 713.324 149.89)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+14</text>
 </svg>
