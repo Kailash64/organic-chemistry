@@ -199,25 +199,25 @@ SN</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 302.448 89.6335)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
 1</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 307.453 86.8737)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-’</text>
+”</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 287.448 148.054)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 SN</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 304.118 150.813)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
 1</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 309.123 148.054)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-’</text>
+”</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 307.558 205.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 SN</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 324.228 208.633)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
 1</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 329.233 205.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-’</text>
+”</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 288.288 273.754)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 SN</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 304.958 276.513)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
 1</text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 309.963 273.754)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-’</text>
+”</text>
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 151.55 5.35)" d="M 11361.2,6647.47 L 11346.8,6637.8 L 11346.8,6619.88 L 11866.4,6318.74 L 11866.4,6355.72 L 11361.2,6647.47 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 151.55 5.35)" d="M 11866.4,6355.72 L 11866.4,6318.74 L 12394,6623.94 L 12378,6651.66 L 11866.4,6355.72 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 151.55 5.35)" d="M 11346.8,6619.88 L 11346.8,6637.8 L 11332.4,6647.47 L 10819.2,6351.66 L 10835.2,6323.94 L 11346.8,6619.88 Z " />
@@ -443,9 +443,13 @@ there </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 861.801 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 is </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 873.801 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+a </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 883.808 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 possibility </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 929.154 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 939.162 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 of </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 952.504 24.7337)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+the </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 37.7504)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 formation </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 874.468 37.7504)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
@@ -469,92 +473,96 @@ can </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 undergo </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.486 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+the </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 888.502 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 SN</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 885.156 79.5601)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 905.172 79.5601)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
 1</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 890.161 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.177 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 893.495 76.8004)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-mechanism </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+mechanism </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 885.801 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 via </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 839.787 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 904.474 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 concerted </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 895.82 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-1,2-shift. </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 945.174 89.817)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-We </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-call </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 842.453 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+1,2-shift. </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 870.467 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+I </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 877.134 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+am </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 897.138 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+calling </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 934.492 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 this </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 864.461 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-SN</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 881.131 105.593)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
-1</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 886.136 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-’ </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 891.696 102.834)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-mechanism. </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
-Though </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 865.146 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+SN</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 837.783 118.61)" font-style="normal" font-weight="normal" font-size="180px" font-family="Helvetica" >
+1</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 842.788 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+” </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 850.118 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+mechanism. </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 917.929 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+Though, </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.113 128.867)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 verify </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 897.15 115.85)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 853.117 128.867)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 again.</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 151.602)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 163.424)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 Often, </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 858.981 151.602)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 857.405 163.424)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 acids </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 890.329 151.602)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 888.752 163.424)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 like </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 911.669 151.602)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.092 163.424)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 HI </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 927.002 151.602)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 925.426 163.424)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 and </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 164.418)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 176.24)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 HCN </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 852.295 164.418)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 850.719 176.24)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 are </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 872.973 164.418)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 871.397 176.24)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 not </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 892.989 164.418)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 891.412 176.24)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 stored </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 929.674 164.418)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 928.098 176.24)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 and </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 177.235)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 189.057)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 used </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 852.319 177.235)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 850.742 189.057)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 directly, </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 896.112 177.235)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.535 189.057)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 but </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 916.127 177.235)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 914.551 189.057)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 instead </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 190.052)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 201.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 their </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 849.641 190.052)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 848.065 201.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 salts </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 877.649 190.052)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 876.073 201.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 are </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 898.327 190.052)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 896.75 201.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 taken </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 931.016 190.052)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 929.44 201.874)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 in </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 202.868)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 214.69)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 another </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 866.997 202.868)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 865.42 214.69)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 non-nucleophilic </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 215.685)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 227.507)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 acid, </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 851.645 215.685)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 850.069 227.507)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 such </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 880.327 215.685)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 878.75 227.507)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 as </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 896.335 215.685)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.758 227.507)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 H3PO4 </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 939.02 215.685)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 937.444 227.507)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 or </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 822.963 228.502)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 821.387 240.324)" font-style="normal" font-weight="normal" font-size="240px" font-family="Helvetica" >
 H2SO4.</text>
 </g>
 <clipPath id="4" >
