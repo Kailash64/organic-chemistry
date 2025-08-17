@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="sigma bond resonance.cdxml"
- BoundingBox="42.50 28.79 765.99 346.45"
+ BoundingBox="42.50 28.79 765.99 513.13"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -79,7 +79,7 @@
 <font id="211" charset="x-mac-roman" name="Chalkboard"/>
 <font id="763" charset="x-mac-simpChinese" name="Songti SC"/>
 </fonttable><page
- id="5228"
+ id="5265"
  BoundingBox="0 0 1133.86 2551.18"
  Width="1133.86"
  Height="2551.18"
@@ -127,105 +127,105 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5229"
+ id="5266"
 ><n
- id="5230"
+ id="5267"
  p="172.80 289.59"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5231"
+ id="5268"
  p="224.77 319.59"
 /><n
- id="5232"
+ id="5269"
  p="250.75 304.59"
 /><n
- id="5233"
+ id="5270"
  p="276.73 319.59"
 /><n
- id="5234"
+ id="5271"
  p="276.73 349.59"
 /><n
- id="5235"
+ id="5272"
  p="250.75 364.59"
 /><n
- id="5236"
+ id="5273"
  p="224.77 349.59"
 /><n
- id="5237"
+ id="5274"
  p="302.71 364.59"
 /><n
- id="5238"
+ id="5275"
  p="198.78 304.59"
  Element="16"
  NumHydrogens="0"
 /><n
- id="5239"
+ id="5276"
  p="213.78 278.61"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5240"
+ id="5277"
  p="183.78 330.57"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5241"
+ id="5278"
  p="146.82 304.59"
  NodeType="ExternalConnectionPoint"
 /><b
- id="5242"
- B="5238"
- E="5239"
+ id="5279"
+ B="5275"
+ E="5276"
  Order="2"
 /><b
- id="5243"
- B="5238"
- E="5240"
+ id="5280"
+ B="5275"
+ E="5277"
  Order="2"
 /><b
- id="5244"
- B="5235"
- E="5236"
+ id="5281"
+ B="5272"
+ E="5273"
  Order="2"
 /><b
- id="5245"
- B="5234"
- E="5235"
+ id="5282"
+ B="5271"
+ E="5272"
 /><b
- id="5246"
- B="5234"
- E="5237"
+ id="5283"
+ B="5271"
+ E="5274"
 /><b
- id="5247"
- B="5233"
- E="5234"
+ id="5284"
+ B="5270"
+ E="5271"
  Order="2"
 /><b
- id="5248"
- B="5232"
- E="5233"
+ id="5285"
+ B="5269"
+ E="5270"
 /><b
- id="5249"
- B="5231"
- E="5232"
+ id="5286"
+ B="5268"
+ E="5269"
  Order="2"
 /><b
- id="5250"
- B="5231"
- E="5236"
+ id="5287"
+ B="5268"
+ E="5273"
 /><b
- id="5251"
- B="5231"
- E="5238"
+ id="5288"
+ B="5268"
+ E="5275"
 /><b
- id="5252"
- B="5230"
- E="5238"
+ id="5289"
+ B="5267"
+ E="5275"
 /><b
- id="5253"
- B="5241"
- E="5230"
+ id="5290"
+ B="5278"
+ E="5267"
 /></fragment><t
  p="167.71 294.39"
  BoundingBox="168.41 284.79 190.53 294.78"
@@ -459,38 +459,38 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5255"
+ id="5292"
 ><n
- id="5256"
+ id="5293"
  p="538.29 300.81"
  NumHydrogens="3"
 /><n
- id="5257"
+ id="5294"
  p="564.27 285.81"
  NumHydrogens="0"
 /><n
- id="5258"
+ id="5295"
  p="564.27 255.81"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5259"
+ id="5296"
  p="590.25 300.81"
  Element="8"
  NumHydrogens="1"
 /><b
- id="5260"
- B="5257"
- E="5258"
+ id="5297"
+ B="5294"
+ E="5295"
  Order="2"
 /><b
- id="5261"
- B="5257"
- E="5259"
+ id="5298"
+ B="5294"
+ E="5296"
 /><b
- id="5262"
- B="5256"
- E="5257"
+ id="5299"
+ B="5293"
+ E="5294"
 /></fragment><t
  id="4864"
  p="559.42 283.14"
@@ -542,44 +542,44 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5264"
+ id="5301"
 ><n
- id="5265"
+ id="5302"
  p="429.35 125.71"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5266"
+ id="5303"
  p="455.33 170.71"
  Element="8"
  NumHydrogens="0"
 /><n
- id="5267"
+ id="5304"
  p="455.33 140.71"
 /><n
- id="5268"
+ id="5305"
  p="481.31 125.71"
 /><n
- id="5269"
+ id="5306"
  p="403.37 140.71"
  NodeType="ExternalConnectionPoint"
 /><b
- id="5270"
- B="5267"
- E="5268"
+ id="5307"
+ B="5304"
+ E="5305"
 /><b
- id="5271"
- B="5266"
- E="5267"
+ id="5308"
+ B="5303"
+ E="5304"
  Order="2"
 /><b
- id="5272"
- B="5265"
- E="5267"
+ id="5309"
+ B="5302"
+ E="5304"
 /><b
- id="5273"
- B="5269"
- E="5265"
+ id="5310"
+ B="5306"
+ E="5302"
 /></fragment><t
  p="424.44 130.56"
  BoundingBox="425.14 120.86 449.41 130.95"
@@ -660,7 +660,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5275"
+ id="5312"
 ><n
  id="4900"
  p="172.80 124"
@@ -896,7 +896,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5276"
+ id="5313"
 ><n
  id="4946"
  p="429.35 60.50"
@@ -1031,7 +1031,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5277"
+ id="5314"
 ><n
  id="4969"
  p="172.80 58.79"
@@ -1236,7 +1236,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5278"
+ id="5315"
 ><n
  id="5005"
  p="189.94 70.87"
@@ -1303,7 +1303,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5279"
+ id="5316"
 ><n
  id="5015"
  p="191.66 135.22"
@@ -1400,7 +1400,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5280"
+ id="5317"
 ><n
  id="5074"
  p="619.82 124"
@@ -1542,7 +1542,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5281"
+ id="5318"
 ><n
  id="5100"
  p="431.06 194.35"
@@ -1679,7 +1679,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5282"
+ id="5319"
 ><n
  id="5123"
  p="174.52 192.64"
@@ -1886,7 +1886,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5283"
+ id="5320"
 ><n
  id="5157"
  p="193.38 203.86"
@@ -1983,7 +1983,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="5284"
+ id="5321"
 ><n
  id="5173"
  p="621.54 192.64"
@@ -2226,6 +2226,210 @@
  B="5216"
  E="5213"
  BS="N"
+/></fragment><fragment
+ id="5228"
+ BoundingBox="89.90 483.70 188 508.89"
+ Z="695"
+><n
+ id="5227"
+ p="102.96 488.51"
+ Z="694"
+ Element="8"
+ NumHydrogens="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="108.04 493.31"
+ BoundingBox="89.90 483.70 107.22 493.70"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="211" size="14" face="96">OH</s></t></n><n
+ id="5229"
+ p="128.94 503.51"
+ Z="696"
+ AS="N"
+/><n
+ id="5231"
+ p="154.92 488.51"
+ Z="698"
+ AS="N"
+/><n
+ id="5234"
+ p="180.90 503.51"
+ Z="701"
+ Element="17"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="176.80 508.40"
+ BoundingBox="177.44 498.62 188 508.89"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="211" size="14" face="96">Cl</s></t></n><b
+ id="5230"
+ Z="697"
+ B="5227"
+ E="5229"
+ BS="N"
+/><b
+ id="5233"
+ Z="700"
+ B="5229"
+ E="5231"
+ BS="N"
+/><b
+ id="5236"
+ Z="703"
+ B="5231"
+ E="5234"
+ BS="N"
+/></fragment><fragment
+ id="5238"
+ BoundingBox="318.21 469.31 410.12 508.89"
+ Z="714"
+><n
+ id="5239"
+ p="325.08 488.51"
+ Z="713"
+ Element="8"
+ NumHydrogens="0"
+ Charge="-1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="320 493.31"
+ BoundingBox="320.70 483.70 329.35 493.70"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="211" size="14" face="96">O</s></t></n><n
+ id="5240"
+ p="351.06 503.51"
+ Z="715"
+ AS="N"
+/><n
+ id="5241"
+ p="377.04 488.51"
+ Z="717"
+ AS="N"
+/><n
+ id="5242"
+ p="403.03 503.51"
+ Z="719"
+ Element="17"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="398.92 508.40"
+ BoundingBox="399.57 498.62 410.12 508.89"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="211" size="14" face="96">Cl</s></t></n><b
+ id="5243"
+ Z="716"
+ B="5239"
+ E="5240"
+ BS="N"
+/><b
+ id="5244"
+ Z="718"
+ B="5240"
+ E="5241"
+ BS="N"
+/><b
+ id="5245"
+ Z="720"
+ B="5241"
+ E="5242"
+ BS="N"
+/><graphic
+ id="5249"
+ BoundingBox="324.48 475.57 313.98 475.57"
+ Z="724"
+ GraphicType="Symbol"
+ SymbolType="CircleMinus"
+><represent attribute="Charge" object="5239"/></graphic></fragment><fragment
+ id="5248"
+ BoundingBox="220.34 474.23 254.72 484.30"
+ Z="723"
+><n
+ id="5247"
+ p="224.16 479.09"
+ Z="722"
+ NodeType="Fragment"
+ NeedsClean="yes"
+ AS="N"
+><fragment
+ id="5322"
+><n
+ id="5323"
+ p="209.41 479.09"
+ Element="11"
+ NumHydrogens="0"
+/><n
+ id="5324"
+ p="239.41 479.09"
+ Element="8"
+ NumHydrogens="1"
+/><b
+ id="5325"
+ B="5323"
+ E="5324"
+/></fragment><t
+ id="5246"
+ p="219.65 483.91"
+ BoundingBox="220.34 474.23 254.72 484.30"
+ Z="721"
+ LabelJustification="Left"
+ LabelLineHeight="auto"
+ LineHeight="auto"
+ LabelAlignment="Left"
+><s font="211" size="14">NaOH</s></t></n></fragment><fragment
+ id="5258"
+ BoundingBox="508.54 481.07 541.65 513.13"
+ Z="733"
+><n
+ id="5255"
+ p="525.10 507.94"
+ Z="730"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="520.01 512.74"
+ BoundingBox="520.71 503.13 529.36 513.13"
+ LabelJustification="Left"
+><s font="211" size="14" face="96">O</s></t></n><n
+ id="5257"
+ p="540.10 481.96"
+ Z="732"
+ AS="N"
+/><n
+ id="5259"
+ p="510.10 481.96"
+ Z="734"
+ AS="N"
+/><b
+ id="5261"
+ Z="736"
+ B="5255"
+ E="5257"
+ BS="N"
+/><b
+ id="5262"
+ Z="737"
+ B="5257"
+ E="5259"
+ BS="N"
+/><b
+ id="5263"
+ Z="738"
+ B="5259"
+ E="5255"
+ BS="N"
 /></fragment><t
  id="4862"
  p="406.69 343.20"
@@ -2389,7 +2593,7 @@
  LineHeight="auto"
 ><s font="211" size="14">14</s></t><graphic
  id="4809"
- SupersededBy="5285"
+ SupersededBy="5327"
  BoundingBox="252.25 285.71 209.35 285.71"
  Z="19"
  GraphicType="Line"
@@ -2397,7 +2601,7 @@
  HeadSize="1000"
 /><graphic
  id="4811"
- SupersededBy="5286"
+ SupersededBy="5328"
  BoundingBox="143.23 306.17 114.29 283.41"
  Z="21"
  GraphicType="Arc"
@@ -2406,7 +2610,7 @@
  AngularSize="120"
 /><graphic
  id="4813"
- SupersededBy="5287"
+ SupersededBy="5329"
  BoundingBox="175.97 284.17 156.28 278.89"
  Z="23"
  GraphicType="Arc"
@@ -2415,7 +2619,7 @@
  AngularSize="-270"
 /><graphic
  id="4863"
- SupersededBy="5288"
+ SupersededBy="5330"
  BoundingBox="640.07 290 558.56 290"
  Z="86"
  GraphicType="Line"
@@ -2423,7 +2627,7 @@
  HeadSize="1000"
 /><graphic
  id="4867"
- SupersededBy="5289"
+ SupersededBy="5331"
  BoundingBox="501.65 267.70 554.13 320.18"
  Z="90"
  GraphicType="Arc"
@@ -2432,7 +2636,7 @@
  AngularSize="90"
 /><graphic
  id="4868"
- SupersededBy="5290"
+ SupersededBy="5332"
  BoundingBox="502.95 312.40 546.40 268.95"
  Z="91"
  GraphicType="Arc"
@@ -2441,7 +2645,7 @@
  AngularSize="-120"
 /><graphic
  id="5001"
- SupersededBy="5291"
+ SupersededBy="5333"
  BoundingBox="285.71 60.06 209.35 60.06"
  Z="308"
  GraphicType="Line"
@@ -2449,7 +2653,7 @@
  HeadSize="1000"
 /><graphic
  id="5023"
- SupersededBy="5292"
+ SupersededBy="5334"
  BoundingBox="287.43 124.41 211.07 124.41"
  Z="333"
  GraphicType="Line"
@@ -2457,78 +2661,104 @@
  HeadSize="1000"
 /><graphic
  id="5194"
- SupersededBy="5293"
+ SupersededBy="5335"
  BoundingBox="289.15 193.05 212.78 193.05"
  Z="596"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
+/><graphic
+ id="5237"
+ SupersededBy="5336"
+ BoundingBox="295.01 496.30 205.01 496.30"
+ Z="704"
+ GraphicType="Line"
+ ArrowType="FullHead"
+ HeadSize="1000"
+/><graphic
+ id="5250"
+ SupersededBy="5337"
+ BoundingBox="484.77 494.21 430.72 494.21"
+ Z="725"
+ GraphicType="Line"
+ ArrowType="FullHead"
+ HeadSize="1000"
 /><scheme
- id="5294"
+ id="5338"
 ><step
- id="5295"
+ id="5339"
  ReactionStepReactants="4961"
  ReactionStepProducts="4937"
  ReactionStepArrows="5001"
  ReactionStepObjectsAboveArrow="5002"
  ReactionStepObjectsBelowArrow="5024"
 /></scheme><scheme
- id="5296"
+ id="5340"
 ><step
- id="5297"
+ id="5341"
  ReactionStepReactants="4892"
  ReactionStepProducts="4869 5065 5195"
  ReactionStepArrows="5023"
  ReactionStepObjectsAboveArrow="5012"
  ReactionStepObjectsBelowArrow="5025"
 /></scheme><scheme
- id="5298"
+ id="5342"
 ><step
- id="5299"
+ id="5343"
  ReactionStepReactants="5115"
  ReactionStepProducts="4814"
  ReactionStepArrows="4811"
 /><step
- id="5300"
+ id="5344"
  ReactionStepReactants="5115"
  ReactionStepProducts="5091 5164 5210"
  ReactionStepArrows="5194"
  ReactionStepObjectsAboveArrow="5154"
  ReactionStepObjectsBelowArrow="5188 5029"
 /><step
- id="5301"
+ id="5345"
  ReactionStepReactants="5115 4841 4847"
+ ReactionStepProducts="5228"
  ReactionStepArrows="4863"
  ReactionStepObjectsAboveArrow="4866"
 /><step
- id="5302"
+ id="5346"
  ReactionStepReactants="5210 5164 5091"
- ReactionStepProducts="4847"
  ReactionStepArrows="4868"
  ReactionStepObjectsAboveArrow="5027"
+/><step
+ id="5347"
+ ReactionStepReactants="5228"
+ ReactionStepProducts="5238"
+ ReactionStepArrows="5237"
+ ReactionStepObjectsAboveArrow="5248"
+/><step
+ id="5348"
+ ReactionStepReactants="5238"
+ ReactionStepProducts="5258"
+ ReactionStepArrows="5250"
 /></scheme><scheme
- id="5303"
+ id="5349"
 ><step
- id="5304"
+ id="5350"
  ReactionStepReactants="4792"
  ReactionStepProducts="4814"
  ReactionStepArrows="4809"
 /></scheme><scheme
- id="5305"
+ id="5351"
 ><step
- id="5306"
+ id="5352"
  ReactionStepProducts="5210 5164 5091"
  ReactionStepArrows="4867"
  ReactionStepObjectsAboveArrow="5191 5089"
  ReactionStepObjectsBelowArrow="5026"
 /><step
- id="5307"
+ id="5353"
  ReactionStepReactants="5210 5164 5091"
- ReactionStepProducts="4847"
  ReactionStepArrows="4868"
  ReactionStepObjectsAboveArrow="5027"
 /></scheme><arrow
- id="5285"
+ id="5327"
  BoundingBox="209.35 280.85 252.25 289.72"
  Z="19"
  FillType="None"
@@ -2543,7 +2773,7 @@
  MajorAxisEnd3D="383.53 313.17 0"
  MinorAxisEnd3D="340.63 356.07 0"
 /><arrow
- id="5286"
+ id="5328"
  BoundingBox="78.45 295.43 143.23 321.88"
  Z="21"
  FillType="None"
@@ -2559,7 +2789,7 @@
  MajorAxisEnd3D="150.85 279.04 0"
  MinorAxisEnd3D="118.66 319.97 0"
 /><arrow
- id="5287"
+ id="5329"
  BoundingBox="134.33 256.94 178.96 300.24"
  Z="23"
  FillType="None"
@@ -2575,7 +2805,7 @@
  MajorAxisEnd3D="176.67 278.89 0"
  MinorAxisEnd3D="156.28 299.28 0"
 /><arrow
- id="5288"
+ id="5330"
  BoundingBox="558.56 285.14 640.07 294.01"
  Z="86"
  FillType="None"
@@ -2590,7 +2820,7 @@
  MajorAxisEnd3D="1054.48 361.65 0"
  MinorAxisEnd3D="972.97 443.16 0"
 /><arrow
- id="5289"
+ id="5331"
  BoundingBox="501.65 245.15 608.26 269.35"
  Z="90"
  FillType="None"
@@ -2606,7 +2836,7 @@
  MajorAxisEnd3D="628.34 320.18 0"
  MinorAxisEnd3D="554.13 394.39 0"
 /><arrow
- id="5290"
+ id="5332"
  BoundingBox="502.95 283.20 607.41 332.05"
  Z="91"
  FillType="None"
@@ -2622,7 +2852,7 @@
  MajorAxisEnd3D="607.84 268.95 0"
  MinorAxisEnd3D="546.40 330.40 0"
 /><arrow
- id="5291"
+ id="5333"
  BoundingBox="209.35 55.20 285.71 64.06"
  Z="308"
  FillType="None"
@@ -2637,7 +2867,7 @@
  MajorAxisEnd3D="466.75 87.52 0"
  MinorAxisEnd3D="390.39 163.88 0"
 /><arrow
- id="5292"
+ id="5334"
  BoundingBox="211.07 119.55 287.43 128.41"
  Z="333"
  FillType="None"
@@ -2652,7 +2882,7 @@
  MajorAxisEnd3D="468.47 151.87 0"
  MinorAxisEnd3D="392.11 228.23 0"
 /><arrow
- id="5293"
+ id="5335"
  BoundingBox="212.78 188.19 289.15 197.05"
  Z="596"
  FillType="None"
@@ -2666,4 +2896,34 @@
  Center3D="393.82 220.51 0"
  MajorAxisEnd3D="470.18 220.51 0"
  MinorAxisEnd3D="393.82 296.87 0"
+/><arrow
+ id="5336"
+ BoundingBox="205.01 491.44 295.01 500.30"
+ Z="704"
+ FillType="None"
+ ArrowheadHead="Full"
+ ArrowheadType="Solid"
+ HeadSize="1000"
+ ArrowheadCenterSize="875"
+ ArrowheadWidth="250"
+ Head3D="295.01 496.30 0"
+ Tail3D="205.01 496.30 0"
+ Center3D="397.51 744.45 0"
+ MajorAxisEnd3D="487.51 744.45 0"
+ MinorAxisEnd3D="397.51 834.45 0"
+/><arrow
+ id="5337"
+ BoundingBox="430.72 489.35 484.77 498.21"
+ Z="725"
+ FillType="None"
+ ArrowheadHead="Full"
+ ArrowheadType="Solid"
+ HeadSize="1000"
+ ArrowheadCenterSize="875"
+ ArrowheadWidth="250"
+ Head3D="484.77 494.21 0"
+ Tail3D="430.72 494.21 0"
+ Center3D="700.13 741.31 0"
+ MajorAxisEnd3D="754.18 741.31 0"
+ MinorAxisEnd3D="700.13 795.37 0"
 /></page></CDXML>
