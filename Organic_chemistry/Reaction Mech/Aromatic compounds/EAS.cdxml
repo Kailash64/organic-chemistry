@@ -11277,16 +11277,17 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  LineHeight="auto"
 ><s font="211" size="14">(Zwitter ion)</s></t><t
  id="5983"
- p="568.53 2909.86"
- BoundingBox="568.92 2899.18 977.56 2967.37"
+ p="554.22 2891.97"
+ BoundingBox="554.33 2881.30 1115.85 3003.09"
  Z="3188"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
- LineStarts="67 125 184 240"
+ LineStarts="67 125 184 241 330 421 502"
 ><s font="211" size="14">•  The yield is very poor as about 40% phenol is left unreacted.
 •  o-nitrophenol is the major product due to H-bonding.
 •  There are still 1-2% tarry oxidation products formed.
-•  Higher temp. will further increase oxidation risks.</s></t><t
+•  Higher temp. will further increase oxidation risks.
+</s><s font="211" size="14">•  The ortho and para isomers can be separated by steam distillation. o-Nitrophenol is steam volatile due to intramolecular hydrogen bonding while p-nitrophenol is less volatile due to intermolecular hydrogen bonding which causes the association of molecules.</s></t><t
  id="5984"
  p="465.95 2995.63"
  BoundingBox="466.41 2984.83 498.92 2997.99"
