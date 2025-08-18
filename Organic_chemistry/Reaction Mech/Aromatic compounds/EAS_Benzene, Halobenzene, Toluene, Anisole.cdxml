@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="EAS_Benzene, Halobenzene, Toluene, Anisole.cdxml"
- BoundingBox="15.75 103.86 1104.02 1036.79"
+ BoundingBox="50.69 137.80 1104.02 1036.79"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -78,7 +78,6 @@
 </colortable><fonttable>
 <font id="23" charset="x-mac-roman" name="Symbol"/>
 <font id="211" charset="x-mac-roman" name="Chalkboard"/>
-<font id="212" charset="x-mac-roman" name="Chalkboard Bold"/>
 </fonttable><page
  id="7642"
  BoundingBox="0 0 1133.86 3968.50"
@@ -2951,13 +2950,6 @@
  E="7583"
  BS="N"
 /></fragment><t
- id="7594"
- p="15.25 117.17"
- BoundingBox="15.75 103.86 348.22 120.03"
- Z="4362"
- Warning="Chemical Interpretation is not possible for this label"
- LineHeight="auto"
-><s font="212" size="18" face="1">Benzene, Halobenzene, Toluene, Anisole:</s></t><t
  id="7595"
  p="169.04 165.52"
  BoundingBox="169.77 155.74 251.34 169.43"
@@ -3241,7 +3233,7 @@ However, tricks like sulphonation-desulphonation can be used to get the o-produc
  ReactionStepReactants="7164"
  ReactionStepProducts="7179 7196"
  ReactionStepArrows="7632"
- ReactionStepObjectsAboveArrow="7596 7595 7594"
+ ReactionStepObjectsAboveArrow="7596 7595"
  ReactionStepObjectsBelowArrow="7598 7599"
 /></scheme><scheme
  id="7666"
