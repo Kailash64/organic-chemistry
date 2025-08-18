@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="EAS_Activated Rings_Acylation_Alkylation.cdxml"
- BoundingBox="53.47 219.31 1063.57 353.73"
+ BoundingBox="53.47 219.31 336.20 353.73"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -479,19 +479,7 @@
  Z="2637"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="211" size="14">Deactivated ring</s></t><t
- id="6822"
- p="411.12 237.68"
- BoundingBox="411.12 227.37 1063.57 295.12"
- Z="2638"
- Warning="Chemical Interpretation is not possible for this label"
- LineHeight="auto"
- WordWrapWidth="660"
- LineStarts="106 151 253 290"
-><s font="211" size="14">•  FC reactions are not successful with phenol and aniline, as the LA used attacks the l.p. of the -OH 
-   and -NH2 groups and deactivates the ring.
-•  Though there are many other ways to generate </s><s font="211" size="14" face="96">R+</s><s font="211" size="14"> and R-C</s><s font="211" size="14" face="64">+</s><s font="211" size="14">=O, and alkylation as well as acylation 
-   of phenol and aniline is possible.</s></t><graphic
+><s font="211" size="14">Deactivated ring</s></t><graphic
  id="6830"
  SupersededBy="7213"
  BoundingBox="223.56 289.38 142.05 289.38"
