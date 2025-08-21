@@ -79,7 +79,7 @@
 <font id="211" charset="x-mac-roman" name="Chalkboard"/>
 <font id="212" charset="x-mac-roman" name="Chalkboard Bold"/>
 </fonttable><page
- id="6896"
+ id="6952"
  BoundingBox="0 0 1133.86 3968.50"
  Width="1133.86"
  Height="3968.50"
@@ -425,7 +425,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6897"
+ id="6953"
 ><n
  id="5714"
  p="187.27 460.87"
@@ -1260,7 +1260,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6898"
+ id="6954"
 ><n
  id="5719"
  p="129.73 1002.30"
@@ -2065,7 +2065,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6899"
+ id="6955"
 ><n
  id="5767"
  p="349.98 1226.38"
@@ -2253,7 +2253,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6900"
+ id="6956"
 ><n
  id="5778"
  p="456.99 1315.39"
@@ -2536,7 +2536,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6901"
+ id="6957"
 ><n
  id="4784"
  p="456.99 1463.42"
@@ -2681,7 +2681,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6902"
+ id="6958"
 ><n
  id="5790"
  p="142.10 1384.23"
@@ -2939,7 +2939,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6903"
+ id="6959"
 ><n
  id="5801"
  p="596.53 1463.42"
@@ -3229,7 +3229,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6904"
+ id="6960"
 ><n
  id="5812"
  p="381.77 1607.33"
@@ -3302,7 +3302,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6905"
+ id="6961"
 ><n
  id="5821"
  p="277.85 1607.33"
@@ -3377,7 +3377,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6906"
+ id="6962"
 ><n
  id="5830"
  p="329.81 1697.33"
@@ -3956,7 +3956,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6907"
+ id="6963"
 ><n
  id="5839"
  p="972.05 1649.78"
@@ -4383,7 +4383,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6908"
+ id="6964"
 ><n
  id="5165"
  p="625.92 1862.55"
@@ -4456,7 +4456,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6909"
+ id="6965"
 ><n
  id="5174"
  p="522 1862.55"
@@ -4531,7 +4531,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6910"
+ id="6966"
 ><n
  id="5183"
  p="573.96 1952.55"
@@ -4717,7 +4717,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6911"
+ id="6967"
 ><n
  id="5849"
  p="268.82 1952.55"
@@ -4804,7 +4804,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6912"
+ id="6968"
 ><n
  id="6527"
  p="320.78 1862.55"
@@ -5093,7 +5093,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6913"
+ id="6969"
 ><n
  id="5860"
  p="323.25 2060.47"
@@ -5267,7 +5267,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6914"
+ id="6970"
 ><n
  id="5869"
  p="430.26 2149.48"
@@ -5536,7 +5536,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6915"
+ id="6971"
 ><n
  id="5327"
  p="344.02 2280.93"
@@ -5710,7 +5710,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6916"
+ id="6972"
 ><n
  id="5352"
  p="441.09 2369.94"
@@ -5884,7 +5884,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6917"
+ id="6973"
 ><n
  id="5880"
  p="619.23 2338.94"
@@ -6247,7 +6247,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6918"
+ id="6974"
 ><n
  id="5446"
  p="113.88 2520.03"
@@ -6399,7 +6399,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6919"
+ id="6975"
 ><n
  id="5890"
  p="453.90 2583.11"
@@ -6615,7 +6615,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6920"
+ id="6976"
 ><n
  id="5899"
  p="613.97 2494.51"
@@ -6828,7 +6828,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6921"
+ id="6977"
 ><n
  id="5908"
  p="755.06 2576.25"
@@ -7003,7 +7003,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="6922"
+ id="6978"
 ><n
  id="5917"
  p="915.13 2486.66"
@@ -7613,48 +7613,48 @@ e.g. CS2, CCl4</s></t><t
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
 ><s font="211" size="14">2,4,6-trinitrophenol</s></t><graphic
- id="6867"
- SupersededBy="6923"
+ id="6923"
+ SupersededBy="6979"
  BoundingBox="289.83 475.99 154.27 475.99"
  Z="1287"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6868"
- SupersededBy="6924"
+ id="6924"
+ SupersededBy="6980"
  BoundingBox="265.81 627 173.14 627"
  Z="1343"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6869"
- SupersededBy="6925"
+ id="6925"
+ SupersededBy="6981"
  BoundingBox="285.54 778.01 146.54 778.01"
  Z="1384"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6870"
- SupersededBy="6926"
+ id="6926"
+ SupersededBy="6982"
  BoundingBox="222.77 994.71 141.26 994.71"
  Z="1428"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6871"
- SupersededBy="6927"
+ id="6927"
+ SupersededBy="6983"
  BoundingBox="425.93 994.27 335.93 994.27"
  Z="1454"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6872"
- SupersededBy="6928"
+ id="6928"
+ SupersededBy="6984"
  BoundingBox="729.85 992.10 656.06 992.10"
  Z="1504"
  GraphicType="Line"
@@ -7672,64 +7672,64 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="951.21 974.46 0"
  MinorAxisEnd3D="505.05 1077.45 0"
 /><graphic
- id="6873"
- SupersededBy="6929"
+ id="6929"
+ SupersededBy="6985"
  BoundingBox="242.06 1249.96 134.76 1249.96"
  Z="1564"
  GraphicType="Line"
  ArrowType="Equilibrium"
  HeadSize="1000"
 /><graphic
- id="6874"
- SupersededBy="6930"
+ id="6930"
+ SupersededBy="6986"
  BoundingBox="200.34 1398.99 127.81 1398.99"
  Z="1644"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6875"
- SupersededBy="6931"
+ id="6931"
+ SupersededBy="6987"
  BoundingBox="406.99 1397.99 306.65 1397.99"
  Z="1662"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6876"
- SupersededBy="6932"
+ id="6932"
+ SupersededBy="6988"
  BoundingBox="553.04 1400.49 504.53 1400.49"
  Z="1665"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6877"
- SupersededBy="6933"
+ id="6933"
+ SupersededBy="6989"
  BoundingBox="245.05 1633.89 136.75 1633.89"
  Z="1737"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6878"
- SupersededBy="6934"
+ id="6934"
+ SupersededBy="6990"
  BoundingBox="851.11 1641.84 754.96 1641.84"
  Z="1760"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6879"
- SupersededBy="6935"
+ id="6935"
+ SupersededBy="6991"
  BoundingBox="794.47 1613.60 794.47 1602.44"
  Z="1769"
  GraphicType="Line"
  ArrowType="RetroSynthetic"
  HeadSize="600"
 /><graphic
- id="6880"
- SupersededBy="6936"
+ id="6936"
+ SupersededBy="6992"
  BoundingBox="696.34 1607.06 690.38 1596.13"
  Z="1772"
  GraphicType="Arc"
@@ -7737,8 +7737,8 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="180"
 /><graphic
- id="6881"
- SupersededBy="6937"
+ id="6937"
+ SupersededBy="6993"
  BoundingBox="722.17 1646.80 714.22 1638.36"
  Z="1773"
  GraphicType="Arc"
@@ -7746,8 +7746,8 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="180"
 /><graphic
- id="6882"
- SupersededBy="6938"
+ id="6938"
+ SupersededBy="6994"
  BoundingBox="820.53 1631.90 749 1593.15"
  Z="1774"
  GraphicType="Arc"
@@ -7755,16 +7755,16 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="90"
 /><graphic
- id="6883"
- SupersededBy="6939"
+ id="6939"
+ SupersededBy="6995"
  BoundingBox="1009.31 1636.87 953.67 1636.87"
  Z="1796"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6884"
- SupersededBy="6940"
+ id="6940"
+ SupersededBy="6996"
  BoundingBox="1053.02 1667.67 1056.04 1657.98"
  Z="1825"
  GraphicType="Arc"
@@ -7772,8 +7772,8 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="-120"
 /><graphic
- id="6885"
- SupersededBy="6941"
+ id="6941"
+ SupersededBy="6997"
  BoundingBox="1084.82 1658.72 1088.29 1675.12"
  Z="1830"
  GraphicType="Arc"
@@ -7781,8 +7781,8 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="90"
 /><graphic
- id="6886"
- SupersededBy="6942"
+ id="6942"
+ SupersededBy="6998"
  BoundingBox="1070.90 1696.48 1061.96 1700.46"
  Z="1831"
  GraphicType="Arc"
@@ -7801,8 +7801,8 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1125.55 1632.37 0"
  MinorAxisEnd3D="892.95 1740.20 0"
 /><graphic
- id="6887"
- SupersededBy="6943"
+ id="6943"
+ SupersededBy="6999"
  BoundingBox="964.60 1651.77 962.11 1692.01"
  Z="1834"
  GraphicType="Arc"
@@ -7810,40 +7810,40 @@ e.g. CS2, CCl4</s></t><t
  HeadSize="1000"
  AngularSize="-90"
 /><graphic
- id="6888"
- SupersededBy="6944"
+ id="6944"
+ SupersededBy="7000"
  BoundingBox="481.02 1882.15 372.73 1882.15"
  Z="1891"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6889"
- SupersededBy="6945"
+ id="6945"
+ SupersededBy="7001"
  BoundingBox="221.12 1883.57 131.12 1883.57"
  Z="1897"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6890"
- SupersededBy="6946"
+ id="6946"
+ SupersededBy="7002"
  BoundingBox="243.06 2307.49 134.76 2307.49"
  Z="2036"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6891"
- SupersededBy="6947"
+ id="6947"
+ SupersededBy="7003"
  BoundingBox="206.92 2512.45 125.41 2512.45"
  Z="2081"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6892"
- SupersededBy="6948"
+ id="6948"
+ SupersededBy="7004"
  BoundingBox="714 2509.83 640.21 2509.83"
  Z="2154"
  GraphicType="Line"
@@ -7861,186 +7861,186 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="935.36 2492.20 0"
  MinorAxisEnd3D="489.20 2595.18 0"
 /><graphic
- id="6893"
- SupersededBy="6949"
+ id="6949"
+ SupersededBy="7005"
  BoundingBox="410.97 2519.11 307.64 2519.11"
  Z="2196"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><graphic
- id="6894"
- SupersededBy="6950"
+ id="6950"
+ SupersededBy="7006"
  BoundingBox="221.40 2083.92 131.08 2083.92"
  Z="2207"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="6951"
+ id="7007"
 ><step
- id="6952"
+ id="7008"
  ReactionStepReactants="4199"
  ReactionStepProducts="4214 4231"
- ReactionStepArrows="6867"
+ ReactionStepArrows="6923"
  ReactionStepObjectsAboveArrow="4261"
  ReactionStepObjectsBelowArrow="4262"
 /></scheme><scheme
- id="6953"
+ id="7009"
 ><step
- id="6954"
+ id="7010"
  ReactionStepReactants="4263"
  ReactionStepProducts="4278"
- ReactionStepArrows="6868"
+ ReactionStepArrows="6924"
  ReactionStepObjectsAboveArrow="4312"
 /></scheme><scheme
- id="6955"
+ id="7011"
 ><step
- id="6956"
+ id="7012"
  ReactionStepReactants="4335"
  ReactionStepProducts="4350"
- ReactionStepArrows="6869"
+ ReactionStepArrows="6925"
  ReactionStepObjectsAboveArrow="4377"
  ReactionStepObjectsBelowArrow="4371"
 /></scheme><scheme
- id="6957"
+ id="7013"
 ><step
- id="6958"
+ id="7014"
  ReactionStepReactants="4386"
  ReactionStepProducts="4402"
- ReactionStepArrows="6870"
+ ReactionStepArrows="6926"
  ReactionStepObjectsAboveArrow="4427"
  ReactionStepObjectsBelowArrow="4428"
 /><step
- id="6959"
+ id="7015"
  ReactionStepReactants="4402"
  ReactionStepProducts="4439 4464"
- ReactionStepArrows="6871"
+ ReactionStepArrows="6927"
  ReactionStepObjectsAboveArrow="4460"
 /><step
- id="6960"
+ id="7016"
  ReactionStepReactants="4439 4464"
  ReactionStepProducts="4492 4510"
- ReactionStepArrows="6872"
+ ReactionStepArrows="6928"
  ReactionStepObjectsAboveArrow="4488"
 /></scheme><scheme
- id="6961"
+ id="7017"
 ><step
- id="6962"
- ReactionStepReactants="4677 4732"
+ id="7018"
+ ReactionStepReactants="4732 4677"
  ReactionStepProducts="4695 4713 4774"
- ReactionStepArrows="6873"
+ ReactionStepArrows="6929"
  ReactionStepObjectsAboveArrow="4693"
 /><step
- id="6963"
- ReactionStepReactants="4677 4732"
+ id="7019"
+ ReactionStepReactants="4732 4677"
  ReactionStepProducts="4817"
- ReactionStepArrows="6874"
+ ReactionStepArrows="6930"
  ReactionStepObjectsAboveArrow="4809"
 /><step
- id="6964"
+ id="7020"
  ReactionStepReactants="4695 4713 4774"
  ReactionStepProducts="4847"
- ReactionStepArrows="6876"
+ ReactionStepArrows="6932"
 /><step
- id="6965"
+ id="7021"
  ReactionStepReactants="4817"
  ReactionStepProducts="4713 4774"
- ReactionStepArrows="6875"
+ ReactionStepArrows="6931"
  ReactionStepObjectsAboveArrow="4832"
 /></scheme><scheme
- id="6966"
+ id="7022"
 ><step
- id="6967"
+ id="7023"
  ReactionStepReactants="4876"
  ReactionStepProducts="4891 4918 4962"
- ReactionStepArrows="6877"
+ ReactionStepArrows="6933"
  ReactionStepObjectsAboveArrow="4945"
  ReactionStepObjectsBelowArrow="4954"
 /><step
- id="6968"
+ id="7024"
  ReactionStepReactants="4962"
  ReactionStepProducts="4990"
- ReactionStepArrows="6882"
+ ReactionStepArrows="6938"
 /><step
- id="6969"
+ id="7025"
  ReactionStepReactants="4891 4918 4962"
  ReactionStepProducts="5007"
- ReactionStepArrows="6878"
+ ReactionStepArrows="6934"
  ReactionStepObjectsAboveArrow="5001"
 /><step
- id="6970"
+ id="7026"
  ReactionStepReactants="4990"
  ReactionStepProducts="4962"
- ReactionStepArrows="6879"
+ ReactionStepArrows="6935"
 /><step
- id="6971"
+ id="7027"
  ReactionStepReactants="4990"
  ReactionStepProducts="5035"
- ReactionStepArrows="6887"
+ ReactionStepArrows="6943"
 /><step
- id="6972"
+ id="7028"
  ReactionStepReactants="5007"
  ReactionStepProducts="5041"
- ReactionStepArrows="6883"
+ ReactionStepArrows="6939"
 /></scheme><scheme
- id="6973"
+ id="7029"
 ><step
- id="6974"
+ id="7030"
  ReactionStepReactants="5140"
  ReactionStepProducts="5206"
- ReactionStepArrows="6889"
+ ReactionStepArrows="6945"
  ReactionStepObjectsAboveArrow="5221"
  ReactionStepObjectsBelowArrow="6495"
 /><step
- id="6975"
+ id="7031"
  ReactionStepReactants="5206"
  ReactionStepProducts="5155"
- ReactionStepArrows="6888"
+ ReactionStepArrows="6944"
  ReactionStepObjectsAboveArrow="5200"
  ReactionStepObjectsBelowArrow="6500"
 /></scheme><scheme
- id="6976"
+ id="7032"
 ><step
- id="6977"
+ id="7033"
  ReactionStepReactants="5225"
  ReactionStepProducts="5240 5267"
- ReactionStepArrows="6894"
+ ReactionStepArrows="6950"
  ReactionStepObjectsAboveArrow="6496"
  ReactionStepObjectsBelowArrow="5294"
 /></scheme><scheme
- id="6978"
+ id="7034"
 ><step
- id="6979"
+ id="7035"
  ReactionStepReactants="5302"
  ReactionStepProducts="5317 5342 5376"
- ReactionStepArrows="6890"
+ ReactionStepArrows="6946"
  ReactionStepObjectsAboveArrow="5372"
  ReactionStepObjectsBelowArrow="5373"
 /></scheme><scheme
- id="6980"
+ id="7036"
 ><step
- id="6981"
+ id="7037"
  ReactionStepReactants="5407"
  ReactionStepProducts="5422"
- ReactionStepArrows="6891"
+ ReactionStepArrows="6947"
  ReactionStepObjectsAboveArrow="5443"
  ReactionStepObjectsBelowArrow="5453"
 /><step
- id="6982"
+ id="7038"
  ReactionStepReactants="5422"
  ReactionStepProducts="5455 5480"
- ReactionStepArrows="6893"
+ ReactionStepArrows="6949"
  ReactionStepObjectsAboveArrow="5551"
  ReactionStepObjectsBelowArrow="5552"
 /><step
- id="6983"
+ id="7039"
  ReactionStepReactants="5455 5480"
  ReactionStepProducts="5505 5522"
- ReactionStepArrows="6892"
+ ReactionStepArrows="6948"
  ReactionStepObjectsAboveArrow="5503"
 /></scheme><arrow
- id="6923"
+ id="6979"
  BoundingBox="154.27 470.63 289.83 479.99"
  Z="1287"
  FillType="None"
@@ -8055,7 +8055,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="500.90 851.79 0"
  MinorAxisEnd3D="365.33 987.36 0"
 /><arrow
- id="6924"
+ id="6980"
  BoundingBox="173.14 621.64 265.81 631"
  Z="1343"
  FillType="None"
@@ -8070,7 +8070,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="443.41 1065.44 0"
  MinorAxisEnd3D="350.75 1158.10 0"
 /><arrow
- id="6925"
+ id="6981"
  BoundingBox="146.54 772.65 285.54 782.01"
  Z="1384"
  FillType="None"
@@ -8085,7 +8085,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="496.18 1291.95 0"
  MinorAxisEnd3D="357.18 1430.94 0"
 /><arrow
- id="6926"
+ id="6982"
  BoundingBox="141.26 989.35 222.77 998.71"
  Z="1428"
  FillType="None"
@@ -8100,7 +8100,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="376.35 1617.01 0"
  MinorAxisEnd3D="294.84 1698.52 0"
 /><arrow
- id="6927"
+ id="6983"
  BoundingBox="335.93 988.91 425.93 998.27"
  Z="1454"
  FillType="None"
@@ -8115,7 +8115,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="688.34 1602.18 0"
  MinorAxisEnd3D="598.34 1692.18 0"
 /><arrow
- id="6928"
+ id="6984"
  BoundingBox="656.06 986.74 729.85 996.10"
  Z="1504"
  FillType="None"
@@ -8130,7 +8130,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1139.97 1611.60 0"
  MinorAxisEnd3D="1066.19 1685.38 0"
 /><arrow
- id="6929"
+ id="6985"
  BoundingBox="132.36 1242.20 244.46 1257.72"
  Z="1564"
  FillType="None"
@@ -8147,7 +8147,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="416.74 1874.94 0"
  MinorAxisEnd3D="309.43 1982.24 0"
 /><arrow
- id="6930"
+ id="6986"
  BoundingBox="127.81 1393.63 200.34 1402.99"
  Z="1644"
  FillType="None"
@@ -8162,7 +8162,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="336.77 2098.48 0"
  MinorAxisEnd3D="264.24 2171.01 0"
 /><arrow
- id="6931"
+ id="6987"
  BoundingBox="306.65 1392.63 406.99 1401.99"
  Z="1662"
  FillType="None"
@@ -8177,7 +8177,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="660.66 2096.98 0"
  MinorAxisEnd3D="560.31 2197.33 0"
 /><arrow
- id="6932"
+ id="6988"
  BoundingBox="504.53 1395.13 553.04 1404.49"
  Z="1665"
  FillType="None"
@@ -8192,7 +8192,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="853.81 2100.73 0"
  MinorAxisEnd3D="805.30 2149.24 0"
 /><arrow
- id="6933"
+ id="6989"
  BoundingBox="136.75 1628.53 245.05 1637.89"
  Z="1737"
  FillType="None"
@@ -8207,7 +8207,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="421.90 2746.16 0"
  MinorAxisEnd3D="313.60 2854.46 0"
 /><arrow
- id="6934"
+ id="6990"
  BoundingBox="754.96 1636.48 851.11 1645.84"
  Z="1760"
  FillType="None"
@@ -8222,7 +8222,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1324.91 2744.67 0"
  MinorAxisEnd3D="1228.77 2840.82 0"
 /><arrow
- id="6935"
+ id="6991"
  BoundingBox="790.15 1601.64 798.64 1615.20"
  Z="1769"
  FillType="None"
@@ -8238,7 +8238,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="890.13 1804.93 0"
  MinorAxisEnd3D="878.98 1816.09 0"
 /><arrow
- id="6936"
+ id="6992"
  BoundingBox="676.28 1583.04 696.34 1610.68"
  Z="1772"
  FillType="None"
@@ -8254,7 +8254,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="702.83 1596.13 0"
  MinorAxisEnd3D="690.38 1608.58 0"
 /><arrow
- id="6937"
+ id="6993"
  BoundingBox="701.19 1627.76 722.17 1653.09"
  Z="1773"
  FillType="None"
@@ -8270,7 +8270,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="725.82 1638.36 0"
  MinorAxisEnd3D="714.22 1649.96 0"
 /><arrow
- id="6938"
+ id="6994"
  BoundingBox="708.09 1631.90 820.53 1675.97"
  Z="1774"
  FillType="None"
@@ -8286,7 +8286,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="830.35 1593.15 0"
  MinorAxisEnd3D="749 1674.51 0"
 /><arrow
- id="6939"
+ id="6995"
  BoundingBox="953.67 1631.51 1009.31 1640.87"
  Z="1796"
  FillType="None"
@@ -8301,7 +8301,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1541.85 2761.56 0"
  MinorAxisEnd3D="1486.21 2817.20 0"
 /><arrow
- id="6940"
+ id="6996"
  BoundingBox="1053.02 1653.59 1068.10 1669.50"
  Z="1825"
  FillType="None"
@@ -8317,7 +8317,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1066.19 1657.98 0"
  MinorAxisEnd3D="1056.04 1668.13 0"
 /><arrow
- id="6941"
+ id="6997"
  BoundingBox="1084.82 1656.77 1106.85 1673.81"
  Z="1830"
  FillType="None"
@@ -8333,7 +8333,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1105.05 1675.12 0"
  MinorAxisEnd3D="1088.29 1691.88 0"
 /><arrow
- id="6942"
+ id="6998"
  BoundingBox="1050.66 1689.37 1071.63 1712.40"
  Z="1831"
  FillType="None"
@@ -8349,7 +8349,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1071.75 1700.46 0"
  MinorAxisEnd3D="1061.96 1710.24 0"
 /><arrow
- id="6943"
+ id="6999"
  BoundingBox="919.71 1649.57 964.60 1691.68"
  Z="1834"
  FillType="None"
@@ -8365,7 +8365,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1002.43 1692.01 0"
  MinorAxisEnd3D="962.11 1732.33 0"
 /><arrow
- id="6944"
+ id="7000"
  BoundingBox="372.73 1876.79 481.02 1886.15"
  Z="1891"
  FillType="None"
@@ -8380,7 +8380,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="657.87 2994.43 0"
  MinorAxisEnd3D="549.58 3102.72 0"
 /><arrow
- id="6945"
+ id="7001"
  BoundingBox="131.12 1878.21 221.12 1887.57"
  Z="1897"
  FillType="None"
@@ -8395,7 +8395,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="355 3097.40 0"
  MinorAxisEnd3D="265 3187.40 0"
 /><arrow
- id="6946"
+ id="7002"
  BoundingBox="134.76 2302.13 243.06 2311.49"
  Z="2036"
  FillType="None"
@@ -8410,7 +8410,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="419.91 3419.76 0"
  MinorAxisEnd3D="311.61 3528.06 0"
 /><arrow
- id="6947"
+ id="7003"
  BoundingBox="125.41 2507.09 206.92 2516.45"
  Z="2081"
  FillType="None"
@@ -8425,7 +8425,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="360.50 3134.75 0"
  MinorAxisEnd3D="278.99 3216.26 0"
 /><arrow
- id="6948"
+ id="7004"
  BoundingBox="640.21 2504.47 714 2513.83"
  Z="2154"
  FillType="None"
@@ -8440,7 +8440,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="1124.12 3129.33 0"
  MinorAxisEnd3D="1050.33 3203.12 0"
 /><arrow
- id="6949"
+ id="7005"
  BoundingBox="307.64 2513.75 410.97 2523.11"
  Z="2196"
  FillType="None"
@@ -8455,7 +8455,7 @@ e.g. CS2, CCl4</s></t><t
  MajorAxisEnd3D="668.29 4032.78 0"
  MinorAxisEnd3D="564.97 4136.11 0"
 /><arrow
- id="6950"
+ id="7006"
  BoundingBox="131.08 2078.56 221.40 2087.92"
  Z="2207"
  FillType="None"
