@@ -4173,11 +4173,11 @@
  LineStarts="23 52 82 117 142 163 179 203 232 258 271"
 ><s font="21" size="12">In case of a very good leaving group like </s><s font="21" size="12" face="96">-OH2</s><s font="21" size="12" face="64">+</s><s font="21" size="12">, if there is a possibility of the formation of a ‘significantly’ stable carbocation, even primary alcohols can undergo the SN</s><s font="21" size="12" face="96">1 mechanism via concerted 1,2-shift. I am calling this SN1” mechanism. Though, verify again.</s></t></n></fragment><fragment
  id="10857"
- BoundingBox="7.22 179.18 138.94 265.60"
+ BoundingBox="8.79 205.97 140.52 292.39"
  Z="8"
 ><n
  id="10858"
- p="11.75 183.71"
+ p="13.33 210.51"
  Z="7"
  IgnoreWarnings="yes"
  Warning="ChemDraw can&apos;t interpret this label."
@@ -4185,8 +4185,8 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="7.08 188.02"
- BoundingBox="7.22 179.18 138.94 265.60"
+ p="8.66 214.81"
+ BoundingBox="8.79 205.97 140.52 292.39"
  LabelJustification="Left"
  LabelLineHeight="auto"
  LineHeight="auto"
