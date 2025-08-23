@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 22.2.0.3348"
  Name="Carbonyl Derivatives.cdxml"
- BoundingBox="31.26 90.91 1115.50 438.84"
+ BoundingBox="31.26 90.91 1205.57 438.84"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -82,8 +82,8 @@
 <font id="212" charset="x-mac-roman" name="Chalkboard Bold"/>
 </fonttable><page
  id="5216"
- BoundingBox="0 0 1133.86 2551.18"
- Width="1133.86"
+ BoundingBox="0 0 1417.32 2551.18"
+ Width="1417.32"
  Height="2551.18"
  HeaderPosition="36"
  FooterPosition="36"
@@ -428,7 +428,7 @@
  BS="N"
 /></fragment><fragment
  id="4840"
- BoundingBox="535.77 376.63 602.77 431.67"
+ BoundingBox="535.77 376.63 601.32 431.67"
  Z="211"
 ><n
  id="4841"
@@ -495,7 +495,7 @@
  BS="N"
 /><graphic
  id="4848"
- BoundingBox="599.64 421.71 589.14 421.71"
+ BoundingBox="598.19 419.83 587.69 419.83"
  Z="218"
  GraphicType="Symbol"
  SymbolType="Minus"
@@ -1186,13 +1186,13 @@
  LineHeight="auto"
 ><s font="211" size="14.6" color="8" face="96">dil. H</s><s font="211" size="14.55" color="8" face="96">+</s><s font="211" size="14.6" color="8" face="96"> + </s><s font="68" size="14" color="8">Δ</s></t><t
  id="4954"
- p="627.19 104.68"
- BoundingBox="627.19 93.88 1115.50 411.67"
+ p="629.76 127.84"
+ BoundingBox="629.76 117.05 1205.57 396.15"
  Z="275"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
- WordWrapWidth="489.06"
- LineStarts="34 66 131 212 286 367 384 466 545 571 638 659 735 794 871 926 1000 1029"
+ WordWrapWidth="581.72"
+ LineStarts="34 66 131 222 286 384 466 558 571 659 747 794 885 926 1016 1029"
 ><s font="212" size="14" face="1">•</s><s font="211" size="14">  </s><s font="211" size="14" color="8">Pink arrow = acid hydrolysis</s><s font="211" size="14" color="0">
    </s><s font="211" size="14" color="7">cyan arrow = base hydrolysis</s><s font="211" size="14" color="0">
 </s><s font="212" size="14" face="1">•</s><s font="211" size="14">  Trans-esterification and trans-anhydride are also possible.
