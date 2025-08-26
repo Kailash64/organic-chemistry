@@ -7252,9 +7252,9 @@ e.g. CS2, CCl4</s></t><t
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  WordWrapWidth="1063.93"
- LineStarts="169 231 398 496"
+ LineStarts="169 231 398 502"
 ><s font="211" size="14">•  Being basic, aniline first undergoes an acid-base reaction to form a salt, which needs to be heated strongly to convert into amino sulphonic acid. Hence, we always get p-amino sulphonic acid, commonly called Sulphanilic acid.
-</s><s font="211" size="14">•  The protonation issue is not with phenol because phenols have a pKa around 10, and hence they are acidic relative to water and in aqueous medium, they won’t be protonated significantly due to the labelling effect of water. unless the pH is lowered very much.</s></t><t
+•  The protonation issue is not with phenol because phenols have a pKa around 10, and hence they are acidic relative to water and in aqueous medium, they won’t be protonated significantly due to the labelling effect of water. The pKa of protonated phenol is about -6.</s></t><t
  id="4693"
  p="151.43 1143.19"
  BoundingBox="152.23 1133.58 225.89 1147.48"

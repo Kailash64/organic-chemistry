@@ -752,20 +752,22 @@ effect </text>
 of </text>
 <text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 348.084 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 water. </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 391.213 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-unless </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 434.497 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-the </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 461.228 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-pH </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 482.685 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 390.037 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+The </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 418.347 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+pKa </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 446.78 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+of </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 465.003 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+protonated </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 537.246 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+phenol </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 583.469 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 is </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 497.567 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-lowered </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 552.546 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-very </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 586.115 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-much.</text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 598.351 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+about </text>
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 639.253 1031.27)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+-6.</text>
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -22 -274)" d="M 1087.85,22921.3 L 1119.89,22939.8 L 1119.89,23521.8 L 1087.85,23540.3 L 1087.85,22921.3 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -22 -274)" d="M 1178.36,22982.8 L 1210.36,22982.8 L 1210.36,23478.8 L 1178.36,23478.8 L 1178.36,22982.8 Z " />
 <path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -22 -274)" d="M 1087.85,23540.3 L 1119.89,23521.8 L 1623.96,23812.9 L 1623.96,23849.9 L 1087.85,23540.3 Z " />
