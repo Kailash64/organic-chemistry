@@ -1,452 +1,449 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="1072px" height="384px" viewBox="0 0 1072 384" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.2519 12.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.2528 12.5965)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 CH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 58.1757 16.5591)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 58.1766 16.5567)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 64.1508 12.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 64.1517 12.5965)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.18,1318.38 L 1063.18,1318.38 L 1063.18,1775.45 L 1031.18,1775.45 L 1031.18,1318.38 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2773 42.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.2,1317.33 L 1063.2,1317.33 L 1063.2,1775.4 L 1031.2,1775.4 L 1031.2,1317.33 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2782 42.5965)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1047.18,1746.45 L 1047.18,1714.45 L 1518.47,1714.45 L 1518.47,1746.45 L 1047.18,1746.45 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1047.18,1836.45 L 1047.18,1804.45 L 1518.47,1804.45 L 1518.47,1836.45 L 1047.18,1836.45 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.18,1775.45 L 1063.18,1775.45 L 1062.38,2360.45 L 1047.18,2375.45 L 1031.98,2360.48 L 1031.18,1775.45 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 71.0044 72.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1047.2,1746.4 L 1047.2,1714.4 L 1518.49,1714.4 L 1518.49,1746.4 L 1047.2,1746.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1047.2,1836.4 L 1047.2,1804.4 L 1518.49,1804.4 L 1518.49,1836.4 L 1047.2,1836.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.2,1775.4 L 1063.2,1775.4 L 1062.4,2360.4 L 1047.2,2375.4 L 1032,2360.43 L 1031.2,1775.4 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 71.0053 72.5965)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.38,2390.45 L 1047.18,2375.45 L 1062.38,2360.45 L 1533.63,2359.45 L 1533.63,2391.45 L 1062.38,2390.45 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1.56792 72.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.4,2390.4 L 1047.2,2375.4 L 1062.4,2360.4 L 1534.65,2359.4 L 1534.65,2391.4 L 1062.4,2390.4 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1.56883 72.5965)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.98,2360.48 L 1047.18,2375.45 L 1031.98,2390.42 L 572.9,2391.45 L 572.9,2359.45 L 1031.98,2360.48 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.98,2390.42 L 1047.18,2375.45 L 1062.38,2390.45 L 1062.38,2960.48 L 1047.18,2975.45 L 1031.98,2960.46 L 1031.98,2390.42 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2773 102.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032,2360.43 L 1047.2,2375.4 L 1032,2390.37 L 572.918,2391.4 L 572.918,2359.4 L 1032,2360.43 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032,2390.37 L 1047.2,2375.4 L 1062.4,2390.4 L 1062.4,2960.43 L 1047.2,2975.4 L 1032,2960.41 L 1032,2390.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2782 102.597)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.38,2990.42 L 1047.18,2975.45 L 1062.38,2960.48 L 1518.47,2959.45 L 1518.47,2991.45 L 1062.38,2990.42 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 11.0044 102.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.4,2990.37 L 1047.2,2975.4 L 1062.4,2960.43 L 1518.49,2959.4 L 1518.49,2991.4 L 1062.4,2990.37 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 11.0053 102.597)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.98,2960.46 L 1047.18,2975.45 L 1031.98,2990.44 L 566.629,2991.45 L 566.629,2959.45 L 1031.98,2960.46 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.98,2990.44 L 1047.18,2975.45 L 1062.38,2990.42 L 1062.38,3560.48 L 1047.18,3575.45 L 1031.98,3560.46 L 1031.98,2990.44 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2773 132.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032,2960.41 L 1047.2,2975.4 L 1032,2990.39 L 567.647,2991.4 L 567.647,2959.4 L 1032,2960.41 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032,2990.39 L 1047.2,2975.4 L 1062.4,2990.37 L 1062.4,3560.43 L 1047.2,3575.4 L 1032,3560.41 L 1032,2990.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.2782 132.597)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.15,3590.43 L 1047.18,3575.45 L 1062.38,3560.48 L 1518.47,3559.45 L 1518.47,3591.45 L 1062.15,3590.43 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 11.0044 132.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1062.17,3590.38 L 1047.2,3575.4 L 1062.4,3560.43 L 1518.49,3559.4 L 1518.49,3591.4 L 1062.17,3590.38 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 11.0053 132.597)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1031.98,3560.46 L 1047.18,3575.45 L 1032.22,3590.45 L 566.629,3591.45 L 566.629,3559.45 L 1031.98,3560.46 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 40.7105 162.599)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032,3560.41 L 1047.2,3575.4 L 1032.23,3590.4 L 567.647,3591.4 L 567.647,3559.4 L 1032,3560.41 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 40.7114 162.597)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032.22,3590.45 L 1047.18,3575.45 L 1062.15,3590.43 L 1063.18,4039.47 L 1031.18,4039.47 L 1032.22,3590.45 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3215.6,2593.48 L 2348.36,2593.48 L 2348.36,2561.48 L 3215.6,2561.48 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2579.36,2657.48 L 3446.6,2657.48 L 3446.6,2689.48 L 2579.36,2689.48 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3494.6,2593.48 C 3494.6,2593.48 3214.6,2593.48 3214.6,2593.48 C 3214.6,2541.61 3174.6,2495.48 3174.6,2495.48 C 3174.6,2495.48 3494.6,2593.48 3494.6,2593.48 C 3494.6,2593.48 3494.6,2593.48 3494.6,2593.48 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3494.6,2593.48 C 3494.6,2593.48 3214.6,2593.48 3214.6,2593.48 C 3214.6,2541.61 3174.6,2495.48 3174.6,2495.48 C 3174.6,2495.48 3494.6,2593.48 3494.6,2593.48 C 3494.6,2593.48 3494.6,2593.48 3494.6,2593.48 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2300.36,2657.48 C 2300.36,2657.48 2620.36,2755.48 2620.36,2755.48 C 2620.36,2755.48 2580.36,2677.35 2580.36,2657.48 C 2580.36,2657.48 2300.36,2657.48 2300.36,2657.48 C 2300.36,2657.48 2300.36,2657.48 2300.36,2657.48 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2300.36,2657.48 C 2300.36,2657.48 2620.36,2755.48 2620.36,2755.48 C 2620.36,2755.48 2580.36,2677.35 2580.36,2657.48 C 2580.36,2657.48 2300.36,2657.48 2300.36,2657.48 C 2300.36,2657.48 2300.36,2657.48 2300.36,2657.48 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5430.7,3044.17 L 5435.36,3083.73 L 5430.37,3123.26 L 4588.83,3123.23 L 4583.51,3083.73 L 4586.7,3044.03 L 5430.7,3044.17 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4574.16,2999.99 L 4583.51,3083.73 L 4572.34,3164.01 L 4075.75,2602.82 L 4066.04,2574.74 L 4091.91,2581.1 L 4574.16,2999.99 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5441.16,3170.18 L 5435.36,3083.73 L 5441.3,3002.88 L 5930.18,2580.92 L 5955.99,2574.74 L 5945,2603.75 L 5441.16,3170.18 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 289.951 117.167)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1032.23,3590.4 L 1047.2,3575.4 L 1062.17,3590.38 L 1063.2,4039.42 L 1031.2,4039.42 L 1032.23,3590.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3215.6,2593.4 L 2348.4,2593.4 L 2348.4,2561.4 L 3215.6,2561.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2579.4,2657.4 L 3446.6,2657.4 L 3446.6,2689.4 L 2579.4,2689.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3494.6,2593.4 C 3494.6,2593.4 3214.6,2593.4 3214.6,2593.4 C 3214.6,2541.53 3174.6,2495.4 3174.6,2495.4 C 3174.6,2495.4 3494.6,2593.4 3494.6,2593.4 C 3494.6,2593.4 3494.6,2593.4 3494.6,2593.4 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 3494.6,2593.4 C 3494.6,2593.4 3214.6,2593.4 3214.6,2593.4 C 3214.6,2541.53 3174.6,2495.4 3174.6,2495.4 C 3174.6,2495.4 3494.6,2593.4 3494.6,2593.4 C 3494.6,2593.4 3494.6,2593.4 3494.6,2593.4 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2300.4,2657.4 C 2300.4,2657.4 2620.4,2755.4 2620.4,2755.4 C 2620.4,2755.4 2580.4,2677.27 2580.4,2657.4 C 2580.4,2657.4 2300.4,2657.4 2300.4,2657.4 C 2300.4,2657.4 2300.4,2657.4 2300.4,2657.4 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 2300.4,2657.4 C 2300.4,2657.4 2620.4,2755.4 2620.4,2755.4 C 2620.4,2755.4 2580.4,2677.27 2580.4,2657.4 C 2580.4,2657.4 2300.4,2657.4 2300.4,2657.4 C 2300.4,2657.4 2300.4,2657.4 2300.4,2657.4 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5430.73,3044.24 L 5435.4,3083.8 L 5430.41,3123.33 L 4588.92,3123.3 L 4583.6,3083.8 L 4586.79,3044.1 L 5430.73,3044.24 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4574.24,3000.05 L 4583.6,3083.8 L 4572.42,3164.04 L 4075.71,2602.88 L 4066,2574.8 L 4091.87,2581.16 L 4574.24,3000.05 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5441.18,3170.29 L 5435.4,3083.8 L 5441.32,3002.96 L 5930.19,2580.99 L 5956,2574.8 L 5945,2603.82 L 5441.18,3170.29 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 289.948 117.167)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5945,2603.75 L 5955.99,2574.74 L 5972,2574.7 L 6040.1,3130.5 L 6008.33,3134.39 L 5945,2603.75 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 290.925 52.5633)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5945,2603.82 L 5956,2574.8 L 5972,2574.76 L 6040.06,3130.5 L 6008.29,3134.39 L 5945,2603.82 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 290.923 52.5665)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 CH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 307.849 56.5235)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 307.847 56.5267)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 313.824 52.5633)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 313.822 52.5665)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5971.84,2576.97 L 5955.99,2574.74 L 5944.15,2553.62 L 6004.98,2113.03 L 6036.66,2117.5 L 5971.84,2576.97 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 186.657 113.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5971.84,2577.03 L 5956,2574.8 L 5944.16,2553.68 L 6004.94,2113.1 L 6036.63,2117.57 L 5971.84,2577.03 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 186.655 113.467)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4049.99,2574.74 L 4066.04,2574.74 L 4075.75,2602.82 L 3998.69,3062.9 L 3967.15,3057.5 L 4049.99,2574.74 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 186.363 54.5739)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4049.94,2574.81 L 4066,2574.8 L 4075.71,2602.88 L 3998.66,3062.97 L 3967.12,3057.57 L 4049.94,2574.81 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 186.361 54.5765)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4077.03,2554.06 L 4066.04,2574.74 L 4049.99,2574.74 L 3970.99,2158.02 L 4002.43,2152.07 L 4077.03,2554.06 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 205.209 137.378)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4076.98,2554.13 L 4066,2574.8 L 4049.94,2574.81 L 3970.96,2158.07 L 4002.4,2152.13 L 4076.98,2554.13 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 205.209 137.377)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4572.34,3164.01 L 4583.51,3083.73 L 4588.83,3123.23 L 4594.23,3542.76 L 4474.93,3529.86 L 4572.34,3164.01 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 262.53 133.727)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4572.42,3164.04 L 4583.6,3083.8 L 4588.92,3123.3 L 4594.24,3542.74 L 4474.94,3529.82 L 4572.42,3164.04 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 262.525 133.727)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5430.37,3123.26 L 5435.36,3083.73 L 5441.16,3170.18 L 5526.37,3458.05 L 5406.77,3467.89 L 5430.37,3123.26 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 214.646 82.5634)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5430.41,3123.33 L 5435.4,3083.8 L 5441.18,3170.29 L 5526.32,3458.04 L 5406.72,3467.85 L 5430.41,3123.33 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 214.645 82.5665)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4586.7,3044.03 L 4583.51,3083.73 L 4574.16,2999.99 L 4477.61,2719.51 L 4596.68,2704.65 L 4586.7,3044.03 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5132.14,2267.81 L 5143.86,2238.03 L 5944.15,2553.62 L 5955.99,2574.74 L 5930.18,2580.92 L 5132.14,2267.81 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4091.91,2581.1 L 4066.04,2574.74 L 4077.03,2554.06 L 4889.58,2241.49 L 4901.05,2271.36 L 4091.91,2581.1 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5441.3,3002.88 L 5435.36,3083.73 L 5430.7,3044.17 L 5405.99,2712.85 L 5525.58,2722.79 L 5441.3,3002.88 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 261.802 82.5634)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4586.79,3044.1 L 4583.6,3083.8 L 4574.24,3000.05 L 4477.62,2719.58 L 4596.7,2704.7 L 4586.79,3044.1 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5132.43,2268 L 5144.14,2238.22 L 5944.16,2553.68 L 5956,2574.8 L 5930.19,2580.99 L 5132.43,2268 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 4091.87,2581.16 L 4066,2574.8 L 4076.98,2554.13 L 4889.19,2241.67 L 4900.65,2271.55 L 4091.87,2581.16 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 5441.32,3002.96 L 5435.4,3083.8 L 5430.73,3044.24 L 5405.94,2712.93 L 5525.53,2722.84 L 5441.32,3002.96 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 261.798 82.5665)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 239.051 64.2036)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 239.048 64.2065)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="#00ffff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" stroke-dasharray="54" d="M 1761.68,3436.87 C 1967.15,2948.71 1845.06,2323.7 1489.19,2041.86 C 1440.77,2003.51 1389.2,1972.69 1335.77,1950.15 " />
-<path stroke="none" fill="#00ffff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1116.95,1905.04 C 1116.95,1905.04 1380.91,1893.07 1380.91,1893.07 C 1380.91,1893.07 1341.83,1922.43 1335.77,1950.15 C 1329.71,1977.86 1353.14,2020.11 1353.14,2020.11 C 1353.14,2020.11 1116.95,1905.04 1116.95,1905.04 C 1116.95,1905.04 1116.95,1905.04 1116.95,1905.04 " />
-<path stroke="#00ffff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1116.95,1905.04 C 1116.95,1905.04 1380.91,1893.07 1380.91,1893.07 C 1380.91,1893.07 1341.83,1922.43 1335.77,1950.15 C 1329.71,1977.86 1353.14,2020.11 1353.14,2020.11 C 1353.14,2020.11 1116.95,1905.04 1116.95,1905.04 C 1116.95,1905.04 1116.95,1905.04 1116.95,1905.04 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 7873.99,2524.84 L 7006.75,2524.84 L 7006.75,2492.84 L 7873.99,2492.84 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 7237.75,2588.84 L 8104.99,2588.84 L 8104.99,2620.84 L 7237.75,2620.84 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8152.99,2524.84 C 8152.99,2524.84 7872.99,2524.84 7872.99,2524.84 C 7872.99,2472.97 7832.99,2426.84 7832.99,2426.84 C 7832.99,2426.84 8152.99,2524.84 8152.99,2524.84 C 8152.99,2524.84 8152.99,2524.84 8152.99,2524.84 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8152.99,2524.84 C 8152.99,2524.84 7872.99,2524.84 7872.99,2524.84 C 7872.99,2472.97 7832.99,2426.84 7832.99,2426.84 C 7832.99,2426.84 8152.99,2524.84 8152.99,2524.84 C 8152.99,2524.84 8152.99,2524.84 8152.99,2524.84 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 6958.75,2588.84 C 6958.75,2588.84 7278.75,2686.84 7278.75,2686.84 C 7278.75,2686.84 7238.75,2608.71 7238.75,2588.84 C 7238.75,2588.84 6958.75,2588.84 6958.75,2588.84 C 6958.75,2588.84 6958.75,2588.84 6958.75,2588.84 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 6958.75,2588.84 C 6958.75,2588.84 7278.75,2686.84 7278.75,2686.84 C 7278.75,2686.84 7238.75,2608.71 7238.75,2588.84 C 7238.75,2588.84 6958.75,2588.84 6958.75,2588.84 C 6958.75,2588.84 6958.75,2588.84 6958.75,2588.84 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10128.7,2975.53 L 10133.3,3015.09 L 10128.4,3054.62 L 9286.8,3054.59 L 9281.49,3015.09 L 9284.68,2975.39 L 10128.7,2975.53 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9272.15,2931.35 L 9281.49,3015.09 L 9270.35,3095.4 L 8773.73,2534.18 L 8764.03,2506.1 L 8789.89,2512.46 L 9272.15,2931.35 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10139.1,3101.54 L 10133.3,3015.09 L 10139.3,2934.21 L 10628.2,2512.28 L 10654,2506.1 L 10650.3,2529.29 L 10139.1,3101.54 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 535.617 105.112)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="#00ffff" stroke-width="32" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" stroke-dasharray="54" d="M 1761.67,3436.8 C 1967.11,2948.65 1845.04,2323.65 1489.2,2041.81 C 1440.79,2003.47 1389.23,1972.65 1335.8,1950.11 " />
+<path stroke="none" fill="#00ffff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1117,1905 C 1117,1905 1380.94,1893.04 1380.94,1893.04 C 1380.94,1893.04 1341.86,1922.4 1335.8,1950.11 C 1329.74,1977.82 1353.17,2020.07 1353.17,2020.07 C 1353.17,2020.07 1117,1905 1117,1905 C 1117,1905 1117,1905 1117,1905 " />
+<path stroke="#00ffff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 1117,1905 C 1117,1905 1380.94,1893.04 1380.94,1893.04 C 1380.94,1893.04 1341.86,1922.4 1335.8,1950.11 C 1329.74,1977.82 1353.17,2020.07 1353.17,2020.07 C 1353.17,2020.07 1117,1905 1117,1905 C 1117,1905 1117,1905 1117,1905 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 7874,2524.8 L 7006.8,2524.8 L 7006.8,2492.8 L 7874,2492.8 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 7237.8,2588.8 L 8105,2588.8 L 8105,2620.8 L 7237.8,2620.8 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8153,2524.8 C 8153,2524.8 7873,2524.8 7873,2524.8 C 7873,2472.93 7833,2426.8 7833,2426.8 C 7833,2426.8 8153,2524.8 8153,2524.8 C 8153,2524.8 8153,2524.8 8153,2524.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8153,2524.8 C 8153,2524.8 7873,2524.8 7873,2524.8 C 7873,2472.93 7833,2426.8 7833,2426.8 C 7833,2426.8 8153,2524.8 8153,2524.8 C 8153,2524.8 8153,2524.8 8153,2524.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 6958.8,2588.8 C 6958.8,2588.8 7278.8,2686.8 7278.8,2686.8 C 7278.8,2686.8 7238.8,2608.67 7238.8,2588.8 C 7238.8,2588.8 6958.8,2588.8 6958.8,2588.8 C 6958.8,2588.8 6958.8,2588.8 6958.8,2588.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 6958.8,2588.8 C 6958.8,2588.8 7278.8,2686.8 7278.8,2686.8 C 7278.8,2686.8 7238.8,2608.67 7238.8,2588.8 C 7238.8,2588.8 6958.8,2588.8 6958.8,2588.8 C 6958.8,2588.8 6958.8,2588.8 6958.8,2588.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10128.7,2975.44 L 10133.4,3015 L 10128.4,3054.53 L 9286.72,3054.5 L 9281.4,3015 L 9284.6,2975.3 L 10128.7,2975.44 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9272.07,2931.26 L 9281.4,3015 L 9270.28,3095.33 L 8773.71,2534.08 L 8764,2506 L 8789.87,2512.37 L 9272.07,2931.26 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10139.2,3101.48 L 10133.4,3015 L 10139.3,2934.16 L 10628.2,2512.19 L 10654,2506 L 10650.4,2529.19 L 10139.2,3101.48 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 535.618 105.117)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 554.49 109.072)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 554.491 109.077)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10650.3,2529.29 L 10654,2506.1 L 10670.3,2503.09 L 10901.3,2902.51 L 10873.6,2918.51 L 10650.3,2529.29 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10670.3,2503.09 L 10654,2506.1 L 10641.8,2484.87 L 10722.1,1911.42 L 10738.6,1906.1 L 10752,1921.19 L 10670.3,2503.09 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 421.556 110.031)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10650.4,2529.19 L 10654,2506 L 10670.3,2503 L 10901.4,2902.59 L 10873.6,2918.58 L 10650.4,2529.19 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10670.3,2503 L 10654,2506 L 10641.9,2484.78 L 10722.1,1911.32 L 10738.6,1906 L 10751.9,1921.09 L 10670.3,2503 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 421.555 110.027)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8747.97,2506.1 L 8764.03,2506.1 L 8773.73,2534.18 L 8696.67,2994.26 L 8665.13,2988.86 L 8747.97,2506.1 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 421.262 51.1419)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8747.94,2506.01 L 8764,2506 L 8773.71,2534.08 L 8696.66,2994.17 L 8665.12,2988.77 L 8747.94,2506.01 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 421.261 51.1465)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8775.01,2485.42 L 8764.03,2506.1 L 8747.97,2506.1 L 8668.97,2089.38 L 8700.41,2083.43 L 8775.01,2485.42 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 440.109 133.946)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8774.98,2485.33 L 8764,2506 L 8747.94,2506.01 L 8668.97,2089.47 L 8700.41,2083.52 L 8774.98,2485.33 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 440.109 133.947)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9270.35,3095.4 L 9281.49,3015.09 L 9286.8,3054.59 L 9292.32,3473.13 L 9173.01,3460.23 L 9270.35,3095.4 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 497.429 130.295)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9270.28,3095.33 L 9281.4,3015 L 9286.72,3054.5 L 9292.3,3473.12 L 9172.99,3460.24 L 9270.28,3095.33 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 497.425 130.297)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10128.4,3054.62 L 10133.3,3015.09 L 10139.1,3101.54 L 10224.3,3389.41 L 10104.8,3399.25 L 10128.4,3054.62 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 449.545 79.1314)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10128.4,3054.53 L 10133.4,3015 L 10139.2,3101.48 L 10224.3,3389.44 L 10104.7,3399.25 L 10128.4,3054.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 449.545 79.1265)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9284.68,2975.39 L 9281.49,3015.09 L 9272.15,2931.35 L 9175.59,2650.87 L 9294.66,2636.01 L 9284.68,2975.39 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9830.12,2199.17 L 9841.84,2169.39 L 10641.8,2484.87 L 10654,2506.1 L 10628.2,2512.28 L 9830.12,2199.17 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8789.89,2512.46 L 8764.03,2506.1 L 8775.01,2485.42 L 9587.56,2172.85 L 9599.03,2202.72 L 8789.89,2512.46 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10139.3,2934.21 L 10133.3,3015.09 L 10128.7,2975.53 L 10104.1,2643.21 L 10223.6,2653.16 L 10139.3,2934.21 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 496.702 79.1314)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9284.6,2975.3 L 9281.4,3015 L 9272.07,2931.26 L 9175.57,2650.77 L 9294.65,2635.93 L 9284.6,2975.3 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9830.44,2199.38 L 9842.15,2169.6 L 10641.9,2484.78 L 10654,2506 L 10628.2,2512.19 L 9830.44,2199.38 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 8789.87,2512.37 L 8764,2506 L 8774.98,2485.33 L 9587.18,2173.05 L 9598.65,2202.92 L 8789.87,2512.37 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10139.3,2934.16 L 10133.4,3015 L 10128.7,2975.44 L 10103.9,2644.13 L 10223.5,2654.04 L 10139.3,2934.16 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 496.698 79.1265)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 473.95 60.7715)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 473.948 60.7765)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10891.1,3250.8 A 105.8,105.8 0 1 0 11102.7,3250.8A 105.8,105.8 0 1 0 10891.1,3250.8Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10934.5,3238.13 L 11059.9,3238.13 L 11059.9,3264.13 L 10934.5,3264.13 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11010.2,3188.46 L 11010.2,3313.8 L 10984.2,3313.8 L 10984.2,3188.46 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 504.364 27.9181)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="#0000ff" stroke-width="26" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10891.1,3250.87 A 105.8,105.8 0 1 0 11102.7,3250.87A 105.8,105.8 0 1 0 10891.1,3250.87Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10934.5,3238.2 L 11059.9,3238.2 L 11059.9,3264.2 L 10934.5,3264.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11010.2,3188.53 L 11010.2,3313.87 L 10984.2,3313.87 L 10984.2,3188.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 504.365 27.9165)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10745,1890.53 L 10738.6,1906.1 L 10722.1,1911.42 L 10409.6,1599.74 L 10432.3,1577.11 L 10745,1890.53 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12668.3,2439.04 L 11801.1,2439.04 L 11801.1,2407.04 L 12668.3,2407.04 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12032.1,2503.04 L 12899.3,2503.04 L 12899.3,2535.04 L 12032.1,2535.04 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12947.3,2439.04 C 12947.3,2439.04 12667.3,2439.04 12667.3,2439.04 C 12667.3,2387.17 12627.3,2341.04 12627.3,2341.04 C 12627.3,2341.04 12947.3,2439.04 12947.3,2439.04 C 12947.3,2439.04 12947.3,2439.04 12947.3,2439.04 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12947.3,2439.04 C 12947.3,2439.04 12667.3,2439.04 12667.3,2439.04 C 12667.3,2387.17 12627.3,2341.04 12627.3,2341.04 C 12627.3,2341.04 12947.3,2439.04 12947.3,2439.04 C 12947.3,2439.04 12947.3,2439.04 12947.3,2439.04 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11753.1,2503.04 C 11753.1,2503.04 12073.1,2601.04 12073.1,2601.04 C 12073.1,2601.04 12033.1,2522.91 12033.1,2503.04 C 12033.1,2503.04 11753.1,2503.04 11753.1,2503.04 C 11753.1,2503.04 11753.1,2503.04 11753.1,2503.04 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11753.1,2503.04 C 11753.1,2503.04 12073.1,2601.04 12073.1,2601.04 C 12073.1,2601.04 12033.1,2522.91 12033.1,2503.04 C 12033.1,2503.04 11753.1,2503.04 11753.1,2503.04 C 11753.1,2503.04 11753.1,2503.04 11753.1,2503.04 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15219.9,2889.73 L 15224.6,2929.29 L 15219.6,2968.82 L 14378.1,2968.79 L 14372.8,2929.29 L 14376,2889.59 L 15219.9,2889.73 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14363.4,2845.55 L 14372.8,2929.29 L 14361.6,3009.57 L 13865,2448.38 L 13855.3,2420.3 L 13881.2,2426.66 L 14363.4,2845.55 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15230.4,3015.74 L 15224.6,2929.29 L 15230.6,2848.41 L 15719.4,2426.48 L 15745.3,2420.3 L 15760.7,2428.38 L 15230.4,3015.74 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 771.679 44.8413)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10745,1890.44 L 10738.6,1906 L 10722.1,1911.32 L 10410.2,1600.21 L 10432.8,1577.58 L 10745,1890.44 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12668.4,2439 L 11801,2439 L 11801,2407 L 12668.4,2407 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12032,2503 L 12899.4,2503 L 12899.4,2535 L 12032,2535 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12947.4,2439 C 12947.4,2439 12667.4,2439 12667.4,2439 C 12667.4,2387.13 12627.4,2341 12627.4,2341 C 12627.4,2341 12947.4,2439 12947.4,2439 C 12947.4,2439 12947.4,2439 12947.4,2439 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12947.4,2439 C 12947.4,2439 12667.4,2439 12667.4,2439 C 12667.4,2387.13 12627.4,2341 12627.4,2341 C 12627.4,2341 12947.4,2439 12947.4,2439 C 12947.4,2439 12947.4,2439 12947.4,2439 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11753,2503 C 11753,2503 12073,2601 12073,2601 C 12073,2601 12033,2522.87 12033,2503 C 12033,2503 11753,2503 11753,2503 C 11753,2503 11753,2503 11753,2503 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11753,2503 C 11753,2503 12073,2601 12073,2601 C 12073,2601 12033,2522.87 12033,2503 C 12033,2503 11753,2503 11753,2503 C 11753,2503 11753,2503 11753,2503 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15219.9,2889.64 L 15224.6,2929.2 L 15219.6,2968.73 L 14378.1,2968.7 L 14372.8,2929.2 L 14376,2889.5 L 15219.9,2889.64 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14363.4,2845.44 L 14372.8,2929.2 L 14361.6,3009.46 L 13865.1,2448.28 L 13855.4,2420.2 L 13881.3,2426.57 L 14363.4,2845.44 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15230.4,3015.63 L 15224.6,2929.2 L 15230.6,2848.31 L 15719.4,2426.39 L 15745.2,2420.2 L 15760.6,2428.28 L 15230.4,3015.63 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 771.683 44.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HC</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15760.7,2428.38 L 15745.3,2420.3 L 15733.4,2399.18 L 15794.5,1956.87 L 15826.2,1961.34 L 15760.7,2428.38 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15687.2,2295.78 L 15655.5,2291.31 L 15704.5,1944.17 L 15736.2,1948.64 L 15687.2,2295.78 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 676.12 105.741)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15760.6,2428.28 L 15745.2,2420.2 L 15733.4,2399.08 L 15794.5,1956.76 L 15826.2,1961.24 L 15760.6,2428.28 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15687.2,2295.71 L 15655.5,2291.23 L 15704.5,1944.04 L 15736.2,1948.52 L 15687.2,2295.71 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 676.115 105.737)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13839.3,2420.3 L 13855.3,2420.3 L 13865,2448.38 L 13788,2908.46 L 13756.4,2903.06 L 13839.3,2420.3 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 675.826 46.8519)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13839.3,2420.21 L 13855.4,2420.2 L 13865.1,2448.28 L 13787.9,2908.39 L 13756.4,2902.98 L 13839.3,2420.21 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 675.821 46.8565)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13866.3,2399.62 L 13855.3,2420.3 L 13839.3,2420.3 L 13760.3,2003.58 L 13791.7,1997.63 L 13866.3,2399.62 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 694.673 129.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13866.4,2399.53 L 13855.4,2420.2 L 13839.3,2420.21 L 13760.2,2003.67 L 13791.7,1997.71 L 13866.4,2399.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 694.669 129.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14361.6,3009.57 L 14372.8,2929.29 L 14378.1,2968.79 L 14383.5,3388.32 L 14264.2,3375.42 L 14361.6,3009.57 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 751.993 126.005)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14361.6,3009.46 L 14372.8,2929.2 L 14378.1,2968.7 L 14383.4,3388.34 L 14264.1,3375.42 L 14361.6,3009.46 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 751.995 126.007)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15219.6,2968.82 L 15224.6,2929.29 L 15230.4,3015.74 L 15315.6,3303.61 L 15196,3313.45 L 15219.6,2968.82 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 704.109 74.8414)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15219.6,2968.73 L 15224.6,2929.2 L 15230.4,3015.63 L 15315.7,3303.62 L 15196.1,3313.48 L 15219.6,2968.73 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 704.105 74.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14376,2889.59 L 14372.8,2929.29 L 14363.4,2845.55 L 14266.9,2565.07 L 14385.9,2550.21 L 14376,2889.59 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14921.4,2113.37 L 14933.1,2083.59 L 15733.4,2399.18 L 15745.3,2420.3 L 15719.4,2426.48 L 14921.4,2113.37 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13881.2,2426.66 L 13855.3,2420.3 L 13866.3,2399.62 L 14678.8,2087.05 L 14690.3,2116.92 L 13881.2,2426.66 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15230.6,2848.41 L 15224.6,2929.29 L 15219.9,2889.73 L 15195.3,2557.41 L 15314.9,2567.36 L 15230.6,2848.41 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 751.266 74.8414)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14376,2889.5 L 14372.8,2929.2 L 14363.4,2845.44 L 14266.8,2564.98 L 14385.9,2550.1 L 14376,2889.5 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 14921.8,2113.59 L 14933.5,2083.81 L 15733.4,2399.08 L 15745.2,2420.2 L 15719.4,2426.39 L 14921.8,2113.59 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13881.3,2426.57 L 13855.4,2420.2 L 13866.4,2399.53 L 14678.6,2087.25 L 14690,2117.12 L 13881.3,2426.57 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15230.6,2848.31 L 15224.6,2929.2 L 15219.9,2889.64 L 15195.4,2557.31 L 15315,2567.27 L 15230.6,2848.31 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 751.268 74.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 728.514 56.4815)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 728.518 56.4865)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 597.64 94.86)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 597.636 94.8565)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -H</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 613.017 98.8201)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 613.013 98.8167)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 618.992 94.86)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 618.988 94.8565)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 554.85 49.1313)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 554.848 49.1265)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10752,1921.19 L 10738.6,1906.1 L 10745,1890.53 L 11209.9,1890.1 L 11209.9,1922.1 L 10752,1921.19 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 809.414 44.8413)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10751.9,1921.09 L 10738.6,1906 L 10745,1890.44 L 11209.9,1890 L 11209.9,1922 L 10751.9,1921.09 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 809.418 44.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15942.1,1836.3 L 15942.1,1804.3 L 16301.2,1804.3 L 16301.2,1836.3 L 15942.1,1836.3 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17469.6,2458.84 L 16602.4,2458.84 L 16602.4,2426.84 L 17469.6,2426.84 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16833.4,2522.84 L 17700.6,2522.84 L 17700.6,2554.84 L 16833.4,2554.84 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17748.6,2458.84 C 17748.6,2458.84 17468.6,2458.84 17468.6,2458.84 C 17468.6,2406.96 17428.6,2360.84 17428.6,2360.84 C 17428.6,2360.84 17748.6,2458.84 17748.6,2458.84 C 17748.6,2458.84 17748.6,2458.84 17748.6,2458.84 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17748.6,2458.84 C 17748.6,2458.84 17468.6,2458.84 17468.6,2458.84 C 17468.6,2406.96 17428.6,2360.84 17428.6,2360.84 C 17428.6,2360.84 17748.6,2458.84 17748.6,2458.84 C 17748.6,2458.84 17748.6,2458.84 17748.6,2458.84 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16554.4,2522.84 C 16554.4,2522.84 16874.4,2620.84 16874.4,2620.84 C 16874.4,2620.84 16834.4,2542.71 16834.4,2522.84 C 16834.4,2522.84 16554.4,2522.84 16554.4,2522.84 C 16554.4,2522.84 16554.4,2522.84 16554.4,2522.84 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16554.4,2522.84 C 16554.4,2522.84 16874.4,2620.84 16874.4,2620.84 C 16874.4,2620.84 16834.4,2542.71 16834.4,2522.84 C 16834.4,2522.84 16554.4,2522.84 16554.4,2522.84 C 16554.4,2522.84 16554.4,2522.84 16554.4,2522.84 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19922.3,2889.73 L 19927,2929.29 L 19922,2968.82 L 19080.4,2968.79 L 19075.1,2929.29 L 19078.3,2889.59 L 19922.3,2889.73 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19065.8,2845.55 L 19075.1,2929.29 L 19063.9,3009.57 L 18567.4,2448.38 L 18557.7,2420.3 L 18583.5,2426.66 L 19065.8,2845.55 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19932.8,3015.74 L 19927,2929.29 L 19932.9,2848.41 L 20421.8,2426.48 L 20447.6,2420.3 L 20463,2428.38 L 19932.8,3015.74 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1006.8 44.8413)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15942.2,1836.2 L 15942.2,1804.2 L 16301.3,1804.2 L 16301.3,1836.2 L 15942.2,1836.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17469.6,2458.8 L 16602.4,2458.8 L 16602.4,2426.8 L 17469.6,2426.8 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16833.4,2522.8 L 17700.6,2522.8 L 17700.6,2554.8 L 16833.4,2554.8 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17748.6,2458.8 C 17748.6,2458.8 17468.6,2458.8 17468.6,2458.8 C 17468.6,2406.93 17428.6,2360.8 17428.6,2360.8 C 17428.6,2360.8 17748.6,2458.8 17748.6,2458.8 C 17748.6,2458.8 17748.6,2458.8 17748.6,2458.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17748.6,2458.8 C 17748.6,2458.8 17468.6,2458.8 17468.6,2458.8 C 17468.6,2406.93 17428.6,2360.8 17428.6,2360.8 C 17428.6,2360.8 17748.6,2458.8 17748.6,2458.8 C 17748.6,2458.8 17748.6,2458.8 17748.6,2458.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16554.4,2522.8 C 16554.4,2522.8 16874.4,2620.8 16874.4,2620.8 C 16874.4,2620.8 16834.4,2542.67 16834.4,2522.8 C 16834.4,2522.8 16554.4,2522.8 16554.4,2522.8 C 16554.4,2522.8 16554.4,2522.8 16554.4,2522.8 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16554.4,2522.8 C 16554.4,2522.8 16874.4,2620.8 16874.4,2620.8 C 16874.4,2620.8 16834.4,2542.67 16834.4,2522.8 C 16834.4,2522.8 16554.4,2522.8 16554.4,2522.8 C 16554.4,2522.8 16554.4,2522.8 16554.4,2522.8 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19922.3,2889.64 L 19927,2929.2 L 19922,2968.73 L 19080.5,2968.7 L 19075.2,2929.2 L 19078.4,2889.5 L 19922.3,2889.64 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19065.8,2845.45 L 19075.2,2929.2 L 19064,3009.44 L 18567.3,2448.28 L 18557.6,2420.2 L 18583.5,2426.57 L 19065.8,2845.45 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19932.8,3015.68 L 19927,2929.2 L 19933,2848.33 L 20421.8,2426.39 L 20447.6,2420.2 L 20463,2428.28 L 19932.8,3015.68 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1006.79 44.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HC</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20463,2428.38 L 20447.6,2420.3 L 20435.8,2399.18 L 20496.8,1956.87 L 20528.5,1961.34 L 20463,2428.38 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 911.237 105.741)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20463,2428.28 L 20447.6,2420.2 L 20435.8,2399.08 L 20496.8,1956.77 L 20528.5,1961.24 L 20463,2428.28 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 911.235 105.737)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18541.6,2420.3 L 18557.7,2420.3 L 18567.4,2448.38 L 18490.3,2908.46 L 18458.8,2903.06 L 18541.6,2420.3 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.943 46.8519)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18541.5,2420.21 L 18557.6,2420.2 L 18567.3,2448.28 L 18490.3,2908.37 L 18458.7,2902.97 L 18541.5,2420.21 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.941 46.8565)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18568.6,2399.62 L 18557.7,2420.3 L 18541.6,2420.3 L 18462.6,2003.58 L 18494,1997.63 L 18568.6,2399.62 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 929.79 129.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18568.6,2399.53 L 18557.6,2420.2 L 18541.5,2420.21 L 18462.6,2003.67 L 18494,1997.72 L 18568.6,2399.53 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 929.789 129.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19063.9,3009.57 L 19075.1,2929.29 L 19080.4,2968.79 L 19085.8,3388.32 L 18966.5,3375.42 L 19063.9,3009.57 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 987.11 126.005)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19064,3009.44 L 19075.2,2929.2 L 19080.5,2968.7 L 19085.8,3388.34 L 18966.5,3375.42 L 19064,3009.44 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 987.105 126.007)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19922,2968.82 L 19927,2929.29 L 19932.8,3015.74 L 20018,3303.61 L 19898.4,3313.45 L 19922,2968.82 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 939.226 74.8414)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19922,2968.73 L 19927,2929.2 L 19932.8,3015.68 L 20017.9,3303.64 L 19898.3,3313.45 L 19922,2968.73 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 939.225 74.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19078.3,2889.59 L 19075.1,2929.29 L 19065.8,2845.55 L 18969.2,2565.07 L 19088.3,2550.21 L 19078.3,2889.59 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19623.8,2113.37 L 19635.5,2083.59 L 20435.8,2399.18 L 20447.6,2420.3 L 20421.8,2426.48 L 19623.8,2113.37 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18583.5,2426.66 L 18557.7,2420.3 L 18568.6,2399.62 L 19381.2,2087.05 L 19392.7,2116.92 L 18583.5,2426.66 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19932.9,2848.41 L 19927,2929.29 L 19922.3,2889.73 L 19897.7,2557.41 L 20017.3,2567.36 L 19932.9,2848.41 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 986.383 74.8414)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19078.4,2889.5 L 19075.2,2929.2 L 19065.8,2845.45 L 18969.2,2564.98 L 19088.3,2550.1 L 19078.4,2889.5 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19624,2113.58 L 19635.7,2083.8 L 20435.8,2399.08 L 20447.6,2420.2 L 20421.8,2426.39 L 19624,2113.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18583.5,2426.57 L 18557.6,2420.2 L 18568.6,2399.53 L 19380.8,2087.25 L 19392.2,2117.12 L 18583.5,2426.57 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19933,2848.33 L 19927,2929.2 L 19922.3,2889.64 L 19897.6,2557.34 L 20017.2,2567.25 L 19933,2848.33 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 986.378 74.8365)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 963.632 56.4815)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 963.628 56.4865)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1043.51 37.0768)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1043.51 37.0765)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20648.2,1759.22 L 20639.9,1728.31 L 20966.5,1640.78 L 20974.8,1671.69 L 20648.2,1759.22 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20671.4,1846.15 L 20663.2,1815.24 L 20989.8,1727.71 L 20998.1,1758.62 L 20671.4,1846.15 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.5,4507.16 L 19513.5,5068.04 L 19481.5,5068.04 L 19481.5,4507.16 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.5,4837.04 L 19577.5,4276.16 L 19609.5,4276.16 L 19609.5,4837.04 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.5,4228.16 C 19513.5,4228.16 19513.5,4508.16 19513.5,4508.16 C 19461.7,4508.16 19415.5,4548.16 19415.5,4548.16 C 19415.5,4548.16 19513.5,4228.16 19513.5,4228.16 C 19513.5,4228.16 19513.5,4228.16 19513.5,4228.16 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.5,4228.16 C 19513.5,4228.16 19513.5,4508.16 19513.5,4508.16 C 19461.7,4508.16 19415.5,4548.16 19415.5,4548.16 C 19415.5,4548.16 19513.5,4228.16 19513.5,4228.16 C 19513.5,4228.16 19513.5,4228.16 19513.5,4228.16 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.5,5116.04 C 19577.5,5116.04 19675.5,4796.04 19675.5,4796.04 C 19675.5,4796.04 19597.4,4836.04 19577.5,4836.04 C 19577.5,4836.04 19577.5,5116.04 19577.5,5116.04 C 19577.5,5116.04 19577.5,5116.04 19577.5,5116.04 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.5,5116.04 C 19577.5,5116.04 19675.5,4796.04 19675.5,4796.04 C 19675.5,4796.04 19597.4,4836.04 19577.5,4836.04 C 19577.5,4836.04 19577.5,5116.04 19577.5,5116.04 C 19577.5,5116.04 19577.5,5116.04 19577.5,5116.04 " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 984.672 186.916)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20648.1,1759.14 L 20639.8,1728.23 L 20966.3,1640.81 L 20974.6,1671.72 L 20648.1,1759.14 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20671.4,1846.08 L 20663.1,1815.17 L 20989.6,1727.75 L 20997.9,1758.66 L 20671.4,1846.08 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.6,4507.2 L 19513.6,5068 L 19481.6,5068 L 19481.6,4507.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.6,4837 L 19577.6,4276.2 L 19609.6,4276.2 L 19609.6,4837 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.6,4228.2 C 19513.6,4228.2 19513.6,4508.2 19513.6,4508.2 C 19461.7,4508.2 19415.6,4548.2 19415.6,4548.2 C 19415.6,4548.2 19513.6,4228.2 19513.6,4228.2 C 19513.6,4228.2 19513.6,4228.2 19513.6,4228.2 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19513.6,4228.2 C 19513.6,4228.2 19513.6,4508.2 19513.6,4508.2 C 19461.7,4508.2 19415.6,4548.2 19415.6,4548.2 C 19415.6,4548.2 19513.6,4228.2 19513.6,4228.2 C 19513.6,4228.2 19513.6,4228.2 19513.6,4228.2 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.6,5116 C 19577.6,5116 19675.6,4796 19675.6,4796 C 19675.6,4796 19597.5,4836 19577.6,4836 C 19577.6,4836 19577.6,5116 19577.6,5116 C 19577.6,5116 19577.6,5116 19577.6,5116 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19577.6,5116 C 19577.6,5116 19675.6,4796 19675.6,4796 C 19675.6,4796 19597.5,4836 19577.6,4836 C 19577.6,4836 19577.6,5116 19577.6,5116 C 19577.6,5116 19577.6,5116 19577.6,5116 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 984.676 186.917)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 - </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 996.692 186.916)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 996.696 186.917)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 2 </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1010.01 186.916)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1010.02 186.917)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1018.72 190.876)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1018.72 190.877)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1024.7 186.916)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1024.7 186.917)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19989.7,6608.96 L 19952.2,6689.79 L 19128.9,6689.8 L 19091.8,6608.98 L 19989.7,6608.96 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19091.8,6608.98 L 19128.9,6689.8 L 18606.5,6172 L 18597.2,6142.14 L 18624.5,6147.92 L 19091.8,6608.98 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19170.5,6530.85 L 19148.1,6553.66 L 18783,6194.56 L 18805.4,6171.75 L 19170.5,6530.85 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19952.2,6689.79 L 19989.7,6608.96 L 20460,6147.74 L 20487.2,6142.14 L 20502.7,6149.75 L 19952.2,6689.79 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19933.2,6553.36 L 19910.9,6530.48 L 20279,6170.56 L 20301.4,6193.44 L 19933.2,6553.36 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1008.78 230.933)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19989.7,6609.03 L 19952.3,6689.86 L 19129,6689.87 L 19091.9,6609.05 L 19989.7,6609.03 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19091.9,6609.05 L 19129,6689.87 L 18582,6150.05 L 18597.2,6142.2 L 18624.4,6147.99 L 19091.9,6609.05 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19170.6,6530.9 L 19148.2,6553.72 L 18783,6194.62 L 18805.4,6171.81 L 19170.6,6530.9 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19952.3,6689.86 L 19989.7,6609.03 L 20460,6147.8 L 20487.2,6142.2 L 20502.7,6149.82 L 19952.3,6689.86 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19933.3,6553.43 L 19910.9,6530.55 L 20279,6170.62 L 20301.4,6193.5 L 19933.3,6553.43 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1008.77 230.937)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HC</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20502.7,6149.75 L 20487.2,6142.14 L 20475.4,6121.02 L 20536.4,5678.71 L 20568.1,5683.18 L 20502.7,6149.75 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 913.217 291.833)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
-H</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18581.2,6142.14 L 18597.2,6142.14 L 18606.5,6172 L 18529.9,6630.3 L 18498.3,6624.9 L 18581.2,6142.14 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 912.923 232.944)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20502.7,6149.82 L 20487.2,6142.2 L 20475.4,6121.08 L 20536.4,5678.77 L 20568.1,5683.24 L 20502.7,6149.82 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 912.921 232.947)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18608.2,6121.46 L 18597.2,6142.14 L 18581.2,6142.14 L 18502.2,5725.42 L 18533.6,5719.47 L 18608.2,6121.46 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19663.3,5835.21 L 19675.1,5805.43 L 20475.4,6121.02 L 20487.2,6142.14 L 20460,6147.74 L 19663.3,5835.21 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18624.5,6147.92 L 18597.2,6142.14 L 18608.2,6121.46 L 19420.8,5808.89 L 19432.2,5838.76 L 18624.5,6147.92 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 965.611 242.574)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18608.2,6121.53 L 18597.2,6142.2 L 18582,6150.05 L 18502.2,5725.47 L 18533.6,5719.53 L 18608.2,6121.53 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 19663.6,5835.4 L 19675.3,5805.62 L 20475.4,6121.08 L 20487.2,6142.2 L 20460,6147.8 L 19663.6,5835.4 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 18624.4,6147.99 L 18597.2,6142.2 L 18608.2,6121.53 L 19420.4,5809.07 L 19431.9,5838.95 L 18624.4,6147.99 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 965.608 242.577)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1045.49 223.169)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 1045.49 223.167)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20686.8,5481.31 L 20678.5,5450.4 L 21006.1,5362.62 L 21014.4,5393.53 L 20686.8,5481.31 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20710.1,5568.24 L 20701.8,5537.33 L 21029.4,5449.55 L 21037.7,5480.46 L 20710.1,5568.24 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17198.4,6345.67 L 15124.9,6345.67 L 15124.9,6313.67 L 17198.4,6313.67 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15355.9,6409.66 L 17429.4,6409.66 L 17429.4,6441.66 L 15355.9,6441.66 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17477.4,6345.67 C 17477.4,6345.67 17197.4,6345.67 17197.4,6345.67 C 17197.4,6293.79 17157.4,6247.67 17157.4,6247.67 C 17157.4,6247.67 17477.4,6345.67 17477.4,6345.67 C 17477.4,6345.67 17477.4,6345.67 17477.4,6345.67 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17477.4,6345.67 C 17477.4,6345.67 17197.4,6345.67 17197.4,6345.67 C 17197.4,6293.79 17157.4,6247.67 17157.4,6247.67 C 17157.4,6247.67 17477.4,6345.67 17477.4,6345.67 C 17477.4,6345.67 17477.4,6345.67 17477.4,6345.67 " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15076.9,6409.66 C 15076.9,6409.66 15396.9,6507.66 15396.9,6507.66 C 15396.9,6507.66 15356.9,6429.54 15356.9,6409.66 C 15356.9,6409.66 15076.9,6409.66 15076.9,6409.66 C 15076.9,6409.66 15076.9,6409.66 15076.9,6409.66 " />
-<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15076.9,6409.66 C 15076.9,6409.66 15396.9,6507.66 15396.9,6507.66 C 15396.9,6507.66 15356.9,6429.54 15356.9,6409.66 C 15356.9,6409.66 15076.9,6409.66 15076.9,6409.66 C 15076.9,6409.66 15076.9,6409.66 15076.9,6409.66 " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 742.189 203.9)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20686.8,5481.35 L 20678.5,5450.44 L 21005.9,5362.66 L 21014.2,5393.57 L 20686.8,5481.35 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 20710.1,5568.29 L 20701.8,5537.38 L 21029.2,5449.6 L 21037.5,5480.51 L 20710.1,5568.29 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17198.4,6345.6 L 15125,6345.6 L 15125,6313.6 L 17198.4,6313.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15356,6409.6 L 17429.4,6409.6 L 17429.4,6441.6 L 15356,6441.6 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17477.4,6345.6 C 17477.4,6345.6 17197.4,6345.6 17197.4,6345.6 C 17197.4,6293.73 17157.4,6247.6 17157.4,6247.6 C 17157.4,6247.6 17477.4,6345.6 17477.4,6345.6 C 17477.4,6345.6 17477.4,6345.6 17477.4,6345.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 17477.4,6345.6 C 17477.4,6345.6 17197.4,6345.6 17197.4,6345.6 C 17197.4,6293.73 17157.4,6247.6 17157.4,6247.6 C 17157.4,6247.6 17477.4,6345.6 17477.4,6345.6 C 17477.4,6345.6 17477.4,6345.6 17477.4,6345.6 " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15077,6409.6 C 15077,6409.6 15397,6507.6 15397,6507.6 C 15397,6507.6 15357,6429.47 15357,6409.6 C 15357,6409.6 15077,6409.6 15077,6409.6 C 15077,6409.6 15077,6409.6 15077,6409.6 " />
+<path stroke="#0000ff" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15077,6409.6 C 15077,6409.6 15397,6507.6 15397,6507.6 C 15397,6507.6 15357,6429.47 15357,6409.6 C 15357,6409.6 15077,6409.6 15077,6409.6 C 15077,6409.6 15077,6409.6 15077,6409.6 " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 742.189 203.897)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 854.821 203.9)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 854.818 203.897)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15360.1,5077.96 L 15376.1,5050.25 L 15779.1,5283.61 L 15779.2,5301.47 L 15763.7,5310.27 L 15360.1,5077.96 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15794.7,5310.43 L 15779.2,5301.47 L 15779.1,5283.61 L 16298.8,4982.4 L 16298.8,5019.39 L 15794.7,5310.43 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16298.8,5019.39 L 16298.8,4982.4 L 16818.6,5283.63 L 16818.4,5301.47 L 16802.9,5310.43 L 16298.8,5019.39 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16290.8,5119.25 L 16306.8,5091.53 L 16736.4,5339.57 L 16720.4,5367.28 L 16290.8,5119.25 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16834,5310.25 L 16818.4,5301.47 L 16818.6,5283.63 L 17208.5,5057.81 L 17224.5,5085.52 L 16834,5310.25 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16802.9,5310.43 L 16818.4,5301.47 L 16834,5310.25 L 16835,5911 L 16802.9,5892.5 L 16802.9,5310.43 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16802.9,5892.5 L 16835,5911 L 16298.8,6220.53 L 16298.8,6183.54 L 16802.9,5892.5 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16720.4,5835.65 L 16736.4,5863.36 L 16306.8,6111.4 L 16290.8,6083.69 L 16720.4,5835.65 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16298.8,6183.54 L 16298.8,6220.53 L 15762.7,5911 L 15794.7,5892.5 L 16298.8,6183.54 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15763.7,5310.27 L 15779.2,5301.47 L 15794.7,5310.43 L 15794.7,5892.5 L 15762.7,5911 L 15763.7,5310.27 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15853.2,5353.43 L 15885.2,5353.43 L 15885.2,5849.5 L 15853.2,5849.5 L 15853.2,5353.43 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 130.589 70.7517)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15359.7,5077.65 L 15375.7,5049.94 L 15779.1,5283.55 L 15779.2,5301.4 L 15763.7,5310.2 L 15359.7,5077.65 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15794.7,5310.36 L 15779.2,5301.4 L 15779.1,5283.55 L 16298.8,4982.34 L 16298.8,5019.32 L 15794.7,5310.36 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16298.8,5019.32 L 16298.8,4982.34 L 16818.6,5283.56 L 16818.4,5301.4 L 16802.9,5310.36 L 16298.8,5019.32 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16290.8,5119.18 L 16306.8,5091.47 L 16736.4,5339.5 L 16720.4,5367.22 L 16290.8,5119.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16833.9,5310.18 L 16818.4,5301.4 L 16818.6,5283.56 L 17208.8,5057.5 L 17224.8,5085.21 L 16833.9,5310.18 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16802.9,5310.36 L 16818.4,5301.4 L 16833.9,5310.18 L 16834.9,5910.93 L 16802.9,5892.44 L 16802.9,5310.36 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16802.9,5892.44 L 16834.9,5910.93 L 16298.8,6220.46 L 16298.8,6183.48 L 16802.9,5892.44 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16720.4,5835.58 L 16736.4,5863.3 L 16306.8,6111.33 L 16290.8,6083.62 L 16720.4,5835.58 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 16298.8,6183.48 L 16298.8,6220.46 L 15762.7,5910.93 L 15794.7,5892.44 L 16298.8,6183.48 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15763.7,5310.2 L 15779.2,5301.4 L 15794.7,5310.36 L 15794.7,5892.44 L 15762.7,5910.93 L 15763.7,5310.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 15853.2,5353.36 L 15885.2,5353.36 L 15885.2,5849.44 L 15853.2,5849.44 L 15853.2,5353.36 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 130.585 70.7565)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 139.299 65.9252)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 139.295 65.93)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 +</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 362.214 68.772)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 362.215 68.7765)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 370.924 63.9455)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 370.925 63.95)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 +</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 604.407 64.0104)" font-style="normal" font-weight="normal" font-size="280px" font-family="Arial" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 604.404 64.0142)" font-style="normal" font-weight="normal" font-size="280px" font-family="Arial" >
 Δ</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 784.881 287.529)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 784.885 287.527)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 793.59 282.703)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 793.595 282.7)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 +</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 799.252 287.529)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 799.257 287.527)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 , </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 808.178 287.529)" font-style="normal" font-weight="normal" font-size="280px" font-family="Arial" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 808.183 287.527)" font-style="normal" font-weight="normal" font-size="280px" font-family="Arial" >
 Δ</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 468.99 181.133)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 468.989 181.137)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 HO</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 581.622 181.133)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 581.618 181.137)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9895.68,4622.38 L 9911.68,4594.67 L 10315.1,4828.28 L 10315.2,4846.13 L 10299.7,4854.94 L 9895.68,4622.38 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10330.8,4855.1 L 10315.2,4846.13 L 10315.1,4828.28 L 10834.8,4527.07 L 10834.8,4564.06 L 10330.8,4855.1 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10834.8,4564.06 L 10834.8,4527.07 L 11354.6,4828.29 L 11354.5,4846.13 L 11338.9,4855.1 L 10834.8,4564.06 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10826.8,4663.91 L 10842.8,4636.2 L 11272.5,4884.24 L 11256.5,4911.95 L 10826.8,4663.91 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11370,4854.91 L 11354.5,4846.13 L 11354.6,4828.29 L 11744.9,4602.23 L 11760.9,4629.94 L 11370,4854.91 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11338.9,4855.1 L 11354.5,4846.13 L 11370,4854.91 L 11370,5437.17 L 11354.5,5446.13 L 11338.9,5437.17 L 11338.9,4855.1 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11338.9,5437.17 L 11354.5,5446.13 L 11354.5,5464.06 L 10834.8,5765.2 L 10834.8,5728.21 L 11338.9,5437.17 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11256.5,5380.32 L 11272.5,5408.03 L 10842.8,5656.07 L 10826.8,5628.35 L 11256.5,5380.32 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10834.8,5728.21 L 10834.8,5765.2 L 10298.7,5455.67 L 10330.8,5437.17 L 10834.8,5728.21 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10299.7,4854.94 L 10315.2,4846.13 L 10330.8,4855.1 L 10330.8,5437.17 L 10298.7,5455.67 L 10299.7,4854.94 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10389.2,4898.1 L 10421.2,4898.1 L 10421.2,5394.17 L 10389.2,5394.17 L 10389.2,4898.1 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 686.546 181.133)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 9895.66,4622.45 L 9911.66,4594.74 L 10315.1,4828.35 L 10315.2,4846.2 L 10299.7,4855.01 L 9895.66,4622.45 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10330.7,4855.16 L 10315.2,4846.2 L 10315.1,4828.35 L 10834.8,4527.14 L 10834.8,4564.12 L 10330.7,4855.16 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10834.8,4564.12 L 10834.8,4527.14 L 11354.6,4828.36 L 11354.4,4846.2 L 11338.9,4855.16 L 10834.8,4564.12 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10826.8,4663.98 L 10842.8,4636.27 L 11272.4,4884.3 L 11256.4,4912.02 L 10826.8,4663.98 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11369.9,4854.98 L 11354.4,4846.2 L 11354.6,4828.36 L 11744.4,4602.55 L 11760.4,4630.26 L 11369.9,4854.98 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11338.9,4855.16 L 11354.4,4846.2 L 11369.9,4854.98 L 11369.9,5437.24 L 11354.4,5446.2 L 11338.9,5437.24 L 11338.9,4855.16 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11338.9,5437.24 L 11354.4,5446.2 L 11354.4,5464.12 L 10834.8,5765.26 L 10834.8,5728.28 L 11338.9,5437.24 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11256.4,5380.38 L 11272.4,5408.1 L 10842.8,5656.13 L 10826.8,5628.42 L 11256.4,5380.38 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10834.8,5728.28 L 10834.8,5765.26 L 10298.7,5455.73 L 10330.7,5437.24 L 10834.8,5728.28 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10299.7,4855.01 L 10315.2,4846.2 L 10330.7,4855.16 L 10330.7,5437.24 L 10298.7,5455.73 L 10299.7,4855.01 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 10389.2,4898.16 L 10421.2,4898.16 L 10421.2,5394.24 L 10389.2,5394.24 L 10389.2,4898.16 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 686.548 181.137)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12429.2,4855.1 L 12413.7,4846.13 L 12413.5,4828.34 L 12933.3,4527.07 L 12933.3,4564.06 L 12429.2,4855.1 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12511.7,4911.95 L 12495.7,4884.24 L 12925.3,4636.2 L 12941.3,4663.91 L 12511.7,4911.95 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12933.3,4564.06 L 12933.3,4527.07 L 13469.5,4836.6 L 13437.4,4855.1 L 12933.3,4564.06 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13415.9,4834.01 L 13399.9,4806.3 L 13820.9,4563.26 L 13836.9,4590.97 L 13415.9,4834.01 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13460.9,4911.95 L 13444.9,4884.24 L 13865.9,4641.2 L 13881.9,4668.91 L 13460.9,4911.95 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13437.4,4855.1 L 13469.5,4836.6 L 13469.5,5455.67 L 13437.4,5437.17 L 13437.4,4855.1 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13437.4,5437.17 L 13469.5,5455.67 L 12933.3,5765.2 L 12933.3,5728.21 L 13437.4,5437.17 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13354.9,5380.32 L 13370.9,5408.03 L 12941.3,5656.07 L 12925.3,5628.35 L 13354.9,5380.32 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12933.3,5728.21 L 12933.3,5765.2 L 12413.6,5463.99 L 12413.7,5446.13 L 12429.2,5437.17 L 12933.3,5728.21 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12398.2,4855.13 L 12413.7,4846.13 L 12429.2,4855.1 L 12429.2,5437.17 L 12413.7,5446.13 L 12398.2,5436.99 L 12398.2,4855.13 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12413.5,4828.34 L 12413.7,4846.13 L 12398.2,4855.13 L 11975.6,4620.86 L 11991.1,4592.89 L 12413.5,4828.34 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11354.5,5464.06 L 11354.5,5446.13 L 11370,5437.17 L 11874.2,5728.28 L 11874.1,5746.13 L 11858.5,5755.05 L 11354.5,5464.06 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12398.2,5436.99 L 12413.7,5446.13 L 12413.6,5463.99 L 11889.5,5755.32 L 11874.1,5746.13 L 11874.2,5728.28 L 12398.2,5436.99 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12313.3,5377.67 L 12328.9,5405.64 L 11882.7,5653.68 L 11867.2,5625.71 L 12313.3,5377.67 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11858.5,5755.05 L 11874.1,5746.13 L 11889.5,5755.32 L 11884.9,6338.41 L 11869.2,6346.11 L 11853.7,6338.27 L 11858.5,5755.05 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 605.908 289.123)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12429.3,4855.16 L 12413.8,4846.2 L 12413.5,4828.41 L 12933.4,4527.14 L 12933.4,4564.12 L 12429.3,4855.16 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12511.8,4912.02 L 12495.8,4884.3 L 12925.4,4636.27 L 12941.4,4663.98 L 12511.8,4912.02 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12933.4,4564.12 L 12933.4,4527.14 L 13469.5,4836.67 L 13437.5,4855.16 L 12933.4,4564.12 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13416,4834.08 L 13400,4806.36 L 13820.5,4563.58 L 13836.5,4591.29 L 13416,4834.08 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13461,4912.02 L 13445,4884.3 L 13865.5,4641.52 L 13881.5,4669.23 L 13461,4912.02 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13437.5,4855.16 L 13469.5,4836.67 L 13469.5,5455.73 L 13437.5,5437.24 L 13437.5,4855.16 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13437.5,5437.24 L 13469.5,5455.73 L 12933.4,5765.26 L 12933.4,5728.28 L 13437.5,5437.24 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 13355,5380.38 L 13371,5408.1 L 12941.4,5656.13 L 12925.4,5628.42 L 13355,5380.38 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12933.4,5728.28 L 12933.4,5765.26 L 12413.7,5464.06 L 12413.8,5446.2 L 12429.3,5437.24 L 12933.4,5728.28 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12398.3,4855.2 L 12413.8,4846.2 L 12429.3,4855.16 L 12429.3,5437.24 L 12413.8,5446.2 L 12398.3,5437.06 L 12398.3,4855.2 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12413.5,4828.41 L 12413.8,4846.2 L 12398.3,4855.2 L 11975.9,4621.15 L 11991.5,4593.18 L 12413.5,4828.41 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11354.4,5464.12 L 11354.4,5446.2 L 11369.9,5437.24 L 11874.1,5728.34 L 11874,5746.2 L 11858.4,5755.12 L 11354.4,5464.12 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12398.3,5437.06 L 12413.8,5446.2 L 12413.7,5464.06 L 11889.4,5755.39 L 11874,5746.2 L 11874.1,5728.34 L 12398.3,5437.06 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12313.4,5377.72 L 12328.9,5405.69 L 11882.6,5653.72 L 11867.1,5625.75 L 12313.4,5377.72 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11858.4,5755.12 L 11874,5746.2 L 11889.4,5755.39 L 11884.8,6338.5 L 11869.2,6346.2 L 11853.7,6338.35 L 11858.4,5755.12 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 605.908 289.127)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 O</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11853.7,6338.27 L 11869.2,6346.11 L 11869.5,6365.18 L 11407.3,6711.55 L 11369.4,6699.86 L 11853.7,6338.27 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11860.2,6445.35 L 11879.4,6470.95 L 11505,6751.54 L 11485.8,6725.93 L 11860.2,6445.35 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11369.4,6699.86 L 11407.3,6711.55 L 11593.9,7258.35 L 11571,7290.39 L 11369.4,6699.86 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11571,7290.39 L 11593.9,7258.35 L 12171.7,7258.35 L 12182.8,7273.76 L 12175.1,7289.35 L 11571,7290.39 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11647.3,7199.77 L 11647.3,7167.77 L 12116.6,7167.77 L 12116.6,7199.77 L 11647.3,7199.77 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12199.9,7270.86 L 12182.8,7273.76 L 12171.7,7258.35 L 12301.5,6839.23 L 12332,6848.75 L 12199.9,7270.86 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12265.8,6617.15 L 12246.9,6642.95 L 11869.5,6365.18 L 11869.2,6346.11 L 11884.9,6338.41 L 12265.8,6617.15 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 615.274 341.678)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11853.7,6338.35 L 11869.2,6346.2 L 11869.4,6365.27 L 11407.2,6711.61 L 11369.3,6699.93 L 11853.7,6338.35 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11860.2,6445.43 L 11879.4,6471.04 L 11504.9,6751.61 L 11485.7,6726 L 11860.2,6445.43 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11369.3,6699.93 L 11407.2,6711.61 L 11594,7258.39 L 11571.1,7290.43 L 11369.3,6699.93 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11571.1,7290.43 L 11594,7258.39 L 12171.7,7258.39 L 12182.8,7273.8 L 12175.1,7289.39 L 11571.1,7290.43 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 11647.3,7199.83 L 11647.3,7167.83 L 12116.6,7167.83 L 12116.6,7199.83 L 11647.3,7199.83 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12199.9,7270.9 L 12182.8,7273.8 L 12171.7,7258.39 L 12301.2,6840.21 L 12331.8,6849.73 L 12199.9,7270.9 Z " />
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12266.3,6617.57 L 12247.4,6643.38 L 11869.4,6365.27 L 11869.2,6346.2 L 11884.8,6338.5 L 12266.3,6617.57 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 615.271 341.677)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12175.1,7289.35 L 12182.8,7273.76 L 12199.9,7270.86 L 12477.1,7646.62 L 12451.3,7665.58 L 12175.1,7289.35 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 26.6549 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -7 -51)" d="M 12175.1,7289.39 L 12182.8,7273.8 L 12199.9,7270.9 L 12477,7646.59 L 12451.2,7665.56 L 12175.1,7289.39 Z " />
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 26.65 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.3047 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.2997 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 53.4793 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 53.4743 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 CH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.403 197.453)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 70.3981 197.45)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 76.3781 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 76.3732 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 95.2511 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 95.2461 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 100.604 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 100.599 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 118.811 193.493)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 118.806 193.49)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 ketohexose</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 26.6549 211.361)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 26.65 211.357)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.3047 211.361)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 41.2997 211.357)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 53.4793 211.361)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 53.4743 211.357)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 67.5411 211.361)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 67.5362 211.357)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 85.7489 211.361)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 85.7439 211.357)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 ketopentose</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.028 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.03 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 882.678 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 882.68 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.853 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.854 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 CH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 911.777 332.073)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 911.778 332.07)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 917.752 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 917.753 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 936.625 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 936.626 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 941.977 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 941.979 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 960.185 328.113)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 960.186 328.11)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 5-Hydroxymethyl</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.028 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.03 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 873.381 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 873.382 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 878.733 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 878.735 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 884.086 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 884.087 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 889.438 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 889.44 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.791 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.792 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 900.143 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 900.145 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 905.496 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 905.497 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.848 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 910.85 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 916.201 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 916.202 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 921.553 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 921.555 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 926.906 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 926.907 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 932.258 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 932.26 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 937.611 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 937.612 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 942.963 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 942.965 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 948.316 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 948.317 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 953.668 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 953.67 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 959.021 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 959.022 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 964.373 345.98)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 964.375 345.977)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 Furfural</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.028 363.848)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 868.03 363.845)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 882.678 363.848)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 882.68 363.845)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.853 363.848)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 894.854 363.845)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 908.915 363.848)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 908.916 363.845)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 927.122 363.848)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 927.124 363.845)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 Furfural</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 532.469 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 532.47 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 547.119 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 547.12 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 559.293 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 559.294 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 CH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 576.217 363.748)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 576.218 363.75)" font-style="normal" font-weight="normal" font-size="210px" font-family="Chalkboard" >
 2</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 582.192 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 582.193 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 OH</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 601.065 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 601.066 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
  </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 606.418 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 606.419 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 624.625 359.788)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 624.626 359.79)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 red</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 532.469 377.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 532.47 377.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 G </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 547.119 377.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 547.12 377.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 = </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 559.293 377.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 559.294 377.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 H </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 573.355 377.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 573.356 377.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 -&gt; </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 591.563 377.656)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 591.564 377.657)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 blue-green</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 734.399 236.057)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 734.4 236.06)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 2 </text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 747.718 236.057)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
+<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 747.719 236.06)" font-style="normal" font-weight="normal" font-size="280px" font-family="Chalkboard" >
 X</text>
 </svg>
